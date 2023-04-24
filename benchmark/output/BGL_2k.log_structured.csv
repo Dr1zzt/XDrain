@@ -1,0 +1,2001 @@
+,EventTemplate
+0,instruction cache parity error corrected
+1,instruction cache parity error corrected
+2,instruction cache parity error corrected
+3,instruction cache parity error corrected
+4,<*> double-hummer alignment exceptions
+5,<*> double-hummer alignment exceptions
+6,<*> double-hummer alignment exceptions
+7,CE sym <*> at <*> mask <*>
+8,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+9,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+10,CE sym <*> at <*> mask <*>
+11,generating <*>
+12,generating <*>
+13,generating <*>
+14,generating <*>
+15,generating <*>
+16,generating <*>
+17,generating <*>
+18,generating <*>
+19,generating <*>
+20,generating <*>
+21,generating <*>
+22,generating <*>
+23,generating <*>
+24,generating <*>
+25,generating <*>
+26,generating <*>
+27,generating <*>
+28,generating <*>
+29,generating <*>
+30,generating <*>
+31,force load/store alignment...............0
+32,generating <*>
+33,generating <*>
+34,generating <*>
+35,generating <*>
+36,generating <*>
+37,generating <*>
+38,generating <*>
+39,generating <*>
+40,generating <*>
+41,generating <*>
+42,generating <*>
+43,generating <*>
+44,generating <*>
+45,generating <*>
+46,generating <*>
+47,generating <*>
+48,generating <*>
+49,generating <*>
+50,generating <*>
+51,generating <*>
+52,generating <*>
+53,generating <*>
+54,generating <*>
+55,generating <*>
+56,CE sym <*> at <*> mask <*>
+57,CE sym <*> at <*> mask <*>
+58,instruction cache parity error corrected
+59,instruction cache parity error corrected
+60,instruction cache parity error corrected
+61,instruction cache parity error corrected
+62,instruction cache parity error corrected
+63,instruction cache parity error corrected
+64,instruction cache parity error corrected
+65,instruction cache parity error corrected
+66,generating <*>
+67,generating <*>
+68,ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff
+69,generating <*>
+70,generating <*>
+71,generating <*>
+72,generating <*>
+73,generating <*>
+74,generating <*>
+75,generating <*>
+76,generating <*>
+77,generating <*>
+78,generating <*>
+79,generating <*>
+80,generating <*>
+81,generating <*>
+82,generating <*>
+83,generating <*>
+84,ciod: LOGIN <*> failed: No such file or directory
+85,generating <*>
+86,generating <*>
+87,CE sym <*> at <*> mask <*>
+88,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+89,CE sym <*> at <*> mask <*>
+90,generating <*>
+91,generating <*>
+92,generating <*>
+93,generating <*>
+94,generating <*>
+95,generating <*>
+96,generating <*>
+97,CE sym <*> at <*> mask <*>
+98,generating <*>
+99,generating <*>
+100,CE sym <*> at <*> mask <*>
+101,generating <*>
+102,generating <*>
+103,data TLB error interrupt
+104,data TLB error interrupt
+105,data TLB error interrupt
+106,data TLB error interrupt
+107,data TLB error interrupt
+108,data TLB error interrupt
+109,data TLB error interrupt
+110,data TLB error interrupt
+111,data TLB error interrupt
+112,data TLB error interrupt
+113,data TLB error interrupt
+114,data TLB error interrupt
+115,data TLB error interrupt
+116,data TLB error interrupt
+117,data TLB error interrupt
+118,data TLB error interrupt
+119,data TLB error interrupt
+120,data TLB error interrupt
+121,data TLB error interrupt
+122,data TLB error interrupt
+123,data TLB error interrupt
+124,data TLB error interrupt
+125,data TLB error interrupt
+126,data TLB error interrupt
+127,data TLB error interrupt
+128,data TLB error interrupt
+129,data TLB error interrupt
+130,data TLB error interrupt
+131,data TLB error interrupt
+132,data TLB error interrupt
+133,data TLB error interrupt
+134,data TLB error interrupt
+135,data TLB error interrupt
+136,data TLB error interrupt
+137,data TLB error interrupt
+138,data TLB error interrupt
+139,data TLB error interrupt
+140,data TLB error interrupt
+141,data TLB error interrupt
+142,data TLB error interrupt
+143,data TLB error interrupt
+144,data TLB error interrupt
+145,data TLB error interrupt
+146,data TLB error interrupt
+147,data TLB error interrupt
+148,data TLB error interrupt
+149,data TLB error interrupt
+150,data TLB error interrupt
+151,data TLB error interrupt
+152,data TLB error interrupt
+153,data TLB error interrupt
+154,data TLB error interrupt
+155,data TLB error interrupt
+156,data TLB error interrupt
+157,data TLB error interrupt
+158,data TLB error interrupt
+159,data TLB error interrupt
+160,data TLB error interrupt
+161,data TLB error interrupt
+162,data TLB error interrupt
+163,CE sym <*> at <*> mask <*>
+164,ciod: Message code 0 is not 51 or 4294967295
+165,data storage interrupt
+166,data storage interrupt
+167,data storage interrupt
+168,data storage interrupt
+169,data storage interrupt
+170,data storage interrupt
+171,data storage interrupt
+172,data storage interrupt
+173,instruction address: <*>
+174,instruction address: <*>
+175,instruction address: <*>
+176,instruction address: <*>
+177,instruction address: <*>
+178,instruction address: <*>
+179,instruction address: <*>
+180,generating <*>
+181,generating <*>
+182,generating <*>
+183,generating <*>
+184,generating <*>
+185,data storage interrupt
+186,data storage interrupt
+187,data storage interrupt
+188,data storage interrupt
+189,data storage interrupt
+190,data storage interrupt
+191,data storage interrupt
+192,data storage interrupt
+193,instruction address: <*>
+194,instruction address: <*>
+195,instruction address: <*>
+196,instruction address: <*>
+197,instruction address: <*>
+198,instruction address: <*>
+199,instruction address: <*>
+200,instruction address: <*>
+201,data storage interrupt
+202,instruction address: <*>
+203,instruction address: <*>
+204,data address: 0x00000002
+205,data address: 0x00000002
+206,machine check: i-fetch......................0
+207,machine check: i-fetch......................0
+208,program interrupt: <*> <*>
+209,data storage interrupt
+210,data storage interrupt
+211,data storage interrupt
+212,data storage interrupt
+213,data storage interrupt
+214,instruction address: <*>
+215,data storage interrupt
+216,instruction address: <*>
+217,data storage interrupt
+218,data address: 0x00000002
+219,data storage interrupt
+220,data address: 0x00000002
+221,data address: 0x00000002
+222,data storage interrupt
+223,data address: 0x00000002
+224,machine check: i-fetch......................0
+225,data storage interrupt
+226,data storage interrupt
+227,data storage interrupt
+228,data storage interrupt
+229,data address: 0x00000002
+230,instruction address: <*>
+231,exception syndrome register: <*>
+232,exception syndrome register: <*>
+233,exception syndrome register: <*>
+234,exception syndrome register: <*>
+235,program interrupt: <*> <*>
+236,program interrupt: <*> <*>
+237,data address: 0x00000002
+238,exception syndrome register: <*>
+239,machine check: i-fetch......................0
+240,data store interrupt caused by <*>
+241,machine check: i-fetch......................0
+242,data store interrupt caused by <*>
+243,program interrupt: <*> <*>
+244,program interrupt: <*> <*>
+245,program interrupt: <*> <*>
+246,program interrupt: <*> <*>
+247,program interrupt: <*> <*>
+248,program interrupt: <*> <*>
+249,store operation.............................1
+250,store operation.............................1
+251,machine state register: 0x00002000
+252,data store interrupt caused by <*>
+253,"problem state (0=sup,1=usr).......0"
+254,data store interrupt caused by <*>
+255,data store interrupt caused by <*>
+256,floating point instr. enabled.....1
+257,floating point instr. enabled.....1
+258,floating point instr. enabled.....1
+259,auxiliary processor.........................0
+260,machine check enable..............0
+261,machine check enable..............0
+262,floating pt ex mode <*> enable......0
+263,program interrupt: <*> <*>
+264,debug interrupt enable............0
+265,floating pt ex mode <*> enable......0
+266,byte ordering exception.....................0
+267,byte ordering exception.....................0
+268,data address space................0
+269,data address space................0
+270,program interrupt: <*> <*>
+271,core configuration register: 0x00002000
+272,program interrupt: <*> <*>
+273,program interrupt: fp cr update.............0
+274,guaranteed <*> cache block <*>
+275,guaranteed <*> cache block <*>
+276,program interrupt: fp cr field .............0
+277,program interrupt: fp cr field .............0
+278,program interrupt: fp cr field .............0
+279,guaranteed <*> cache block <*>
+280,program interrupt: fp cr field .............0
+281,force load/store alignment...............0
+282,icache prefetch <*>
+283,machine state register: 0x00002000
+284,machine state register: 0x00002000
+285,icache prefetch <*>
+286,icache prefetch <*>
+287,machine state register: 0x00002000
+288,wait state enable.................0
+289,critical input interrupt enable...0
+290,"problem state (0=sup,1=usr).......0"
+291,"problem state (0=sup,1=usr).......0"
+292,floating point instr. enabled.....1
+293,special purpose registers:
+294,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000
+295,rts internal error
+296,floating pt ex mode <*> enable......0
+297,floating pt ex mode <*> enable......0
+298,debug wait enable.................0
+299,floating pt ex mode <*> enable......0
+300,instruction address space.........0
+301,data address space................0
+302,data address space................0
+303,data address space................0
+304,core configuration register: 0x00002000
+305,core configuration register: 0x00002000
+306,core configuration register: 0x00002000
+307,core configuration register: 0x00002000
+308,core configuration register: 0x00002000
+309,core configuration register: 0x00002000
+310,disable store gathering..................0
+311,disable store gathering..................0
+312,disable store gathering..................0
+313,generating <*>
+314,total of <*> ddr error(s) detected and corrected
+315,generating <*>
+316,instruction cache parity error corrected
+317,instruction cache parity error corrected
+318,instruction cache parity error corrected
+319,instruction cache parity error corrected
+320,instruction cache parity error corrected
+321,instruction cache parity error corrected
+322,generating <*>
+323,generating <*>
+324,generating <*>
+325,instruction cache parity error corrected
+326,instruction cache parity error corrected
+327,instruction cache parity error corrected
+328,instruction cache parity error corrected
+329,instruction cache parity error corrected
+330,instruction cache parity error corrected
+331,instruction cache parity error corrected
+332,generating <*>
+333,instruction cache parity error corrected
+334,instruction cache parity error corrected
+335,generating <*>
+336,generating <*>
+337,generating <*>
+338,generating <*>
+339,generating <*>
+340,generating <*>
+341,generating <*>
+342,generating <*>
+343,generating <*>
+344,generating <*>
+345,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+346,instruction cache parity error corrected
+347,generating <*>
+348,CE sym <*> at <*> mask <*>
+349,generating <*>
+350,generating <*>
+351,generating <*>
+352,generating <*>
+353,generating <*>
+354,generating <*>
+355,generating <*>
+356,generating <*>
+357,generating <*>
+358,generating <*>
+359,generating <*>
+360,generating <*>
+361,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+362,ciod: Error creating node map from file <*> <*> <*> <*>
+363,CE sym <*> at <*> mask <*>
+364,generating <*>
+365,generating <*>
+366,generating <*>
+367,generating <*>
+368,generating <*>
+369,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+370,instruction cache parity error corrected
+371,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+372,instruction cache parity error corrected
+373,<*> double-hummer alignment exceptions
+374,<*> double-hummer alignment exceptions
+375,<*> double-hummer alignment exceptions
+376,<*> double-hummer alignment exceptions
+377,<*> double-hummer alignment exceptions
+378,<*> double-hummer alignment exceptions
+379,<*> double-hummer alignment exceptions
+380,<*> double-hummer alignment exceptions
+381,<*> double-hummer alignment exceptions
+382,<*> double-hummer alignment exceptions
+383,CE sym <*> at <*> mask <*>
+384,CE sym <*> at <*> mask <*>
+385,CE sym <*> at <*> mask <*>
+386,<*> double-hummer alignment exceptions
+387,<*> double-hummer alignment exceptions
+388,<*> double-hummer alignment exceptions
+389,<*> double-hummer alignment exceptions
+390,generating <*>
+391,generating <*>
+392,generating <*>
+393,generating <*>
+394,generating <*>
+395,generating <*>
+396,generating <*>
+397,generating <*>
+398,generating <*>
+399,generating <*>
+400,generating <*>
+401,generating <*>
+402,generating <*>
+403,generating <*>
+404,generating <*>
+405,generating <*>
+406,generating <*>
+407,generating <*>
+408,generating <*>
+409,generating <*>
+410,generating <*>
+411,generating <*>
+412,generating <*>
+413,generating <*>
+414,generating <*>
+415,generating <*>
+416,generating <*>
+417,generating <*>
+418,generating <*>
+419,generating <*>
+420,generating <*>
+421,generating <*>
+422,generating <*>
+423,generating <*>
+424,generating <*>
+425,generating <*>
+426,generating <*>
+427,generating <*>
+428,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+429,CE sym <*> at <*> mask <*>
+430,instruction cache parity error corrected
+431,generating <*>
+432,program interrupt
+433,generating <*>
+434,program interrupt: <*> <*>
+435,program interrupt: <*> <*>
+436,program interrupt: <*> <*>
+437,data store interrupt caused by <*>
+438,data store interrupt caused by <*>
+439,data store interrupt caused by <*>
+440,auxiliary processor.........................0
+441,auxiliary processor.........................0
+442,auxiliary processor.........................0
+443,program interrupt: <*> <*>
+444,program interrupt: <*> <*>
+445,program interrupt: <*> <*>
+446,generating <*>
+447,program interrupt
+448,program interrupt
+449,instruction address: <*>
+450,exception syndrome register: <*>
+451,program interrupt: <*> <*>
+452,program interrupt: <*> <*>
+453,data store interrupt caused by <*>
+454,data store interrupt caused by <*>
+455,auxiliary processor.........................0
+456,CE sym <*> at <*> mask <*>
+457,Node card is not fully functional
+458,CE sym <*> at <*> mask <*>
+459,generating <*>
+460,generating <*>
+461,generating <*>
+462,generating <*>
+463,generating <*>
+464,generating <*>
+465,generating <*>
+466,generating <*>
+467,generating <*>
+468,<*> double-hummer alignment exceptions
+469,<*> double-hummer alignment exceptions
+470,<*> double-hummer alignment exceptions
+471,generating <*>
+472,generating <*>
+473,generating <*>
+474,generating <*>
+475,generating <*>
+476,generating <*>
+477,generating <*>
+478,generating <*>
+479,generating <*>
+480,generating <*>
+481,generating <*>
+482,generating <*>
+483,generating <*>
+484,generating <*>
+485,generating <*>
+486,generating <*>
+487,generating <*>
+488,generating <*>
+489,generating <*>
+490,generating <*>
+491,generating <*>
+492,generating <*>
+493,generating <*>
+494,generating <*>
+495,CE sym <*> at <*> mask <*>
+496,ciod: Error creating node map from file <*> <*> <*> <*>
+497,CE sym <*> at <*> mask <*>
+498,CE sym <*> at <*> mask <*>
+499,generating <*>
+500,generating <*>
+501,generating <*>
+502,generating <*>
+503,generating <*>
+504,generating <*>
+505,generating <*>
+506,generating <*>
+507,generating <*>
+508,generating <*>
+509,generating <*>
+510,generating <*>
+511,generating <*>
+512,generating <*>
+513,generating <*>
+514,generating <*>
+515,generating <*>
+516,generating <*>
+517,generating <*>
+518,generating <*>
+519,generating <*>
+520,generating <*>
+521,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+522,Can not get assembly information for node card
+523,<*> double-hummer alignment exceptions
+524,<*> double-hummer alignment exceptions
+525,<*> double-hummer alignment exceptions
+526,<*> double-hummer alignment exceptions
+527,<*> double-hummer alignment exceptions
+528,<*> double-hummer alignment exceptions
+529,<*> double-hummer alignment exceptions
+530,<*> double-hummer alignment exceptions
+531,<*> double-hummer alignment exceptions
+532,<*> double-hummer alignment exceptions
+533,<*> double-hummer alignment exceptions
+534,<*> double-hummer alignment exceptions
+535,<*> double-hummer alignment exceptions
+536,<*> double-hummer alignment exceptions
+537,<*> double-hummer alignment exceptions
+538,<*> double-hummer alignment exceptions
+539,<*> double-hummer alignment exceptions
+540,<*> double-hummer alignment exceptions
+541,<*> double-hummer alignment exceptions
+542,<*> double-hummer alignment exceptions
+543,<*> double-hummer alignment exceptions
+544,<*> double-hummer alignment exceptions
+545,<*> double-hummer alignment exceptions
+546,<*> double-hummer alignment exceptions
+547,<*> double-hummer alignment exceptions
+548,<*> double-hummer alignment exceptions
+549,<*> double-hummer alignment exceptions
+550,<*> double-hummer alignment exceptions
+551,<*> double-hummer alignment exceptions
+552,<*> double-hummer alignment exceptions
+553,<*> double-hummer alignment exceptions
+554,<*> double-hummer alignment exceptions
+555,<*> double-hummer alignment exceptions
+556,<*> double-hummer alignment exceptions
+557,<*> double-hummer alignment exceptions
+558,generating <*>
+559,generating <*>
+560,generating <*>
+561,generating <*>
+562,generating <*>
+563,generating <*>
+564,generating <*>
+565,generating <*>
+566,generating <*>
+567,generating <*>
+568,generating <*>
+569,generating <*>
+570,generating <*>
+571,generating <*>
+572,generating <*>
+573,generating <*>
+574,generating <*>
+575,generating <*>
+576,generating <*>
+577,generating <*>
+578,generating <*>
+579,generating <*>
+580,generating <*>
+581,generating <*>
+582,generating <*>
+583,generating <*>
+584,generating <*>
+585,generating <*>
+586,generating <*>
+587,generating <*>
+588,generating <*>
+589,generating <*>
+590,generating <*>
+591,generating <*>
+592,generating <*>
+593,generating <*>
+594,generating <*>
+595,generating <*>
+596,ciod: Missing or invalid fields on line 1 of node map file <*>
+597,<*> torus receiver <*> input pipe error(s) (dcr <*> detected and corrected
+598,generating <*>
+599,generating <*>
+600,generating <*>
+601,generating <*>
+602,generating <*>
+603,generating <*>
+604,generating <*>
+605,generating <*>
+606,generating <*>
+607,generating <*>
+608,<*> double-hummer alignment exceptions
+609,<*> double-hummer alignment exceptions
+610,<*> double-hummer alignment exceptions
+611,<*> double-hummer alignment exceptions
+612,generating <*>
+613,generating <*>
+614,generating <*>
+615,generating <*>
+616,generating <*>
+617,generating <*>
+618,generating <*>
+619,generating <*>
+620,Node card is not fully functional
+621,ciod: <*> <*> <*> <*> <*> <*> <*> at line <*> of node map file <*>
+622,ciod: Error creating node map from file <*> <*> <*> <*>
+623,generating <*>
+624,generating <*>
+625,generating <*>
+626,generating <*>
+627,generating <*>
+628,generating <*>
+629,generating <*>
+630,generating <*>
+631,generating <*>
+632,generating <*>
+633,generating <*>
+634,generating <*>
+635,generating <*>
+636,generating <*>
+637,generating <*>
+638,generating <*>
+639,generating <*>
+640,generating <*>
+641,generating <*>
+642,generating <*>
+643,generating <*>
+644,generating <*>
+645,generating <*>
+646,generating <*>
+647,generating <*>
+648,generating <*>
+649,generating <*>
+650,generating <*>
+651,generating <*>
+652,generating <*>
+653,generating <*>
+654,generating <*>
+655,generating <*>
+656,generating <*>
+657,generating <*>
+658,generating <*>
+659,generating <*>
+660,generating <*>
+661,generating <*>
+662,generating <*>
+663,generating <*>
+664,generating <*>
+665,generating <*>
+666,generating <*>
+667,generating <*>
+668,generating <*>
+669,generating <*>
+670,generating <*>
+671,generating <*>
+672,generating <*>
+673,generating <*>
+674,generating <*>
+675,generating <*>
+676,generating <*>
+677,generating <*>
+678,generating <*>
+679,generating <*>
+680,generating <*>
+681,generating <*>
+682,generating <*>
+683,generating <*>
+684,generating <*>
+685,generating <*>
+686,generating <*>
+687,generating <*>
+688,generating <*>
+689,generating <*>
+690,generating <*>
+691,generating <*>
+692,generating <*>
+693,generating <*>
+694,generating <*>
+695,generating <*>
+696,generating <*>
+697,generating <*>
+698,generating <*>
+699,generating <*>
+700,generating <*>
+701,generating <*>
+702,generating <*>
+703,generating <*>
+704,generating <*>
+705,generating <*>
+706,generating <*>
+707,generating <*>
+708,generating <*>
+709,generating <*>
+710,generating <*>
+711,generating <*>
+712,generating <*>
+713,generating <*>
+714,generating <*>
+715,generating <*>
+716,generating <*>
+717,generating <*>
+718,generating <*>
+719,generating <*>
+720,generating <*>
+721,generating <*>
+722,generating <*>
+723,generating <*>
+724,generating <*>
+725,generating <*>
+726,generating <*>
+727,generating <*>
+728,generating <*>
+729,generating <*>
+730,generating <*>
+731,generating <*>
+732,generating <*>
+733,generating <*>
+734,generating <*>
+735,generating <*>
+736,generating <*>
+737,generating <*>
+738,generating <*>
+739,generating <*>
+740,generating <*>
+741,generating <*>
+742,generating <*>
+743,generating <*>
+744,generating <*>
+745,generating <*>
+746,generating <*>
+747,generating <*>
+748,generating <*>
+749,generating <*>
+750,generating <*>
+751,<*> double-hummer alignment exceptions
+752,<*> double-hummer alignment exceptions
+753,<*> double-hummer alignment exceptions
+754,generating <*>
+755,generating <*>
+756,generating <*>
+757,generating <*>
+758,generating <*>
+759,generating <*>
+760,generating <*>
+761,generating <*>
+762,generating <*>
+763,generating <*>
+764,generating <*>
+765,generating <*>
+766,generating <*>
+767,generating <*>
+768,generating <*>
+769,generating <*>
+770,generating <*>
+771,generating <*>
+772,generating <*>
+773,generating <*>
+774,generating <*>
+775,generating <*>
+776,generating <*>
+777,generating <*>
+778,generating <*>
+779,generating <*>
+780,generating <*>
+781,generating <*>
+782,generating <*>
+783,generating <*>
+784,generating <*>
+785,generating <*>
+786,generating <*>
+787,generating <*>
+788,generating <*>
+789,generating <*>
+790,generating <*>
+791,generating <*>
+792,generating <*>
+793,generating <*>
+794,generating <*>
+795,generating <*>
+796,generating <*>
+797,generating <*>
+798,generating <*>
+799,generating <*>
+800,generating <*>
+801,generating <*>
+802,generating <*>
+803,generating <*>
+804,generating <*>
+805,generating <*>
+806,generating <*>
+807,generating <*>
+808,generating <*>
+809,generating <*>
+810,generating <*>
+811,generating <*>
+812,generating <*>
+813,generating <*>
+814,generating <*>
+815,generating <*>
+816,generating <*>
+817,generating <*>
+818,generating <*>
+819,generating <*>
+820,CE sym <*> at <*> mask <*>
+821,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+822,rts panic! - stopping execution
+823,rts panic! - stopping execution
+824,generating <*>
+825,generating <*>
+826,generating <*>
+827,generating <*>
+828,generating <*>
+829,generating <*>
+830,generating <*>
+831,generating <*>
+832,generating <*>
+833,generating <*>
+834,generating <*>
+835,generating <*>
+836,generating <*>
+837,total of <*> ddr error(s) detected and corrected
+838,<*> double-hummer alignment exceptions
+839,<*> double-hummer alignment exceptions
+840,<*> double-hummer alignment exceptions
+841,<*> double-hummer alignment exceptions
+842,<*> double-hummer alignment exceptions
+843,<*> double-hummer alignment exceptions
+844,<*> double-hummer alignment exceptions
+845,<*> double-hummer alignment exceptions
+846,<*> double-hummer alignment exceptions
+847,<*> double-hummer alignment exceptions
+848,<*> double-hummer alignment exceptions
+849,<*> double-hummer alignment exceptions
+850,<*> double-hummer alignment exceptions
+851,<*> double-hummer alignment exceptions
+852,<*> double-hummer alignment exceptions
+853,<*> double-hummer alignment exceptions
+854,<*> double-hummer alignment exceptions
+855,<*> double-hummer alignment exceptions
+856,<*> double-hummer alignment exceptions
+857,generating <*>
+858,generating <*>
+859,generating <*>
+860,generating <*>
+861,generating <*>
+862,generating <*>
+863,generating <*>
+864,generating <*>
+865,generating <*>
+866,generating <*>
+867,generating <*>
+868,generating <*>
+869,generating <*>
+870,CE sym <*> at <*> mask <*>
+871,generating <*>
+872,generating <*>
+873,generating <*>
+874,generating <*>
+875,generating <*>
+876,generating <*>
+877,generating <*>
+878,generating <*>
+879,generating <*>
+880,generating <*>
+881,generating <*>
+882,generating <*>
+883,generating <*>
+884,generating <*>
+885,generating <*>
+886,generating <*>
+887,generating <*>
+888,generating <*>
+889,generating <*>
+890,generating <*>
+891,generating <*>
+892,generating <*>
+893,generating <*>
+894,generating <*>
+895,generating <*>
+896,generating <*>
+897,generating <*>
+898,generating <*>
+899,generating <*>
+900,generating <*>
+901,generating <*>
+902,generating <*>
+903,generating <*>
+904,generating <*>
+905,generating <*>
+906,generating <*>
+907,generating <*>
+908,generating <*>
+909,generating <*>
+910,generating <*>
+911,generating <*>
+912,generating <*>
+913,generating <*>
+914,generating <*>
+915,generating <*>
+916,generating <*>
+917,generating <*>
+918,generating <*>
+919,generating <*>
+920,generating <*>
+921,generating <*>
+922,generating <*>
+923,generating <*>
+924,generating <*>
+925,generating <*>
+926,generating <*>
+927,generating <*>
+928,generating <*>
+929,generating <*>
+930,generating <*>
+931,generating <*>
+932,generating <*>
+933,generating <*>
+934,generating <*>
+935,generating <*>
+936,generating <*>
+937,generating <*>
+938,generating <*>
+939,generating <*>
+940,generating <*>
+941,generating <*>
+942,generating <*>
+943,generating <*>
+944,generating <*>
+945,ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied
+946,ciod: <*> <*> <*> <*> <*> <*> <*> at line <*> of node map file <*>
+947,generating <*>
+948,generating <*>
+949,generating <*>
+950,generating <*>
+951,generating <*>
+952,generating <*>
+953,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+954,generating <*>
+955,generating <*>
+956,generating <*>
+957,generating <*>
+958,generating <*>
+959,generating <*>
+960,generating <*>
+961,generating <*>
+962,generating <*>
+963,generating <*>
+964,generating <*>
+965,generating <*>
+966,generating <*>
+967,generating <*>
+968,generating <*>
+969,generating <*>
+970,generating <*>
+971,generating <*>
+972,generating <*>
+973,generating <*>
+974,generating <*>
+975,generating <*>
+976,generating <*>
+977,generating <*>
+978,generating <*>
+979,generating <*>
+980,generating <*>
+981,generating <*>
+982,generating <*>
+983,generating <*>
+984,generating <*>
+985,generating <*>
+986,generating <*>
+987,generating <*>
+988,generating <*>
+989,generating <*>
+990,generating <*>
+991,generating <*>
+992,generating <*>
+993,generating <*>
+994,generating <*>
+995,generating <*>
+996,generating <*>
+997,generating <*>
+998,generating <*>
+999,generating <*>
+1000,generating <*>
+1001,generating <*>
+1002,generating <*>
+1003,generating <*>
+1004,generating <*>
+1005,generating <*>
+1006,generating <*>
+1007,generating <*>
+1008,generating <*>
+1009,generating <*>
+1010,generating <*>
+1011,generating <*>
+1012,generating <*>
+1013,generating <*>
+1014,generating <*>
+1015,generating <*>
+1016,generating <*>
+1017,generating <*>
+1018,generating <*>
+1019,generating <*>
+1020,generating <*>
+1021,generating <*>
+1022,generating <*>
+1023,generating <*>
+1024,generating <*>
+1025,generating <*>
+1026,generating <*>
+1027,generating <*>
+1028,generating <*>
+1029,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015"
+1030,debug wait enable.................0
+1031,generating <*>
+1032,<*> floating point alignment exceptions
+1033,<*> floating point alignment exceptions
+1034,<*> floating point alignment exceptions
+1035,<*> floating point alignment exceptions
+1036,<*> floating point alignment exceptions
+1037,<*> floating point alignment exceptions
+1038,<*> floating point alignment exceptions
+1039,<*> floating point alignment exceptions
+1040,<*> floating point alignment exceptions
+1041,<*> floating point alignment exceptions
+1042,<*> floating point alignment exceptions
+1043,<*> floating point alignment exceptions
+1044,<*> floating point alignment exceptions
+1045,<*> floating point alignment exceptions
+1046,<*> floating point alignment exceptions
+1047,<*> floating point alignment exceptions
+1048,<*> floating point alignment exceptions
+1049,<*> floating point alignment exceptions
+1050,<*> floating point alignment exceptions
+1051,<*> floating point alignment exceptions
+1052,<*> floating point alignment exceptions
+1053,<*> floating point alignment exceptions
+1054,<*> floating point alignment exceptions
+1055,<*> floating point alignment exceptions
+1056,<*> floating point alignment exceptions
+1057,<*> floating point alignment exceptions
+1058,<*> floating point alignment exceptions
+1059,<*> floating point alignment exceptions
+1060,<*> floating point alignment exceptions
+1061,<*> floating point alignment exceptions
+1062,<*> floating point alignment exceptions
+1063,<*> floating point alignment exceptions
+1064,<*> floating point alignment exceptions
+1065,<*> floating point alignment exceptions
+1066,<*> floating point alignment exceptions
+1067,<*> floating point alignment exceptions
+1068,<*> floating point alignment exceptions
+1069,total of <*> ddr error(s) detected and corrected
+1070,generating <*>
+1071,generating <*>
+1072,generating <*>
+1073,generating <*>
+1074,generating <*>
+1075,generating <*>
+1076,generating <*>
+1077,generating <*>
+1078,generating <*>
+1079,generating <*>
+1080,<*> floating point alignment exceptions
+1081,<*> floating point alignment exceptions
+1082,<*> floating point alignment exceptions
+1083,<*> floating point alignment exceptions
+1084,generating <*>
+1085,generating <*>
+1086,generating <*>
+1087,generating <*>
+1088,generating <*>
+1089,generating <*>
+1090,generating <*>
+1091,generating <*>
+1092,generating <*>
+1093,generating <*>
+1094,generating <*>
+1095,generating <*>
+1096,generating <*>
+1097,generating <*>
+1098,generating <*>
+1099,<*> floating point alignment exceptions
+1100,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1101,total of <*> ddr error(s) detected and corrected
+1102,<*> floating point alignment exceptions
+1103,<*> floating point alignment exceptions
+1104,<*> floating point alignment exceptions
+1105,<*> floating point alignment exceptions
+1106,<*> floating point alignment exceptions
+1107,<*> floating point alignment exceptions
+1108,<*> floating point alignment exceptions
+1109,<*> floating point alignment exceptions
+1110,<*> floating point alignment exceptions
+1111,<*> floating point alignment exceptions
+1112,<*> floating point alignment exceptions
+1113,<*> floating point alignment exceptions
+1114,generating <*>
+1115,generating <*>
+1116,<*> floating point alignment exceptions
+1117,<*> floating point alignment exceptions
+1118,<*> floating point alignment exceptions
+1119,<*> floating point alignment exceptions
+1120,<*> floating point alignment exceptions
+1121,<*> floating point alignment exceptions
+1122,<*> floating point alignment exceptions
+1123,<*> floating point alignment exceptions
+1124,<*> floating point alignment exceptions
+1125,<*> floating point alignment exceptions
+1126,<*> floating point alignment exceptions
+1127,<*> floating point alignment exceptions
+1128,generating <*>
+1129,generating <*>
+1130,generating <*>
+1131,generating <*>
+1132,generating <*>
+1133,<*> floating point alignment exceptions
+1134,generating <*>
+1135,<*> floating point alignment exceptions
+1136,<*> floating point alignment exceptions
+1137,<*> floating point alignment exceptions
+1138,<*> floating point alignment exceptions
+1139,<*> floating point alignment exceptions
+1140,<*> floating point alignment exceptions
+1141,<*> floating point alignment exceptions
+1142,<*> floating point alignment exceptions
+1143,<*> floating point alignment exceptions
+1144,<*> floating point alignment exceptions
+1145,<*> floating point alignment exceptions
+1146,<*> floating point alignment exceptions
+1147,<*> floating point alignment exceptions
+1148,<*> floating point alignment exceptions
+1149,<*> floating point alignment exceptions
+1150,CE sym <*> at <*> mask <*>
+1151,generating <*>
+1152,generating <*>
+1153,generating <*>
+1154,generating <*>
+1155,generating <*>
+1156,generating <*>
+1157,generating <*>
+1158,generating <*>
+1159,generating <*>
+1160,generating <*>
+1161,generating <*>
+1162,generating <*>
+1163,generating <*>
+1164,generating <*>
+1165,generating <*>
+1166,generating <*>
+1167,generating <*>
+1168,generating <*>
+1169,generating <*>
+1170,generating <*>
+1171,generating <*>
+1172,generating <*>
+1173,generating <*>
+1174,generating <*>
+1175,generating <*>
+1176,generating <*>
+1177,generating <*>
+1178,generating <*>
+1179,generating <*>
+1180,generating <*>
+1181,generating <*>
+1182,generating <*>
+1183,generating <*>
+1184,generating <*>
+1185,generating <*>
+1186,generating <*>
+1187,generating <*>
+1188,generating <*>
+1189,generating <*>
+1190,generating <*>
+1191,generating <*>
+1192,generating <*>
+1193,generating <*>
+1194,generating <*>
+1195,generating <*>
+1196,generating <*>
+1197,generating <*>
+1198,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1199,New ido chip inserted into the database: <*> <*> <*> <*>
+1200,New ido chip inserted into the database: <*> <*> <*> <*>
+1201,NodeCard is not fully functional
+1202,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK."
+1203,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1204,Can not get assembly information for node card
+1205,New ido chip inserted into the database: <*> <*> <*> <*>
+1206,Can not get assembly information for node card
+1207,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1208,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1209,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1210,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1211,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1212,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1213,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1214,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1215,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1216,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1217,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1218,Node card is not fully functional
+1219,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1220,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+1221,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+1222,CE sym <*> at <*> mask <*>
+1223,"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310"
+1224,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+1225,Can not get assembly information for node card
+1226,Can not get assembly information for node card
+1227,Node card is not fully functional
+1228,Can not get assembly information for node card
+1229,Node card is not fully functional
+1230,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1231,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+1232,CE sym <*> at <*> mask <*>
+1233,<*> tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1234,total of <*> ddr error(s) detected and corrected
+1235,CE sym <*> at <*> mask <*>
+1236,CE sym <*> at <*> mask <*>
+1237,CE sym <*> at <*> mask <*>
+1238,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1239,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1240,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1241,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1242,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1243,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1244,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1245,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1246,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1247,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1248,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1249,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1250,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1251,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1252,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1253,ciod: LOGIN <*> failed: No such file or directory
+1254,ciod: LOGIN <*> failed: No such file or directory
+1255,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1256,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1257,ciod: Missing or invalid fields on line 1 of node map file <*>
+1258,rts: kernel terminated for reason <*>
+1259,rts: kernel terminated for reason <*>
+1260,CE sym <*> at <*> mask <*>
+1261,total of <*> ddr error(s) detected and corrected
+1262,ciod: LOGIN <*> failed: No such file or directory
+1263,ciod: generated <*> core files for program <*>
+1264,ciod: generated <*> core files for program <*>
+1265,ciod: generated <*> core files for program <*>
+1266,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1267,ciod: generated <*> core files for program <*>
+1268,ciod: generated <*> core files for program <*>
+1269,CE sym <*> at <*> mask <*>
+1270,CE sym <*> at <*> mask <*>
+1271,ciod: LOGIN <*> failed: No such file or directory
+1272,ciod: generated <*> core files for program <*>
+1273,ciod: generated <*> core files for program <*>
+1274,ciod: generated <*> core files for program <*>
+1275,ciod: generated <*> core files for program <*>
+1276,ciod: generated <*> core files for program <*>
+1277,ciod: generated <*> core files for program <*>
+1278,ciod: LOGIN <*> failed: No such file or directory
+1279,ciod: generated <*> core files for program <*>
+1280,ciod: generated <*> core files for program <*>
+1281,total of <*> ddr error(s) detected and corrected
+1282,iar <*> dear <*>
+1283,iar <*> dear <*>
+1284,iar <*> dear <*>
+1285,iar <*> dear <*>
+1286,<*> double-hummer alignment exceptions
+1287,<*> double-hummer alignment exceptions
+1288,iar <*> dear <*>
+1289,iar <*> dear <*>
+1290,<*> double-hummer alignment exceptions
+1291,iar <*> dear <*>
+1292,iar <*> dear <*>
+1293,iar <*> dear <*>
+1294,iar <*> dear <*>
+1295,iar <*> dear <*>
+1296,iar <*> dear <*>
+1297,iar <*> dear <*>
+1298,iar <*> dear <*>
+1299,iar <*> dear <*>
+1300,<*> double-hummer alignment exceptions
+1301,iar <*> dear <*>
+1302,iar <*> dear <*>
+1303,iar <*> dear <*>
+1304,iar <*> dear <*>
+1305,<*> double-hummer alignment exceptions
+1306,iar <*> dear <*>
+1307,iar <*> dear <*>
+1308,iar <*> dear <*>
+1309,iar <*> dear <*>
+1310,iar <*> dear <*>
+1311,iar <*> dear <*>
+1312,iar <*> dear <*>
+1313,iar <*> dear <*>
+1314,<*> double-hummer alignment exceptions
+1315,<*> double-hummer alignment exceptions
+1316,<*> double-hummer alignment exceptions
+1317,iar <*> dear <*>
+1318,iar <*> dear <*>
+1319,iar <*> dear <*>
+1320,iar <*> dear <*>
+1321,iar <*> dear <*>
+1322,iar <*> dear <*>
+1323,iar <*> dear <*>
+1324,iar <*> dear <*>
+1325,iar <*> dear <*>
+1326,CE sym <*> at <*> mask <*>
+1327,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1328,CE sym <*> at <*> mask <*>
+1329,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1330,CE sym <*> at <*> mask <*>
+1331,<*> double-hummer alignment exceptions
+1332,<*> double-hummer alignment exceptions
+1333,<*> double-hummer alignment exceptions
+1334,<*> double-hummer alignment exceptions
+1335,iar <*> dear <*>
+1336,iar <*> dear <*>
+1337,iar <*> dear <*>
+1338,<*> double-hummer alignment exceptions
+1339,<*> double-hummer alignment exceptions
+1340,<*> double-hummer alignment exceptions
+1341,<*> double-hummer alignment exceptions
+1342,<*> double-hummer alignment exceptions
+1343,<*> double-hummer alignment exceptions
+1344,<*> double-hummer alignment exceptions
+1345,<*> double-hummer alignment exceptions
+1346,<*> double-hummer alignment exceptions
+1347,<*> double-hummer alignment exceptions
+1348,<*> double-hummer alignment exceptions
+1349,<*> double-hummer alignment exceptions
+1350,<*> double-hummer alignment exceptions
+1351,<*> double-hummer alignment exceptions
+1352,<*> double-hummer alignment exceptions
+1353,<*> double-hummer alignment exceptions
+1354,iar <*> dear <*>
+1355,iar <*> dear <*>
+1356,iar <*> dear <*>
+1357,iar <*> dear <*>
+1358,iar <*> dear <*>
+1359,iar <*> dear <*>
+1360,iar <*> dear <*>
+1361,iar <*> dear <*>
+1362,iar <*> dear <*>
+1363,iar <*> dear <*>
+1364,iar <*> dear <*>
+1365,iar <*> dear <*>
+1366,iar <*> dear <*>
+1367,iar <*> dear <*>
+1368,iar <*> dear <*>
+1369,iar <*> dear <*>
+1370,"NFS Mount failed on <*> slept 15 seconds, retrying (1)"
+1371,"NFS Mount failed on <*> slept 15 seconds, retrying (1)"
+1372,CE sym <*> at <*> mask <*>
+1373,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1374,ciod: generated <*> core files for program <*>
+1375,CE sym <*> at <*> mask <*>
+1376,Lustre mount FAILED : <*> : point /p/gb1
+1377,Lustre mount FAILED : <*> : point /p/gb1
+1378,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1379,ciod: LOGIN <*> failed: No such file or directory
+1380,Lustre mount FAILED : <*> : point /p/gb1
+1381,Lustre mount FAILED : <*> : point /p/gb1
+1382,Lustre mount FAILED : <*> : point /p/gb1
+1383,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1384,<*> torus receiver <*> input pipe error(s) (dcr <*> detected and corrected
+1385,ciod: LOGIN <*> failed: No such file or directory
+1386,Lustre mount FAILED : <*> : point /p/gb1
+1387,CE sym <*> at <*> mask <*>
+1388,CE sym <*> at <*> mask <*>
+1389,Lustre mount FAILED : <*> : point /p/gb1
+1390,CE sym <*> at <*> mask <*>
+1391,Lustre mount FAILED : <*> : point /p/gb1
+1392,ciod: pollControlDescriptors: Detected the debugger died.
+1393,"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)"
+1394,<*> torus receiver <*> input pipe error(s) (dcr <*> detected and corrected
+1395,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1396,CE sym <*> at <*> mask <*>
+1397,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1398,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1399,suppressing further interrupts of same type
+1400,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1401,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1402,total of <*> ddr error(s) detected and corrected
+1403,Lustre mount FAILED : <*> : point /p/gb1
+1404,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1405,CE sym <*> at <*> mask <*>
+1406,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+1407,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1408,CE sym <*> at <*> mask <*>
+1409,ciod: LOGIN <*> failed: No such file or directory
+1410,ciod: LOGIN <*> failed: No such file or directory
+1411,CE sym <*> at <*> mask <*>
+1412,ciod: LOGIN <*> failed: No such file or directory
+1413,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1414,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1415,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1416,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1417,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1418,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1419,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1420,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1421,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1422,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1423,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1424,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1425,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1426,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1427,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1428,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1429,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1430,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1431,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1432,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1433,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1434,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1435,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1436,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1437,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1438,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1439,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1440,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1441,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1442,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1443,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1444,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1445,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1446,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1447,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1448,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1449,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1450,ciod: LOGIN <*> failed: No such file or directory
+1451,ciod: LOGIN <*> failed: No such file or directory
+1452,ciod: LOGIN <*> failed: No such file or directory
+1453,ciod: LOGIN <*> failed: No such file or directory
+1454,ciod: LOGIN <*> failed: No such file or directory
+1455,CE sym <*> at <*> mask <*>
+1456,total of <*> ddr error(s) detected and corrected
+1457,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1458,CE sym <*> at <*> mask <*>
+1459,total of <*> ddr error(s) detected and corrected
+1460,CE sym <*> at <*> mask <*>
+1461,CE sym <*> at <*> mask <*>
+1462,CE sym <*> at <*> mask <*>
+1463,CE sym <*> at <*> mask <*>
+1464,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1465,ciod: generated <*> core files for program <*>
+1466,CE sym <*> at <*> mask <*>
+1467,ciod: generated <*> core files for program <*>
+1468,critical input interrupt (unit=0x0b <*> warning for torus <*> wire
+1469,CE sym <*> at <*> mask <*>
+1470,CE sym <*> at <*> mask <*>
+1471,CE sym <*> at <*> mask <*>
+1472,CE sym <*> at <*> mask <*>
+1473,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1474,CE sym <*> at <*> mask <*>
+1475,ciod: generated <*> core files for program <*>
+1476,CE sym <*> at <*> mask <*>
+1477,CE sym <*> at <*> mask <*>
+1478,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1479,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1480,total of <*> ddr error(s) detected and corrected
+1481,CE sym <*> at <*> mask <*>
+1482,CE sym <*> at <*> mask <*>
+1483,total of <*> ddr error(s) detected and corrected
+1484,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1485,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1486,CE sym <*> at <*> mask <*>
+1487,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1488,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1489,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1490,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1491,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1492,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1493,CE sym <*> at <*> mask <*>
+1494,suppressing further interrupts of same type
+1495,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1496,<*> tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1497,CE sym <*> at <*> mask <*>
+1498,CE sym <*> at <*> mask <*>
+1499,ciod: generated <*> core files for program <*>
+1500,ciod: generated <*> core files for program <*>
+1501,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+1502,data cache search parity error detected. attempting to correct
+1503,data cache search parity error detected. attempting to correct
+1504,data cache search parity error detected. attempting to correct
+1505,data cache search parity error detected. attempting to correct
+1506,data cache search parity error detected. attempting to correct
+1507,data cache search parity error detected. attempting to correct
+1508,CE sym <*> at <*> mask <*>
+1509,CE sym <*> at <*> mask <*>
+1510,shutdown complete
+1511,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1512,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+1513,ciod: generated <*> core files for program <*>
+1514,total of <*> ddr error(s) detected and corrected
+1515,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1516,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1517,critical input interrupt (unit=0x0b <*> warning for torus <*> wire
+1518,<*> tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1519,rts: kernel terminated for reason <*>
+1520,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+1521,CE sym <*> at <*> mask <*>
+1522,CE sym <*> at <*> mask <*>
+1523,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1524,CE sym <*> at <*> mask <*>
+1525,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1526,instruction cache parity error corrected
+1527,CE sym <*> at <*> mask <*>
+1528,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1529,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1530,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1531,iar <*> dear <*>
+1532,<*> floating point alignment exceptions
+1533,<*> floating point alignment exceptions
+1534,iar <*> dear <*>
+1535,iar <*> dear <*>
+1536,iar <*> dear <*>
+1537,iar <*> dear <*>
+1538,iar <*> dear <*>
+1539,iar <*> dear <*>
+1540,iar <*> dear <*>
+1541,<*> floating point alignment exceptions
+1542,iar <*> dear <*>
+1543,iar <*> dear <*>
+1544,iar <*> dear <*>
+1545,iar <*> dear <*>
+1546,iar <*> dear <*>
+1547,iar <*> dear <*>
+1548,iar <*> dear <*>
+1549,iar <*> dear <*>
+1550,iar <*> dear <*>
+1551,iar <*> dear <*>
+1552,iar <*> dear <*>
+1553,iar <*> dear <*>
+1554,iar <*> dear <*>
+1555,<*> floating point alignment exceptions
+1556,<*> floating point alignment exceptions
+1557,<*> floating point alignment exceptions
+1558,iar <*> dear <*>
+1559,iar <*> dear <*>
+1560,iar <*> dear <*>
+1561,iar <*> dear <*>
+1562,iar <*> dear <*>
+1563,iar <*> dear <*>
+1564,iar <*> dear <*>
+1565,iar <*> dear <*>
+1566,iar <*> dear <*>
+1567,iar <*> dear <*>
+1568,iar <*> dear <*>
+1569,iar <*> dear <*>
+1570,iar <*> dear <*>
+1571,iar <*> dear <*>
+1572,iar <*> dear <*>
+1573,iar <*> dear <*>
+1574,iar <*> dear <*>
+1575,<*> floating point alignment exceptions
+1576,<*> floating point alignment exceptions
+1577,iar <*> dear <*>
+1578,iar <*> dear <*>
+1579,iar <*> dear <*>
+1580,iar <*> dear <*>
+1581,iar <*> dear <*>
+1582,iar <*> dear <*>
+1583,iar <*> dear <*>
+1584,iar <*> dear <*>
+1585,iar <*> dear <*>
+1586,iar <*> dear <*>
+1587,iar <*> dear <*>
+1588,iar <*> dear <*>
+1589,iar <*> dear <*>
+1590,iar <*> dear <*>
+1591,<*> floating point alignment exceptions
+1592,iar <*> dear <*>
+1593,iar <*> dear <*>
+1594,iar <*> dear <*>
+1595,iar <*> dear <*>
+1596,iar <*> dear <*>
+1597,iar <*> dear <*>
+1598,iar <*> dear <*>
+1599,<*> floating point alignment exceptions
+1600,<*> floating point alignment exceptions
+1601,<*> floating point alignment exceptions
+1602,<*> floating point alignment exceptions
+1603,<*> floating point alignment exceptions
+1604,<*> floating point alignment exceptions
+1605,<*> floating point alignment exceptions
+1606,<*> floating point alignment exceptions
+1607,<*> floating point alignment exceptions
+1608,<*> floating point alignment exceptions
+1609,<*> floating point alignment exceptions
+1610,<*> floating point alignment exceptions
+1611,<*> floating point alignment exceptions
+1612,<*> floating point alignment exceptions
+1613,<*> floating point alignment exceptions
+1614,<*> floating point alignment exceptions
+1615,<*> floating point alignment exceptions
+1616,iar <*> dear <*>
+1617,iar <*> dear <*>
+1618,iar <*> dear <*>
+1619,iar <*> dear <*>
+1620,iar <*> dear <*>
+1621,iar <*> dear <*>
+1622,iar <*> dear <*>
+1623,iar <*> dear <*>
+1624,iar <*> dear <*>
+1625,iar <*> dear <*>
+1626,iar <*> dear <*>
+1627,iar <*> dear <*>
+1628,iar <*> dear <*>
+1629,iar <*> dear <*>
+1630,iar <*> dear <*>
+1631,iar <*> dear <*>
+1632,iar <*> dear <*>
+1633,iar <*> dear <*>
+1634,iar <*> dear <*>
+1635,iar <*> dear <*>
+1636,iar <*> dear <*>
+1637,<*> floating point alignment exceptions
+1638,iar <*> dear <*>
+1639,iar <*> dear <*>
+1640,iar <*> dear <*>
+1641,iar <*> dear <*>
+1642,iar <*> dear <*>
+1643,iar <*> dear <*>
+1644,iar <*> dear <*>
+1645,<*> floating point alignment exceptions
+1646,<*> floating point alignment exceptions
+1647,iar <*> dear <*>
+1648,iar <*> dear <*>
+1649,iar <*> dear <*>
+1650,iar <*> dear <*>
+1651,iar <*> dear <*>
+1652,iar <*> dear <*>
+1653,<*> floating point alignment exceptions
+1654,iar <*> dear <*>
+1655,iar <*> dear <*>
+1656,iar <*> dear <*>
+1657,iar <*> dear <*>
+1658,iar <*> dear <*>
+1659,iar <*> dear <*>
+1660,<*> floating point alignment exceptions
+1661,iar <*> dear <*>
+1662,iar <*> dear <*>
+1663,iar <*> dear <*>
+1664,<*> floating point alignment exceptions
+1665,iar <*> dear <*>
+1666,iar <*> dear <*>
+1667,iar <*> dear <*>
+1668,iar <*> dear <*>
+1669,iar <*> dear <*>
+1670,iar <*> dear <*>
+1671,iar <*> dear <*>
+1672,ciod: generated <*> core files for program <*>
+1673,iar <*> dear <*>
+1674,iar <*> dear <*>
+1675,iar <*> dear <*>
+1676,iar <*> dear <*>
+1677,iar <*> dear <*>
+1678,<*> floating point alignment exceptions
+1679,iar <*> dear <*>
+1680,iar <*> dear <*>
+1681,iar <*> dear <*>
+1682,<*> floating point alignment exceptions
+1683,<*> floating point alignment exceptions
+1684,<*> floating point alignment exceptions
+1685,iar <*> dear <*>
+1686,iar <*> dear <*>
+1687,iar <*> dear <*>
+1688,CE sym <*> at <*> mask <*>
+1689,instruction cache parity error corrected
+1690,CE sym <*> at <*> mask <*>
+1691,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1692,instruction cache parity error corrected
+1693,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1694,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1695,iar <*> dear <*>
+1696,iar <*> dear <*>
+1697,CE sym <*> at <*> mask <*>
+1698,ciod: generated <*> core files for program <*>
+1699,iar <*> dear <*>
+1700,iar <*> dear <*>
+1701,iar <*> dear <*>
+1702,iar <*> dear <*>
+1703,iar <*> dear <*>
+1704,iar <*> dear <*>
+1705,iar <*> dear <*>
+1706,iar <*> dear <*>
+1707,iar <*> dear <*>
+1708,iar <*> dear <*>
+1709,iar <*> dear <*>
+1710,iar <*> dear <*>
+1711,iar <*> dear <*>
+1712,iar <*> dear <*>
+1713,iar <*> dear <*>
+1714,iar <*> dear <*>
+1715,iar <*> dear <*>
+1716,iar <*> dear <*>
+1717,<*> floating point alignment exceptions
+1718,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+1719,program interrupt: <*> <*>
+1720,iar <*> dear <*>
+1721,iar <*> dear <*>
+1722,iar <*> dear <*>
+1723,<*> floating point alignment exceptions
+1724,iar <*> dear <*>
+1725,iar <*> dear <*>
+1726,iar <*> dear <*>
+1727,CE sym <*> at <*> mask <*>
+1728,iar <*> dear <*>
+1729,iar <*> dear <*>
+1730,iar <*> dear <*>
+1731,iar <*> dear <*>
+1732,<*> torus receiver <*> input pipe error(s) (dcr <*> detected and corrected
+1733,CE sym <*> at <*> mask <*>
+1734,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+1735,CE sym <*> at <*> mask <*>
+1736,CE sym <*> at <*> mask <*>
+1737,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1738,CE sym <*> at <*> mask <*>
+1739,rts: kernel terminated for reason <*>
+1740,iar <*> dear <*>
+1741,iar <*> dear <*>
+1742,iar <*> dear <*>
+1743,<*> floating point alignment exceptions
+1744,ciod: generated <*> core files for program <*>
+1745,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+1746,CE sym <*> at <*> mask <*>
+1747,rts: kernel terminated for reason <*>
+1748,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+1749,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+1750,"critical input interrupt (unit=0x0b <*> warning for <*> <*> wire, suppressing further interrupts of same type"
+1751,ciod: generated <*> core files for program <*>
+1752,ciod: generated <*> core files for program <*>
+1753,ciod: generated <*> core files for program <*>
+1754,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1755,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1756,rts: kernel terminated for reason <*>
+1757,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+1758,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1759,<*> torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds
+1760,<*> torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds
+1761,"ciod: Received signal 15, code=0, errno=0, <*>"
+1762,"ciod: Received signal 15, code=0, errno=0, <*>"
+1763,"ciod: Received signal 15, code=0, errno=0, <*>"
+1764,CE sym <*> at <*> mask <*>
+1765,ciod: generated <*> core files for program <*>
+1766,ciod: generated <*> core files for program <*>
+1767,Lustre mount FAILED : <*> : block_id : location
+1768,"ciod: Received signal 15, code=0, errno=0, <*>"
+1769,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1770,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1771,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1772,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1773,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1774,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1775,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1776,"ciod: Received signal 15, code=0, errno=0, <*>"
+1777,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+1778,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1779,"ciod: Received signal 15, code=0, errno=0, <*>"
+1780,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1781,"ciod: Received signal 15, code=0, errno=0, <*>"
+1782,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1783,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+1784,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1785,CE sym <*> at <*> mask <*>
+1786,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000
+1787,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1788,"ciod: Received signal 15, code=0, errno=0, <*>"
+1789,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1790,"ciod: Received signal 15, code=0, errno=0, <*>"
+1791,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1792,"ciod: Received signal 15, code=0, errno=0, <*>"
+1793,"ciod: Received signal 15, code=0, errno=0, <*>"
+1794,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1795,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000
+1796,"ciod: Received signal 15, code=0, errno=0, <*>"
+1797,"ciod: Received signal 15, code=0, errno=0, <*>"
+1798,<*> tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over <*> seconds
+1799,"ciod: Received signal 15, code=0, errno=0, <*>"
+1800,"ciod: Received signal 15, code=0, errno=0, <*>"
+1801,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+1802,"ciod: Received signal 15, code=0, errno=0, <*>"
+1803,CE sym <*> at <*> mask <*>
+1804,ciod: LOGIN <*> failed: No such file or directory
+1805,ciod: LOGIN <*> failed: No such file or directory
+1806,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1807,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1808,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1809,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1810,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1811,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1812,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1813,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1814,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1815,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1816,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1817,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1818,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1819,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1820,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1821,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1822,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1823,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1824,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1825,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1826,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1827,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1828,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1829,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1830,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1831,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1832,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1833,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1834,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1835,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1836,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1837,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1838,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1839,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1840,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1841,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1842,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1843,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1844,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1845,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1846,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1847,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1848,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1849,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1850,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1851,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1852,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1853,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1854,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1855,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1856,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1857,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1858,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1859,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1860,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1861,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1862,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1863,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1864,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1865,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1866,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1867,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1868,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1869,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1870,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1871,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1872,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1873,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1874,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1875,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1876,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1877,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1878,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1879,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1880,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1881,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1882,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1883,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1884,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1885,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1886,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1887,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1888,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1889,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1890,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1891,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1892,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1893,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1894,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1895,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1896,CE sym <*> at <*> mask <*>
+1897,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1898,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1899,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1900,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1901,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1902,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1903,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1904,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1905,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1906,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1907,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1908,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1909,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1910,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1911,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1912,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1913,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1914,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1915,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1916,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1917,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1918,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1919,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1920,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1921,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1922,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1923,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1924,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1925,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1926,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1927,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1928,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+1929,CE sym <*> at <*> mask <*>
+1930,CE sym <*> at <*> mask <*>
+1931,CE sym <*> at <*> mask <*>
+1932,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1933,"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648"
+1934,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1935,<*> tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over <*> seconds
+1936,CE sym <*> at <*> mask <*>
+1937,CE sym <*> at <*> mask <*>
+1938,CE sym <*> at <*> mask <*>
+1939,CE sym <*> at <*> mask <*>
+1940,CE sym <*> at <*> mask <*>
+1941,CE sym <*> at <*> mask <*>
+1942,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1943,CE sym <*> at <*> mask <*>
+1944,total of <*> ddr error(s) detected and corrected over <*> seconds
+1945,minus normalized number..................0
+1946,Lustre mount FAILED : <*> : block_id : location
+1947,fraction rounded.........................0
+1948,Node card is not fully functional
+1949,"critical input interrupt (unit=0x0b <*> warning for <*> <*> wire, suppressing further interrupts of same type"
+1950,size of scratchpad portion of L3.........0 (0M)
+1951,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1952,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1953,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1954,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1955,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1956,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1957,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1958,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+1959,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1960,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1961,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1962,total of <*> ddr error(s) detected and corrected over <*> seconds
+1963,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1964,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1965,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1966,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1967,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1968,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1969,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1970,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+1971,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1972,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+1973,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1974,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1975,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1976,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+1977,"critical input interrupt (unit=0x0b <*> warning for <*> <*> wire, suppressing further interrupts of same type"
+1978,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1979,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+1980,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1981,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+1982,total of <*> ddr error(s) detected and corrected over <*> seconds
+1983,ciod: pollControlDescriptors: Detected the debugger died.
+1984,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds
+1985,total of <*> ddr error(s) detected and corrected over <*> seconds
+1986,ciod: pollControlDescriptors: Detected the debugger died.
+1987,ciod: generated <*> core files for program <*>
+1988,"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160"
+1989,fpr29=0xffffffff ffffffff ffffffff ffffffff
+1990,Machine State Register: 0x0002f900
+1991,instruction cache parity error corrected
+1992,instruction cache parity error corrected
+1993,instruction cache parity error corrected
+1994,instruction cache parity error corrected
+1995,instruction cache parity error corrected
+1996,instruction cache parity error corrected
+1997,instruction cache parity error corrected
+1998,instruction cache parity error corrected
+1999,ciod: generated <*> core files for program <*>

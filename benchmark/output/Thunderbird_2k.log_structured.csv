@@ -1,0 +1,1942 @@
+,EventTemplate
+0,<*> shutdown failed
+1,<*> shutdown failed
+2,<*> shutdown failed
+3,Switching to runlevel: 0
+4,shutting down for system halt
+5,<*> shutdown failed
+6,<*> shutdown failed
+7,messagebus startup <*>
+8,<*> shutdown failed
+9,<*> shutdown succeeded
+10,<*> shutdown failed
+11,<*> shutdown failed
+12,Received TERM or STOP signal... shutting down...
+13,Received signal 15; terminating.
+14,messagebus startup <*>
+15,messagebus startup <*>
+16,messagebus startup <*>
+17,messagebus startup <*>
+18,messagebus startup <*>
+19,Switching to runlevel: 0
+20,shutting down for system halt
+21,<*> shutdown failed
+22,Switching to runlevel: 0
+23,<*> shutdown failed
+24,shutting down for system halt
+25,<*> shutdown failed
+26,<*> shutdown failed
+27,<*> shutdown failed
+28,Switching to runlevel: 0
+29,Switching to runlevel: 0
+30,shutting down for system halt
+31,<*> shutdown failed
+32,Switching to runlevel: 0
+33,<*> shutdown failed
+34,shutting down for system halt
+35,<*> shutdown failed
+36,<*> shutdown succeeded
+37,<*> shutdown failed
+38,Received signal 15; terminating.
+39,Switching to runlevel: 0
+40,<*> shutdown failed
+41,<*> shutdown failed
+42,<*> shutdown failed
+43,Switching to runlevel: 0
+44,<*> shutdown failed
+45,<*> shutdown failed
+46,Switching to runlevel: 0
+47,<*> shutdown failed
+48,<*> shutdown failed
+49,<*> shutdown succeeded
+50,Switching to runlevel: 0
+51,<*> shutdown failed
+52,Switching to runlevel: 0
+53,<*> shutdown failed
+54,<*> shutdown succeeded
+55,<*> shutdown failed
+56,Received signal 15; terminating.
+57,Switching to runlevel: 0
+58,<*> shutdown failed
+59,Switching to runlevel: 0
+60,<*> shutdown failed
+61,Switching to runlevel: 0
+62,<*> shutdown failed
+63,shutting down for system halt
+64,Switching to runlevel: 0
+65,shutting down for system halt
+66,Switching to runlevel: 0
+67,<*> shutdown failed
+68,Switching to runlevel: 0
+69,<*> shutdown failed
+70,<*> shutdown failed
+71,<*> shutdown succeeded
+72,<*> shutdown failed
+73,Received TERM or STOP signal... shutting down...
+74,Received signal 15; terminating.
+75,Switching to runlevel: 0
+76,<*> shutdown failed
+77,shutting down for system halt
+78,Switching to runlevel: 0
+79,<*> shutdown failed
+80,Switching to runlevel: 0
+81,Switching to runlevel: 0
+82,<*> shutdown failed
+83,<*> shutdown failed
+84,Switching to runlevel: 0
+85,<*> shutdown failed
+86,Switching to runlevel: 0
+87,<*> shutdown failed
+88,Switching to runlevel: 0
+89,<*> shutdown failed
+90,Switching to runlevel: 0
+91,<*> shutdown failed
+92,Switching to runlevel: 0
+93,<*> shutdown failed
+94,shutting down for system halt
+95,Switching to runlevel: 0
+96,<*> shutdown failed
+97,<*> shutdown failed
+98,<*> shutdown succeeded
+99,<*> shutdown failed
+100,Received signal 15; terminating.
+101,Switching to runlevel: 0
+102,<*> shutdown failed
+103,Switching to runlevel: 0
+104,<*> shutdown failed
+105,<*> shutdown succeeded
+106,shutting down for system halt
+107,<*> shutdown failed
+108,Received signal 15; terminating.
+109,Switching to runlevel: 0
+110,<*> shutdown failed
+111,Switching to runlevel: 0
+112,shutting down for system halt
+113,Switching to runlevel: 0
+114,<*> shutdown failed
+115,Switching to runlevel: 0
+116,shutting down for system halt
+117,Switching to runlevel: 0
+118,<*> shutdown failed
+119,shutting down for system halt
+120,Switching to runlevel: 0
+121,<*> shutdown failed
+122,shutting down for system halt
+123,Switching to runlevel: 0
+124,<*> shutdown failed
+125,<*> shutdown succeeded
+126,<*> shutdown failed
+127,Received signal 15; terminating.
+128,Switching to runlevel: 0
+129,shutting down for system halt
+130,<*> shutdown failed
+131,<*> shutdown failed
+132,<*> shutdown failed
+133,<*> shutdown succeeded
+134,<*> shutdown failed
+135,<*> shutdown failed
+136,<*> shutdown succeeded
+137,<*> shutdown failed
+138,Received signal 15; terminating.
+139,<*> shutdown failed
+140,<*> shutdown failed
+141,<*> shutdown failed
+142,<*> shutdown failed
+143,<*> shutdown failed
+144,<*> shutdown succeeded
+145,<*> shutdown failed
+146,Received signal 15; terminating.
+147,<*> shutdown failed
+148,<*> shutdown succeeded
+149,<*> shutdown succeeded
+150,omsad32[2900]: segfault at 0000000000000000 rip 0000000000000000 rsp 00000000f40a601c error 14
+151,<*> shutdown succeeded
+152,<*> shutdown succeeded
+153,Received signal 15; terminating.
+154,<*> shutdown failed
+155,<*> shutdown failed
+156,Switching to runlevel: 0
+157,shutting down for system halt
+158,<*> shutdown failed
+159,<*> shutdown failed
+160,<*> shutdown failed
+161,<*> shutdown failed
+162,<*> shutdown failed
+163,<*> shutdown failed
+164,<*> shutdown failed
+165,<*> shutdown failed
+166,<*> shutdown failed
+167,<*> shutdown failed
+168,<*> shutdown failed
+169,Switching to runlevel: 0
+170,shutting down for system halt
+171,<*> shutdown failed
+172,<*> shutdown failed
+173,<*> shutdown failed
+174,<*> shutdown failed
+175,<*> shutdown failed
+176,<*> shutdown failed
+177,<*> shutdown failed
+178,<*> shutdown succeeded
+179,<*> shutdown failed
+180,Received signal 15; terminating.
+181,<*> shutdown failed
+182,<*> shutdown failed
+183,<*> shutdown failed
+184,<*> shutdown failed
+185,<*> shutdown failed
+186,<*> shutdown failed
+187,<*> shutdown failed
+188,<*> shutdown failed
+189,<*> shutdown failed
+190,Switching to runlevel: 0
+191,shutting down for system halt
+192,<*> shutdown failed
+193,<*> shutdown failed
+194,<*> shutdown failed
+195,<*> shutdown failed
+196,<*> shutdown failed
+197,<*> shutdown failed
+198,<*> shutdown failed
+199,<*> shutdown failed
+200,<*> shutdown failed
+201,Switching to runlevel: 0
+202,shutting down for system halt
+203,<*> shutdown failed
+204,<*> shutdown failed
+205,<*> shutdown failed
+206,Switching to runlevel: 0
+207,shutting down for system halt
+208,Switching to runlevel: 0
+209,Switching to runlevel: 0
+210,<*> shutdown failed
+211,Switching to runlevel: 0
+212,<*> shutdown failed
+213,shutting down for system halt
+214,Switching to runlevel: 0
+215,<*> shutdown failed
+216,Switching to runlevel: 0
+217,<*> shutdown failed
+218,Switching to runlevel: 0
+219,<*> shutdown failed
+220,<*> shutdown failed
+221,<*> shutdown succeeded
+222,<*> shutdown failed
+223,<*> shutdown succeeded
+224,Received TERM or STOP signal... shutting down...
+225,Received signal 15; terminating.
+226,Exiting... _ _ _
+227,Switching to runlevel: 0
+228,<*> shutdown failed
+229,<*> shutdown succeeded
+230,<*> shutdown failed
+231,<*> shutdown succeeded
+232,Received TERM or STOP signal... shutting down...
+233,Received signal 15; terminating.
+234,Exiting... _ _ _
+235,Switching to runlevel: 0
+236,shutting down for system halt
+237,Switching to runlevel: 0
+238,<*> shutdown failed
+239,shutting down for system halt
+240,Switching to runlevel: 0
+241,<*> shutdown failed
+242,Switching to runlevel: 0
+243,shutting down for system halt
+244,Switching to runlevel: 0
+245,<*> shutdown failed
+246,Switching to runlevel: 0
+247,Switching to runlevel: 0
+248,shutting down for system halt
+249,<*> shutdown failed
+250,Switching to runlevel: 0
+251,Switching to runlevel: 0
+252,shutting down for system halt
+253,Switching to runlevel: 0
+254,<*> shutdown failed
+255,Switching to runlevel: 0
+256,<*> shutdown failed
+257,Switching to runlevel: 0
+258,shutting down for system halt
+259,Switching to runlevel: 0
+260,<*> shutdown failed
+261,Switching to runlevel: 0
+262,<*> shutdown failed
+263,Switching to runlevel: 0
+264,<*> shutdown failed
+265,Switching to runlevel: 0
+266,<*> shutdown failed
+267,Switching to runlevel: 0
+268,shutting down for system halt
+269,Switching to runlevel: 0
+270,<*> shutdown failed
+271,shutting down for system halt
+272,Switching to runlevel: 0
+273,<*> shutdown failed
+274,shutting down for system halt
+275,Switching to runlevel: 0
+276,shutting down for system halt
+277,Switching to runlevel: 0
+278,shutting down for system halt
+279,Switching to runlevel: 0
+280,<*> shutdown failed
+281,shutting down for system halt
+282,Switching to runlevel: 0
+283,<*> shutdown failed
+284,shutting down for system halt
+285,Switching to runlevel: 0
+286,<*> shutdown failed
+287,Switching to runlevel: 0
+288,<*> shutdown failed
+289,shutting down for system halt
+290,Switching to runlevel: 0
+291,<*> shutdown failed
+292,shutting down for system halt
+293,Switching to runlevel: 0
+294,<*> shutdown failed
+295,Switching to runlevel: 0
+296,<*> shutdown failed
+297,Switching to runlevel: 0
+298,<*> shutdown failed
+299,shutting down for system halt
+300,Switching to runlevel: 0
+301,shutting down for system halt
+302,Switching to runlevel: 0
+303,<*> shutdown failed
+304,shutting down for system halt
+305,Switching to runlevel: 0
+306,<*> shutdown failed
+307,<*> shutdown succeeded
+308,shutting down for system halt
+309,Switching to runlevel: 0
+310,shutting down for system halt
+311,Switching to runlevel: 0
+312,<*> shutdown failed
+313,Switching to runlevel: 0
+314,Switching to runlevel: 0
+315,<*> shutdown failed
+316,shutting down for system halt
+317,Switching to runlevel: 0
+318,<*> shutdown failed
+319,Switching to runlevel: 0
+320,<*> shutdown failed
+321,Switching to runlevel: 0
+322,<*> shutdown failed
+323,shutting down for system halt
+324,Switching to runlevel: 0
+325,<*> shutdown failed
+326,shutting down for system halt
+327,Switching to runlevel: 0
+328,<*> shutdown failed
+329,Switching to runlevel: 0
+330,<*> shutdown failed
+331,shutting down for system halt
+332,Switching to runlevel: 0
+333,<*> shutdown failed
+334,shutting down for system halt
+335,Switching to runlevel: 0
+336,<*> shutdown failed
+337,shutting down for system halt
+338,Switching to runlevel: 0
+339,shutting down for system halt
+340,Switching to runlevel: 0
+341,shutting down for system halt
+342,Switching to runlevel: 0
+343,<*> shutdown failed
+344,shutting down for system halt
+345,Switching to runlevel: 0
+346,<*> shutdown failed
+347,shutting down for system halt
+348,Switching to runlevel: 0
+349,<*> shutdown failed
+350,shutting down for system halt
+351,Switching to runlevel: 0
+352,shutting down for system halt
+353,Switching to runlevel: 0
+354,shutting down for system halt
+355,Switching to runlevel: 0
+356,<*> shutdown failed
+357,shutting down for system halt
+358,<*> shutdown failed
+359,<*> shutdown failed
+360,Switching to runlevel: 0
+361,shutting down for system halt
+362,Switching to runlevel: 0
+363,shutting down for system halt
+364,Switching to runlevel: 0
+365,shutting down for system halt
+366,<*> shutdown failed
+367,<*> shutdown failed
+368,<*> shutdown failed
+369,Switching to runlevel: 0
+370,shutting down for system halt
+371,<*> shutdown failed
+372,Switching to runlevel: 0
+373,<*> shutdown failed
+374,Switching to runlevel: 0
+375,<*> shutdown failed
+376,<*> shutdown failed
+377,<*> shutdown failed
+378,Switching to runlevel: 0
+379,<*> shutdown failed
+380,<*> shutdown failed
+381,<*> shutdown failed
+382,Switching to runlevel: 0
+383,shutting down for system halt
+384,Switching to runlevel: 0
+385,shutting down for system halt
+386,<*> shutdown failed
+387,<*> shutdown failed
+388,<*> shutdown failed
+389,Switching to runlevel: 0
+390,<*> shutdown failed
+391,shutting down for system halt
+392,Switching to runlevel: 0
+393,<*> shutdown failed
+394,Switching to runlevel: 0
+395,shutting down for system halt
+396,Switching to runlevel: 0
+397,<*> shutdown failed
+398,Switching to runlevel: 0
+399,<*> shutdown failed
+400,Switching to runlevel: 0
+401,<*> shutdown failed
+402,Switching to runlevel: 0
+403,shutting down for system halt
+404,Switching to runlevel: 0
+405,<*> shutdown failed
+406,shutting down for system halt
+407,<*> shutdown failed
+408,Switching to runlevel: 0
+409,<*> shutdown failed
+410,Switching to runlevel: 0
+411,Switching to runlevel: 0
+412,shutting down for system halt
+413,Switching to runlevel: 0
+414,shutting down for system halt
+415,Switching to runlevel: 0
+416,Switching to runlevel: 0
+417,<*> shutdown failed
+418,Switching to runlevel: 0
+419,shutting down for system halt
+420,Switching to runlevel: 0
+421,shutting down for system halt
+422,Switching to runlevel: 0
+423,Switching to runlevel: 0
+424,<*> shutdown failed
+425,shutting down for system halt
+426,Switching to runlevel: 0
+427,<*> shutdown failed
+428,shutting down for system halt
+429,Switching to runlevel: 0
+430,shutting down for system halt
+431,Switching to runlevel: 0
+432,<*> shutdown failed
+433,shutting down for system halt
+434,Switching to runlevel: 0
+435,shutting down for system halt
+436,Switching to runlevel: 0
+437,shutting down for system halt
+438,Switching to runlevel: 0
+439,shutting down for system halt
+440,Switching to runlevel: 0
+441,<*> shutdown failed
+442,shutting down for system halt
+443,Switching to runlevel: 0
+444,<*> shutdown failed
+445,Switching to runlevel: 0
+446,<*> shutdown failed
+447,Switching to runlevel: 0
+448,shutting down for system halt
+449,Switching to runlevel: 0
+450,<*> shutdown failed
+451,Switching to runlevel: 0
+452,shutting down for system halt
+453,Switching to runlevel: 0
+454,shutting down for system halt
+455,Switching to runlevel: 0
+456,shutting down for system halt
+457,Switching to runlevel: 0
+458,<*> shutdown failed
+459,shutting down for system halt
+460,Switching to runlevel: 0
+461,shutting down for system halt
+462,Switching to runlevel: 0
+463,<*> shutdown failed
+464,shutting down for system halt
+465,Switching to runlevel: 0
+466,shutting down for system halt
+467,Switching to runlevel: 0
+468,shutting down for system halt
+469,[ib_sm_sweep.c:1264]: Rediscover the subnet
+470,[ib_sm_sweep.c:1792]: async events require sweep
+471,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+472,<*> shutdown failed
+473,<*> shutdown succeeded
+474,Exiting... _ _ _
+475,<*> shutdown failed
+476,<*> shutdown failed
+477,<*> shutdown failed
+478,Received TERM or STOP signal... shutting down...
+479,<*> shutdown failed
+480,Received TERM or STOP signal... shutting down...
+481,Received signal 15; terminating.
+482,<*> shutdown failed
+483,Received TERM or STOP signal... shutting down...
+484,<*> shutdown failed
+485,<*> shutdown succeeded
+486,<*> shutdown succeeded
+487,<*> shutdown failed
+488,Received TERM or STOP signal... shutting down...
+489,Received signal 15; terminating.
+490,<*> shutdown failed
+491,<*> shutdown succeeded
+492,<*> shutdown failed
+493,Received signal 15; terminating.
+494,<*> shutdown failed
+495,<*> shutdown succeeded
+496,Received TERM or STOP signal... shutting down...
+497,Received TERM or STOP signal... shutting down...
+498,<*> shutdown failed
+499,<*> shutdown failed
+500,Received TERM or STOP signal... shutting down...
+501,<*> shutdown failed
+502,<*> shutdown succeeded
+503,<*> shutdown failed
+504,Received TERM or STOP signal... shutting down...
+505,Received signal 15; terminating.
+506,Received TERM or STOP signal... shutting down...
+507,<*> shutdown succeeded
+508,Received TERM or STOP signal... shutting down...
+509,Received TERM or STOP signal... shutting down...
+510,<*> shutdown failed
+511,Received TERM or STOP signal... shutting down...
+512,Received signal 15; terminating.
+513,<*> shutdown succeeded
+514,<*> shutdown succeeded
+515,<*> shutdown failed
+516,peer disconnected: SNMPv2-SMI::enterprises.674.10892.1
+517,<*> shutdown failed
+518,<*> shutdown failed
+519,<*> shutdown failed
+520,<*> shutdown failed
+521,<*> shutdown failed
+522,<*> shutdown failed
+523,Received TERM or STOP signal... shutting down...
+524,<*> shutdown failed
+525,<*> shutdown failed
+526,<*> shutdown succeeded
+527,<*> shutdown failed
+528,Received TERM or STOP signal... shutting down...
+529,Received signal 15; terminating.
+530,<*> shutdown failed
+531,<*> shutdown failed
+532,<*> shutdown succeeded
+533,<*> shutdown failed
+534,Received TERM or STOP signal... shutting down...
+535,Received signal 15; terminating.
+536,<*> shutdown failed
+537,<*> shutdown succeeded
+538,<*> shutdown failed
+539,Received TERM or STOP signal... shutting down...
+540,Received signal 15; terminating.
+541,<*> shutdown failed
+542,<*> shutdown failed
+543,<*> shutdown succeeded
+544,<*> shutdown failed
+545,Received TERM or STOP signal... shutting down...
+546,Received signal 15; terminating.
+547,<*> shutdown succeeded
+548,Unmounting NFS filesystems: succeeded
+549,<*> shutdown succeeded
+550,ntpd exiting on signal 15
+551,<*> shutdown succeeded
+552,<*> shutdown failed
+553,<*> shutdown succeeded
+554,Unmounting NFS filesystems: succeeded
+555,<*> shutdown succeeded
+556,ntpd exiting on signal 15
+557,<*> shutdown succeeded
+558,<*> shutdown failed
+559,<*> shutdown failed
+560,<*> shutdown failed
+561,<*> shutdown failed
+562,<*> shutdown failed
+563,<*> shutdown failed
+564,<*> shutdown failed
+565,<*> shutdown failed
+566,<*> shutdown succeeded
+567,<*> shutdown failed
+568,Received TERM or STOP signal... shutting down...
+569,Received signal 15; terminating.
+570,<*> shutdown failed
+571,<*> shutdown failed
+572,<*> shutdown failed
+573,<*> shutdown succeeded
+574,<*> shutdown failed
+575,<*> shutdown succeeded
+576,Received TERM or STOP signal... shutting down...
+577,Received signal 15; terminating.
+578,Exiting... _ _ _
+579,<*> shutdown failed
+580,<*> shutdown succeeded
+581,<*> shutdown failed
+582,Received TERM or STOP signal... shutting down...
+583,Received signal 15; terminating.
+584,<*> shutdown succeeded
+585,<*> shutdown failed
+586,Received TERM or STOP signal... shutting down...
+587,Received signal 15; terminating.
+588,<*> shutdown succeeded
+589,<*> shutdown failed
+590,Received TERM or STOP signal... shutting down...
+591,Received signal 15; terminating.
+592,<*> shutdown failed
+593,<*> shutdown succeeded
+594,<*> shutdown failed
+595,Received TERM or STOP signal... shutting down...
+596,Received signal 15; terminating.
+597,<*> shutdown failed
+598,Received TERM or STOP signal... shutting down...
+599,Received signal 15; terminating.
+600,<*> shutdown failed
+601,<*> shutdown failed
+602,<*> shutdown succeeded
+603,<*> shutdown failed
+604,Received TERM or STOP signal... shutting down...
+605,Received signal 15; terminating.
+606,<*> shutdown succeeded
+607,<*> shutdown failed
+608,Received TERM or STOP signal... shutting down...
+609,Received signal 15; terminating.
+610,<*> shutdown failed
+611,<*> shutdown failed
+612,<*> shutdown succeeded
+613,<*> shutdown failed
+614,Received TERM or STOP signal... shutting down...
+615,Received signal 15; terminating.
+616,<*> shutdown failed
+617,<*> shutdown failed
+618,<*> shutdown failed
+619,<*> shutdown succeeded
+620,<*> shutdown failed
+621,Received signal 15; terminating.
+622,<*> shutdown failed
+623,<*> shutdown failed
+624,<*> shutdown failed
+625,<*> shutdown failed
+626,<*> shutdown failed
+627,<*> shutdown succeeded
+628,<*> shutdown failed
+629,Received TERM or STOP signal... shutting down...
+630,Received signal 15; terminating.
+631,<*> shutdown failed
+632,<*> shutdown succeeded
+633,<*> shutdown failed
+634,Received TERM or STOP signal... shutting down...
+635,Received signal 15; terminating.
+636,<*> shutdown succeeded
+637,<*> shutdown failed
+638,Received TERM or STOP signal... shutting down...
+639,Received signal 15; terminating.
+640,<*> shutdown failed
+641,<*> shutdown failed
+642,<*> shutdown failed
+643,<*> shutdown failed
+644,<*> shutdown failed
+645,<*> shutdown succeeded
+646,<*> shutdown failed
+647,Received TERM or STOP signal... shutting down...
+648,Received signal 15; terminating.
+649,<*> shutdown failed
+650,<*> shutdown failed
+651,<*> shutdown failed
+652,<*> shutdown failed
+653,<*> shutdown failed
+654,<*> shutdown failed
+655,<*> shutdown succeeded
+656,<*> shutdown failed
+657,Received TERM or STOP signal... shutting down...
+658,Received signal 15; terminating.
+659,<*> shutdown failed
+660,<*> shutdown failed
+661,<*> shutdown failed
+662,<*> shutdown succeeded
+663,<*> shutdown failed
+664,Received TERM or STOP signal... shutting down...
+665,Received signal 15; terminating.
+666,<*> shutdown failed
+667,<*> shutdown failed
+668,<*> shutdown failed
+669,<*> shutdown failed
+670,<*> shutdown failed
+671,<*> shutdown failed
+672,<*> shutdown failed
+673,<*> shutdown failed
+674,<*> shutdown failed
+675,<*> shutdown succeeded
+676,Unmounting NFS filesystems: succeeded
+677,<*> shutdown succeeded
+678,ntpd exiting on signal 15
+679,<*> shutdown succeeded
+680,<*> shutdown succeeded
+681,Unmounting NFS filesystems: succeeded
+682,<*> shutdown succeeded
+683,ntpd exiting on signal 15
+684,<*> shutdown succeeded
+685,<*> shutdown succeeded
+686,Exiting... _ _ _
+687,<*> shutdown succeeded
+688,Unmounting NFS filesystems: succeeded
+689,<*> shutdown succeeded
+690,ntpd exiting on signal 15
+691,<*> shutdown succeeded
+692,<*> shutdown succeeded
+693,Exiting... _ _ _
+694,<*> shutdown succeeded
+695,Unmounting NFS filesystems: succeeded
+696,<*> shutdown succeeded
+697,ntpd exiting on signal 15
+698,<*> shutdown succeeded
+699,<*> shutdown succeeded
+700,Exiting... _ _ _
+701,<*> shutdown succeeded
+702,Unmounting NFS filesystems: succeeded
+703,<*> shutdown succeeded
+704,ntpd exiting on signal 15
+705,<*> shutdown succeeded
+706,Exiting... _ _ _
+707,<*> shutdown succeeded
+708,Unmounting NFS filesystems: succeeded
+709,<*> shutdown succeeded
+710,ntpd exiting on signal 15
+711,<*> shutdown succeeded
+712,<*> shutdown succeeded
+713,Exiting... _ _ _
+714,<*> shutdown succeeded
+715,Received TERM or STOP signal... shutting down...
+716,<*> shutdown succeeded
+717,<*> shutdown succeeded
+718,ntpd exiting on signal 15
+719,<*> shutdown succeeded
+720,Exiting... _ _ _
+721,<*> shutdown succeeded
+722,Unmounting NFS filesystems: succeeded
+723,<*> shutdown succeeded
+724,ntpd exiting on signal 15
+725,<*> shutdown succeeded
+726,<*> shutdown succeeded
+727,Exiting... _ _ _
+728,<*> shutdown succeeded
+729,Unmounting NFS filesystems: succeeded
+730,<*> shutdown succeeded
+731,ntpd exiting on signal 15
+732,<*> shutdown succeeded
+733,<*> shutdown succeeded
+734,Exiting... _ _ _
+735,<*> shutdown succeeded
+736,Unmounting NFS filesystems: succeeded
+737,<*> shutdown succeeded
+738,ntpd exiting on signal 15
+739,<*> shutdown succeeded
+740,<*> shutdown succeeded
+741,Exiting... _ _ _
+742,<*> shutdown succeeded
+743,Unmounting NFS filesystems: succeeded
+744,<*> shutdown succeeded
+745,ntpd exiting on signal 15
+746,<*> shutdown succeeded
+747,<*> shutdown succeeded
+748,Exiting... _ _ _
+749,<*> shutdown succeeded
+750,Unmounting NFS filesystems: succeeded
+751,<*> shutdown succeeded
+752,ntpd exiting on signal 15
+753,<*> shutdown succeeded
+754,Exiting... _ _ _
+755,<*> shutdown succeeded
+756,Unmounting NFS filesystems: succeeded
+757,<*> shutdown succeeded
+758,ntpd exiting on signal 15
+759,<*> shutdown succeeded
+760,<*> shutdown succeeded
+761,Exiting... _ _ _
+762,<*> shutdown succeeded
+763,Unmounting NFS filesystems: succeeded
+764,<*> shutdown succeeded
+765,ntpd exiting on signal 15
+766,<*> shutdown succeeded
+767,<*> shutdown succeeded
+768,Exiting... _ _ _
+769,<*> shutdown succeeded
+770,<*> shutdown succeeded
+771,<*> shutdown succeeded
+772,<*> shutdown succeeded
+773,ntpd exiting on signal 15
+774,<*> shutdown succeeded
+775,Received TERM or STOP signal... shutting down...
+776,<*> shutdown succeeded
+777,Exiting... _ _ _
+778,<*> shutdown succeeded
+779,Unmounting NFS filesystems: succeeded
+780,<*> shutdown succeeded
+781,ntpd exiting on signal 15
+782,<*> shutdown succeeded
+783,<*> shutdown succeeded
+784,Exiting... _ _ _
+785,<*> shutdown succeeded
+786,ntpd exiting on signal 15
+787,<*> shutdown succeeded
+788,<*> shutdown succeeded
+789,Exiting... _ _ _
+790,<*> shutdown succeeded
+791,ntpd exiting on signal 15
+792,<*> shutdown succeeded
+793,<*> shutdown succeeded
+794,Exiting... _ _ _
+795,<*> shutdown succeeded
+796,ntpd exiting on signal 15
+797,<*> shutdown succeeded
+798,<*> shutdown succeeded
+799,Exiting... _ _ _
+800,<*> shutdown succeeded
+801,Unmounting NFS filesystems: succeeded
+802,<*> shutdown succeeded
+803,ntpd exiting on signal 15
+804,<*> shutdown succeeded
+805,<*> shutdown succeeded
+806,Exiting... _ _ _
+807,<*> shutdown succeeded
+808,ntpd exiting on signal 15
+809,<*> shutdown succeeded
+810,<*> shutdown succeeded
+811,Exiting... _ _ _
+812,<*> shutdown succeeded
+813,Unmounting NFS filesystems: succeeded
+814,<*> shutdown succeeded
+815,ntpd exiting on signal 15
+816,<*> shutdown succeeded
+817,<*> shutdown succeeded
+818,Unmounting NFS filesystems: succeeded
+819,<*> shutdown succeeded
+820,ntpd exiting on signal 15
+821,<*> shutdown succeeded
+822,<*> shutdown succeeded
+823,Exiting... _ _ _
+824,<*> shutdown succeeded
+825,Unmounting NFS filesystems: succeeded
+826,<*> shutdown succeeded
+827,ntpd exiting on signal 15
+828,<*> shutdown succeeded
+829,<*> shutdown succeeded
+830,Exiting... _ _ _
+831,<*> shutdown succeeded
+832,Unmounting NFS filesystems: succeeded
+833,<*> shutdown succeeded
+834,ntpd exiting on signal 15
+835,<*> shutdown succeeded
+836,<*> shutdown succeeded
+837,Exiting... _ _ _
+838,<*> shutdown succeeded
+839,Unmounting NFS filesystems: succeeded
+840,<*> shutdown succeeded
+841,ntpd exiting on signal 15
+842,<*> shutdown succeeded
+843,<*> shutdown succeeded
+844,Exiting... _ _ _
+845,<*> shutdown succeeded
+846,Unmounting NFS filesystems: succeeded
+847,<*> shutdown succeeded
+848,ntpd exiting on signal 15
+849,<*> shutdown succeeded
+850,<*> shutdown succeeded
+851,Exiting... _ _ _
+852,<*> shutdown succeeded
+853,Unmounting NFS filesystems: succeeded
+854,<*> shutdown succeeded
+855,ntpd exiting on signal 15
+856,<*> shutdown succeeded
+857,<*> shutdown succeeded
+858,Exiting... _ _ _
+859,<*> shutdown succeeded
+860,Unmounting NFS filesystems: succeeded
+861,<*> shutdown succeeded
+862,ntpd exiting on signal 15
+863,<*> shutdown succeeded
+864,<*> shutdown succeeded
+865,Exiting... _ _ _
+866,<*> shutdown succeeded
+867,<*> shutdown succeeded
+868,ntpd exiting on signal 15
+869,<*> shutdown succeeded
+870,<*> shutdown succeeded
+871,Exiting... _ _ _
+872,<*> shutdown succeeded
+873,Received TERM or STOP signal... shutting down...
+874,Exiting... _ _ _
+875,<*> shutdown succeeded
+876,<*> shutdown succeeded
+877,Exiting... _ _ _
+878,<*> shutdown succeeded
+879,ntpd exiting on signal 15
+880,<*> shutdown succeeded
+881,<*> shutdown succeeded
+882,Exiting... _ _ _
+883,<*> shutdown succeeded
+884,Unmounting NFS filesystems: succeeded
+885,<*> shutdown succeeded
+886,ntpd exiting on signal 15
+887,<*> shutdown succeeded
+888,<*> shutdown succeeded
+889,Exiting... _ _ _
+890,<*> shutdown succeeded
+891,Unmounting NFS filesystems: succeeded
+892,<*> shutdown succeeded
+893,ntpd exiting on signal 15
+894,<*> shutdown succeeded
+895,<*> shutdown succeeded
+896,Exiting... _ _ _
+897,<*> shutdown succeeded
+898,Unmounting NFS filesystems: succeeded
+899,<*> shutdown succeeded
+900,ntpd exiting on signal 15
+901,<*> shutdown succeeded
+902,<*> shutdown succeeded
+903,Exiting... _ _ _
+904,<*> shutdown succeeded
+905,Unmounting NFS filesystems: succeeded
+906,<*> shutdown succeeded
+907,ntpd exiting on signal 15
+908,<*> shutdown succeeded
+909,<*> shutdown succeeded
+910,Exiting... _ _ _
+911,synchronized to <*> stratum 3
+912,[INFO]: Configuration caused by multicast membership change
+913,[ib_sm_sweep.c:1455]: No topology change
+914,<*> shutdown succeeded
+915,Unmounting NFS filesystems: succeeded
+916,<*> shutdown succeeded
+917,ntpd exiting on signal 15
+918,<*> shutdown succeeded
+919,Exiting... _ _ _
+920,Unmounting NFS filesystems: succeeded
+921,Unmounting NFS filesystems: succeeded
+922,Unmounting NFS filesystems: succeeded
+923,<*> shutdown succeeded
+924,Unmounting NFS filesystems: succeeded
+925,<*> shutdown succeeded
+926,Unmounting NFS filesystems: succeeded
+927,<*> shutdown succeeded
+928,Kernel log daemon terminating.
+929,Kernel logging (proc) stopped.
+930,<*> shutdown failed
+931,<*> shutdown succeeded
+932,<*> shutdown succeeded
+933,"Caught signal 15, un-registering and exiting."
+934,Kernel log daemon terminating.
+935,Kernel logging (proc) stopped.
+936,lockd -KILL succeeded
+937,<*> shutdown succeeded
+938,<*> shutdown succeeded
+939,"Caught signal 15, un-registering and exiting."
+940,Unmounting NFS filesystems: succeeded
+941,<*> shutdown succeeded
+942,Unmounting NFS filesystems: succeeded
+943,<*> shutdown succeeded
+944,Unmounting NFS filesystems: succeeded
+945,<*> shutdown succeeded
+946,ntpd exiting on signal 15
+947,<*> shutdown succeeded
+948,<*> shutdown succeeded
+949,Unmounting NFS filesystems: succeeded
+950,<*> shutdown succeeded
+951,ntpd exiting on signal 15
+952,Unmounting NFS filesystems: succeeded
+953,<*> shutdown succeeded
+954,<*> shutdown failed
+955,"Caught signal 15, un-registering and exiting."
+956,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+957,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+958,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+959,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+960,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+961,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+962,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+963,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+964,synchronized to <*> stratum 3
+965,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+966,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+967,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+968,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+969,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+970,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+971,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+972,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+973,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+974,synchronized to <*> stratum 3
+975,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+976,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+977,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+978,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+979,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+980,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+981,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+982,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+983,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+984,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+985,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+986,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+987,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+988,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+989,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+990,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+991,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+992,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+993,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+994,synchronized to <*> stratum 3
+995,data_thread() got not answer from any <*> datasource
+996,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+997,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+998,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+999,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1000,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1001,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1002,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1003,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1004,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1005,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1006,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1007,synchronized to <*> stratum 3
+1008,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1009,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1010,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1011,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1012,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1013,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1014,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1015,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1016,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1017,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1018,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1019,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1020,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1021,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1022,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1023,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1024,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1025,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1026,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1027,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1028,data_thread() got not answer from any <*> datasource
+1029,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1030,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1031,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1032,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1033,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1034,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1035,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1036,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1037,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1038,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1039,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1040,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1041,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1042,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1043,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1044,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1045,data_thread() got not answer from any <*> datasource
+1046,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1047,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1048,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1049,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1050,data_thread() got not answer from any <*> datasource
+1051,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1052,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1053,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1054,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1055,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1056,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1057,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1058,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1059,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1060,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1061,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1062,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1063,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1064,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1065,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1066,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1067,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1068,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1069,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1070,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1071,data_thread() got not answer from any <*> datasource
+1072,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1073,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1074,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1075,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1076,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1077,data_thread() got not answer from any <*> datasource
+1078,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1079,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1080,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1081,data_thread() got not answer from any <*> datasource
+1082,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1083,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1084,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1085,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1086,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1087,synchronized to <*> stratum 3
+1088,synchronized to <*> stratum 3
+1089,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1090,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1091,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1092,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1093,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1094,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1095,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1096,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1097,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1098,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1099,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1100,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1101,synchronized to <*> stratum 3
+1102,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1103,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1104,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1105,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1106,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1107,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1108,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1109,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1110,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1111,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1112,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1113,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1114,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1115,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1116,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1117,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1118,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1119,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1120,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1121,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1122,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1123,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1124,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1125,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1126,synchronized to <*> stratum 3
+1127,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1128,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1129,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1130,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1131,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1132,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1133,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1134,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1135,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1136,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1137,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1138,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1139,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1140,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1141,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1142,synchronized to <*> stratum 3
+1143,data_thread() got not answer from any <*> datasource
+1144,data_thread() got not answer from any <*> datasource
+1145,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> port=1, state 4"
+1146,[ib_sm_sweep.c:1264]: Rediscover the subnet
+1147,[ib_sm_sweep.c:1792]: async events require sweep
+1148,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+1149,data_thread() got not answer from any <*> datasource
+1150,data_thread() got not answer from any <*> datasource
+1151,[INFO]: Configuration caused by discovering removed ports
+1152,[INFO]: Configuration caused by previous GET/SET operation failures
+1153,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1154,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1155,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1156,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1157,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1158,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1159,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1160,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1161,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1162,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1163,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1164,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1165,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1166,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1167,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1168,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1169,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1170,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1171,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1172,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1173,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1174,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1175,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1176,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1177,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1178,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1179,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1180,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1181,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1182,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1183,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1184,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1185,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1186,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1187,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1188,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1189,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1190,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1191,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1192,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1193,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1194,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1195,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1196,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1197,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1198,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1199,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1200,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1201,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1202,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1203,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1204,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1205,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1206,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1207,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1208,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1209,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1210,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1211,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1212,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1213,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1214,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1215,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1216,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1217,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1218,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1219,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1220,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1221,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1222,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1223,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1224,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1225,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1226,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1227,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1228,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1229,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1230,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1231,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1232,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1233,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1234,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1235,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1236,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1237,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1238,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1239,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1240,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1241,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1242,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1243,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1244,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1245,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1246,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1247,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1248,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1249,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1250,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1251,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1252,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1253,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1254,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1255,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1256,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1257,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1258,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1259,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1260,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1261,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1262,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1263,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1264,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1265,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1266,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1267,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1268,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1269,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1270,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1271,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1272,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1273,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1274,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1275,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1276,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1277,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1278,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1279,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1280,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1281,[INFO]: Generate SM OUT_OF_SERVICE trap for <*>
+1282,[ib_sm_sweep.c:1442]: Topology changed
+1283,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1284,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1285,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1286,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1287,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1288,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1289,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1290,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1291,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1292,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1293,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1294,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1295,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1296,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1297,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1298,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1299,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1300,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1301,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1302,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1303,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1304,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1305,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1306,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1307,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1308,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1309,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1310,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1311,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1312,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1313,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1314,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1315,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1316,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1317,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1318,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1319,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1320,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1321,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1322,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1323,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1324,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1325,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1326,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1327,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1328,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1329,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1330,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1331,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1332,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1333,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1334,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1335,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1336,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1337,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1338,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1339,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1340,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1341,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1342,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1343,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1344,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1345,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1346,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1347,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1348,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1349,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1350,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1351,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1352,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1353,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1354,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1355,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1356,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1357,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1358,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1359,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1360,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1361,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1362,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1363,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1364,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1365,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1366,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1367,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1368,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1369,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1370,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1371,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1372,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1373,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1374,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1375,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1376,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1377,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1378,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1379,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1380,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1381,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1382,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1383,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1384,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1385,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1386,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1387,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1388,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed
+1389,synchronized to <*> stratum 3
+1390,RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1391,data_thread() got not answer from any <*> datasource
+1392,RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1393,data_thread() got not answer from any <*> datasource
+1394,session opened for user root by (uid=0)
+1395,Accepted publickey for root from ::ffff:10.100.248.3 port <*> ssh2
+1396,session opened for user root by (uid=0)
+1397,Accepted publickey for root from ::ffff:10.100.248.3 port <*> ssh2
+1398,session opened for user root by (uid=0)
+1399,Accepted publickey for root from ::ffff:10.100.248.3 port <*> ssh2
+1400,session opened for user root by (uid=0)
+1401,Accepted publickey for root from ::ffff:10.100.248.3 port <*> ssh2
+1402,synchronized to <*> stratum 3
+1403,Switching to runlevel: 0
+1404,shutting down for system halt
+1405,Switching to runlevel: 0
+1406,shutting down for system halt
+1407,Switching to runlevel: 0
+1408,shutting down for system halt
+1409,Switching to runlevel: 0
+1410,shutting down for system halt
+1411,Switching to runlevel: 0
+1412,shutting down for system halt
+1413,Switching to runlevel: 0
+1414,shutting down for system halt
+1415,Switching to runlevel: 0
+1416,shutting down for system halt
+1417,Switching to runlevel: 0
+1418,shutting down for system halt
+1419,Switching to runlevel: 0
+1420,shutting down for system halt
+1421,Switching to runlevel: 0
+1422,shutting down for system halt
+1423,Switching to runlevel: 0
+1424,shutting down for system halt
+1425,Switching to runlevel: 0
+1426,shutting down for system halt
+1427,Switching to runlevel: 0
+1428,shutting down for system halt
+1429,Switching to runlevel: 0
+1430,shutting down for system halt
+1431,Switching to runlevel: 0
+1432,shutting down for system halt
+1433,Switching to runlevel: 0
+1434,shutting down for system halt
+1435,Switching to runlevel: 0
+1436,shutting down for system halt
+1437,Switching to runlevel: 0
+1438,shutting down for system halt
+1439,Switching to runlevel: 0
+1440,shutting down for system halt
+1441,Switching to runlevel: 0
+1442,shutting down for system halt
+1443,Switching to runlevel: 0
+1444,shutting down for system halt
+1445,Switching to runlevel: 0
+1446,shutting down for system halt
+1447,Switching to runlevel: 0
+1448,shutting down for system halt
+1449,Switching to runlevel: 0
+1450,shutting down for system halt
+1451,Switching to runlevel: 0
+1452,shutting down for system halt
+1453,Switching to runlevel: 0
+1454,shutting down for system halt
+1455,Switching to runlevel: 0
+1456,shutting down for system halt
+1457,Switching to runlevel: 0
+1458,shutting down for system halt
+1459,Switching to runlevel: 0
+1460,shutting down for system halt
+1461,Switching to runlevel: 0
+1462,shutting down for system halt
+1463,Switching to runlevel: 0
+1464,shutting down for system halt
+1465,Switching to runlevel: 0
+1466,shutting down for system halt
+1467,Switching to runlevel: 0
+1468,shutting down for system halt
+1469,Switching to runlevel: 0
+1470,shutting down for system halt
+1471,Switching to runlevel: 0
+1472,shutting down for system halt
+1473,Switching to runlevel: 0
+1474,shutting down for system halt
+1475,Switching to runlevel: 0
+1476,shutting down for system halt
+1477,Switching to runlevel: 0
+1478,shutting down for system halt
+1479,Switching to runlevel: 0
+1480,shutting down for system halt
+1481,Switching to runlevel: 0
+1482,shutting down for system halt
+1483,Switching to runlevel: 0
+1484,shutting down for system halt
+1485,Switching to runlevel: 0
+1486,shutting down for system halt
+1487,Switching to runlevel: 0
+1488,shutting down for system halt
+1489,Switching to runlevel: 0
+1490,shutting down for system halt
+1491,Switching to runlevel: 0
+1492,shutting down for system halt
+1493,Switching to runlevel: 0
+1494,shutting down for system halt
+1495,Switching to runlevel: 0
+1496,shutting down for system halt
+1497,Switching to runlevel: 0
+1498,shutting down for system halt
+1499,Switching to runlevel: 0
+1500,shutting down for system halt
+1501,Switching to runlevel: 0
+1502,shutting down for system halt
+1503,Switching to runlevel: 0
+1504,shutting down for system halt
+1505,Switching to runlevel: 0
+1506,shutting down for system halt
+1507,Switching to runlevel: 0
+1508,shutting down for system halt
+1509,Switching to runlevel: 0
+1510,shutting down for system halt
+1511,Switching to runlevel: 0
+1512,shutting down for system halt
+1513,Switching to runlevel: 0
+1514,shutting down for system halt
+1515,Switching to runlevel: 0
+1516,shutting down for system halt
+1517,Switching to runlevel: 0
+1518,shutting down for system halt
+1519,Switching to runlevel: 0
+1520,shutting down for system halt
+1521,Switching to runlevel: 0
+1522,shutting down for system halt
+1523,Switching to runlevel: 0
+1524,shutting down for system halt
+1525,Switching to runlevel: 0
+1526,shutting down for system halt
+1527,Switching to runlevel: 0
+1528,shutting down for system halt
+1529,shutting down for system halt
+1530,shutting down for system halt
+1531,Switching to runlevel: 0
+1532,shutting down for system halt
+1533,Switching to runlevel: 0
+1534,shutting down for system halt
+1535,Switching to runlevel: 0
+1536,shutting down for system halt
+1537,Switching to runlevel: 0
+1538,shutting down for system halt
+1539,Switching to runlevel: 0
+1540,shutting down for system halt
+1541,Switching to runlevel: 0
+1542,shutting down for system halt
+1543,Switching to runlevel: 0
+1544,shutting down for system halt
+1545,Switching to runlevel: 0
+1546,shutting down for system halt
+1547,Switching to runlevel: 0
+1548,shutting down for system halt
+1549,Switching to runlevel: 0
+1550,shutting down for system halt
+1551,Switching to runlevel: 0
+1552,shutting down for system halt
+1553,Switching to runlevel: 0
+1554,shutting down for system halt
+1555,Switching to runlevel: 0
+1556,shutting down for system halt
+1557,shutting down for system halt
+1558,Switching to runlevel: 0
+1559,shutting down for system halt
+1560,shutting down for system halt
+1561,Switching to runlevel: 0
+1562,shutting down for system halt
+1563,Switching to runlevel: 0
+1564,shutting down for system halt
+1565,shutting down for system halt
+1566,Switching to runlevel: 0
+1567,shutting down for system halt
+1568,Switching to runlevel: 0
+1569,shutting down for system halt
+1570,Switching to runlevel: 0
+1571,shutting down for system halt
+1572,Switching to runlevel: 0
+1573,shutting down for system halt
+1574,Switching to runlevel: 0
+1575,shutting down for system halt
+1576,Switching to runlevel: 0
+1577,shutting down for system halt
+1578,Switching to runlevel: 0
+1579,shutting down for system halt
+1580,Switching to runlevel: 0
+1581,shutting down for system halt
+1582,Switching to runlevel: 0
+1583,shutting down for system halt
+1584,Switching to runlevel: 0
+1585,shutting down for system halt
+1586,Switching to runlevel: 0
+1587,shutting down for system halt
+1588,Switching to runlevel: 0
+1589,shutting down for system halt
+1590,shutting down for system halt
+1591,Switching to runlevel: 0
+1592,shutting down for system halt
+1593,Switching to runlevel: 0
+1594,shutting down for system halt
+1595,Switching to runlevel: 0
+1596,shutting down for system halt
+1597,Switching to runlevel: 0
+1598,shutting down for system halt
+1599,shutting down for system halt
+1600,shutting down for system halt
+1601,Switching to runlevel: 0
+1602,shutting down for system halt
+1603,shutting down for system halt
+1604,shutting down for system halt
+1605,Switching to runlevel: 0
+1606,shutting down for system halt
+1607,shutting down for system halt
+1608,Switching to runlevel: 0
+1609,shutting down for system halt
+1610,shutting down for system halt
+1611,shutting down for system halt
+1612,shutting down for system halt
+1613,shutting down for system halt
+1614,Switching to runlevel: 0
+1615,shutting down for system halt
+1616,shutting down for system halt
+1617,Switching to runlevel: 0
+1618,shutting down for system halt
+1619,Switching to runlevel: 0
+1620,shutting down for system halt
+1621,Switching to runlevel: 0
+1622,shutting down for system halt
+1623,Switching to runlevel: 0
+1624,shutting down for system halt
+1625,Switching to runlevel: 0
+1626,shutting down for system halt
+1627,Switching to runlevel: 0
+1628,shutting down for system halt
+1629,Switching to runlevel: 0
+1630,shutting down for system halt
+1631,shutting down for system halt
+1632,Switching to runlevel: 0
+1633,shutting down for system halt
+1634,Switching to runlevel: 0
+1635,shutting down for system halt
+1636,Switching to runlevel: 0
+1637,shutting down for system halt
+1638,shutting down for system halt
+1639,Switching to runlevel: 0
+1640,shutting down for system halt
+1641,shutting down for system halt
+1642,shutting down for system halt
+1643,shutting down for system halt
+1644,shutting down for system halt
+1645,shutting down for system halt
+1646,Switching to runlevel: 0
+1647,shutting down for system halt
+1648,Switching to runlevel: 0
+1649,shutting down for system halt
+1650,Switching to runlevel: 0
+1651,shutting down for system halt
+1652,shutting down for system halt
+1653,shutting down for system halt
+1654,shutting down for system halt
+1655,Switching to runlevel: 0
+1656,shutting down for system halt
+1657,Switching to runlevel: 0
+1658,shutting down for system halt
+1659,shutting down for system halt
+1660,Switching to runlevel: 0
+1661,shutting down for system halt
+1662,Switching to runlevel: 0
+1663,shutting down for system halt
+1664,shutting down for system halt
+1665,shutting down for system halt
+1666,Switching to runlevel: 0
+1667,shutting down for system halt
+1668,shutting down for system halt
+1669,Switching to runlevel: 0
+1670,shutting down for system halt
+1671,Switching to runlevel: 0
+1672,shutting down for system halt
+1673,shutting down for system halt
+1674,shutting down for system halt
+1675,Switching to runlevel: 0
+1676,shutting down for system halt
+1677,shutting down for system halt
+1678,Switching to runlevel: 0
+1679,shutting down for system halt
+1680,shutting down for system halt
+1681,shutting down for system halt
+1682,Switching to runlevel: 0
+1683,shutting down for system halt
+1684,Switching to runlevel: 0
+1685,shutting down for system halt
+1686,shutting down for system halt
+1687,shutting down for system halt
+1688,shutting down for system halt
+1689,shutting down for system halt
+1690,Switching to runlevel: 0
+1691,shutting down for system halt
+1692,shutting down for system halt
+1693,shutting down for system halt
+1694,shutting down for system halt
+1695,shutting down for system halt
+1696,shutting down for system halt
+1697,shutting down for system halt
+1698,Switching to runlevel: 0
+1699,shutting down for system halt
+1700,Switching to runlevel: 0
+1701,shutting down for system halt
+1702,Switching to runlevel: 0
+1703,shutting down for system halt
+1704,shutting down for system halt
+1705,shutting down for system halt
+1706,shutting down for system halt
+1707,shutting down for system halt
+1708,shutting down for system halt
+1709,shutting down for system halt
+1710,shutting down for system halt
+1711,shutting down for system halt
+1712,shutting down for system halt
+1713,shutting down for system halt
+1714,shutting down for system halt
+1715,Switching to runlevel: 0
+1716,shutting down for system halt
+1717,Switching to runlevel: 0
+1718,shutting down for system halt
+1719,Switching to runlevel: 0
+1720,shutting down for system halt
+1721,Switching to runlevel: 0
+1722,shutting down for system halt
+1723,Switching to runlevel: 0
+1724,shutting down for system halt
+1725,Switching to runlevel: 0
+1726,shutting down for system halt
+1727,Switching to runlevel: 0
+1728,shutting down for system halt
+1729,Switching to runlevel: 0
+1730,shutting down for system halt
+1731,Switching to runlevel: 0
+1732,shutting down for system halt
+1733,Switching to runlevel: 0
+1734,shutting down for system halt
+1735,Switching to runlevel: 0
+1736,shutting down for system halt
+1737,Switching to runlevel: 0
+1738,shutting down for system halt
+1739,Switching to runlevel: 0
+1740,shutting down for system halt
+1741,Switching to runlevel: 0
+1742,shutting down for system halt
+1743,Switching to runlevel: 0
+1744,shutting down for system halt
+1745,Switching to runlevel: 0
+1746,shutting down for system halt
+1747,Switching to runlevel: 0
+1748,shutting down for system halt
+1749,Switching to runlevel: 0
+1750,shutting down for system halt
+1751,Switching to runlevel: 0
+1752,shutting down for system halt
+1753,Switching to runlevel: 0
+1754,shutting down for system halt
+1755,Switching to runlevel: 0
+1756,shutting down for system halt
+1757,Switching to runlevel: 0
+1758,shutting down for system halt
+1759,Switching to runlevel: 0
+1760,shutting down for system halt
+1761,Switching to runlevel: 0
+1762,session closed for user <*>
+1763,session closed for user <*>
+1764,shutting down for system halt
+1765,session closed for user <*>
+1766,Switching to runlevel: 0
+1767,shutting down for system halt
+1768,<*> shutdown failed
+1769,<*> shutdown succeeded
+1770,<*> shutdown failed
+1771,<*> shutdown succeeded
+1772,Received TERM or STOP signal... shutting down...
+1773,Received signal 15; terminating.
+1774,Exiting... _ _ _
+1775,<*> shutdown failed
+1776,<*> shutdown failed
+1777,<*> shutdown succeeded
+1778,<*> shutdown failed
+1779,Received signal 15; terminating.
+1780,<*> shutdown failed
+1781,<*> shutdown failed
+1782,<*> shutdown failed
+1783,<*> shutdown failed
+1784,<*> shutdown failed
+1785,<*> shutdown failed
+1786,<*> shutdown failed
+1787,Switching to runlevel: 0
+1788,shutting down for system halt
+1789,<*> shutdown failed
+1790,<*> shutdown succeeded
+1791,<*> shutdown failed
+1792,<*> shutdown succeeded
+1793,Received TERM or STOP signal... shutting down...
+1794,Received signal 15; terminating.
+1795,Exiting... _ _ _
+1796,<*> shutdown failed
+1797,<*> shutdown failed
+1798,<*> shutdown failed
+1799,<*> shutdown failed
+1800,<*> shutdown failed
+1801,<*> shutdown failed
+1802,Switching to runlevel: 0
+1803,shutting down for system halt
+1804,Switching to runlevel: 0
+1805,shutting down for system halt
+1806,<*> shutdown failed
+1807,<*> shutdown failed
+1808,<*> shutdown failed
+1809,<*> shutdown failed
+1810,<*> shutdown failed
+1811,<*> shutdown failed
+1812,<*> shutdown failed
+1813,<*> shutdown failed
+1814,<*> shutdown failed
+1815,<*> shutdown succeeded
+1816,<*> shutdown failed
+1817,<*> shutdown succeeded
+1818,Received TERM or STOP signal... shutting down...
+1819,Received signal 15; terminating.
+1820,Exiting... _ _ _
+1821,<*> shutdown failed
+1822,<*> shutdown failed
+1823,<*> shutdown failed
+1824,<*> shutdown succeeded
+1825,<*> shutdown failed
+1826,<*> shutdown succeeded
+1827,Received TERM or STOP signal... shutting down...
+1828,Received signal 15; terminating.
+1829,Exiting... _ _ _
+1830,Switching to runlevel: 0
+1831,shutting down for system halt
+1832,<*> shutdown failed
+1833,<*> shutdown succeeded
+1834,<*> shutdown failed
+1835,<*> shutdown failed
+1836,<*> shutdown failed
+1837,<*> shutdown failed
+1838,Switching to runlevel: 0
+1839,shutting down for system halt
+1840,<*> shutdown failed
+1841,<*> shutdown failed
+1842,<*> shutdown failed
+1843,<*> shutdown failed
+1844,<*> shutdown failed
+1845,<*> shutdown failed
+1846,<*> shutdown succeeded
+1847,<*> shutdown failed
+1848,<*> shutdown succeeded
+1849,Received TERM or STOP signal... shutting down...
+1850,Received signal 15; terminating.
+1851,<*> shutdown failed
+1852,<*> shutdown failed
+1853,<*> shutdown failed
+1854,<*> shutdown failed
+1855,<*> shutdown failed
+1856,<*> shutdown failed
+1857,<*> shutdown failed
+1858,<*> shutdown failed
+1859,<*> shutdown failed
+1860,<*> shutdown failed
+1861,<*> shutdown failed
+1862,<*> shutdown failed
+1863,<*> shutdown failed
+1864,Switching to runlevel: 0
+1865,Switching to runlevel: 0
+1866,<*> shutdown failed
+1867,<*> shutdown failed
+1868,<*> shutdown failed
+1869,<*> shutdown failed
+1870,Switching to runlevel: 0
+1871,shutting down for system halt
+1872,<*> shutdown failed
+1873,<*> shutdown failed
+1874,<*> shutdown failed
+1875,<*> shutdown failed
+1876,<*> shutdown failed
+1877,<*> shutdown failed
+1878,Switching to runlevel: 0
+1879,<*> shutdown failed
+1880,<*> shutdown failed
+1881,<*> shutdown succeeded
+1882,<*> shutdown failed
+1883,Received signal 15; terminating.
+1884,Switching to runlevel: 0
+1885,<*> shutdown failed
+1886,<*> shutdown failed
+1887,Switching to runlevel: 0
+1888,<*> shutdown failed
+1889,<*> shutdown failed
+1890,<*> shutdown failed
+1891,<*> shutdown failed
+1892,<*> shutdown failed
+1893,<*> shutdown failed
+1894,<*> shutdown failed
+1895,Switching to runlevel: 0
+1896,shutting down for system halt
+1897,Switching to runlevel: 0
+1898,shutting down for system halt
+1899,<*> shutdown failed
+1900,<*> shutdown failed
+1901,Switching to runlevel: 0
+1902,<*> shutdown failed
+1903,Switching to runlevel: 0
+1904,shutting down for system halt
+1905,Switching to runlevel: 0
+1906,shutting down for system halt
+1907,<*> shutdown failed
+1908,<*> shutdown failed
+1909,<*> shutdown failed
+1910,Switching to runlevel: 0
+1911,Switching to runlevel: 0
+1912,Switching to runlevel: 0
+1913,shutting down for system halt
+1914,<*> shutdown failed
+1915,Switching to runlevel: 0
+1916,<*> shutdown failed
+1917,Switching to runlevel: 0
+1918,<*> shutdown failed
+1919,<*> shutdown failed
+1920,Switching to runlevel: 0
+1921,<*> shutdown failed
+1922,<*> shutdown failed
+1923,Switching to runlevel: 0
+1924,Switching to runlevel: 0
+1925,Switching to runlevel: 0
+1926,shutting down for system halt
+1927,Switching to runlevel: 0
+1928,<*> shutdown failed
+1929,Switching to runlevel: 0
+1930,<*> shutdown failed
+1931,Switching to runlevel: 0
+1932,<*> shutdown failed
+1933,<*> shutdown failed
+1934,Switching to runlevel: 0
+1935,shutting down for system halt
+1936,<*> shutdown failed
+1937,<*> shutdown failed
+1938,Switching to runlevel: 0
+1939,shutting down for system halt
+1940,<*> shutdown failed

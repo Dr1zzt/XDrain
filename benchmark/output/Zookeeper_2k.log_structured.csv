@@ -1,0 +1,2001 @@
+,EventTemplate
+0,Notification time out: <*> _ _
+1,Received connection request <*> _ _
+2,Send worker leaving thread _ _
+3,Interrupted while waiting for message on queue
+4,Send worker leaving thread _ _
+5,Connection broken for id <*> my id = <*> error =
+6,Received connection request <*> _ _
+7,Connection broken for id <*> my id = <*> error =
+8,Interrupted while waiting for message on queue
+9,Send worker leaving thread _ _
+10,Send worker leaving thread _ _
+11,Connection broken for id <*> my id = <*> error =
+12,Received connection request <*> _ _
+13,Connection broken for id <*> my id = <*> error =
+14,Interrupted while waiting for message on queue
+15,Interrupting SendWorker _ _ _ _
+16,Send worker leaving thread _ _
+17,Interrupting SendWorker _ _ _ _
+18,Interrupted while waiting for message on queue
+19,Received connection request <*> _ _
+20,Interrupting SendWorker _ _ _ _
+21,Send worker leaving thread _ _
+22,Interrupted while waiting for message on queue
+23,Interrupting SendWorker _ _ _ _
+24,Send worker leaving thread _ _
+25,Interrupted while waiting for message on queue
+26,Received connection request <*> _ _
+27,Interrupted while waiting for message on queue
+28,Interrupted while waiting for message on queue
+29,Interrupting SendWorker _ _ _ _
+30,Interrupted while waiting for message on queue
+31,Connection broken for id <*> my id = <*> error =
+32,Interrupted while waiting for message on queue
+33,Send worker leaving thread _ _
+34,Connection broken for id <*> my id = <*> error =
+35,Received connection request <*> _ _
+36,Interrupted while waiting for message on queue
+37,Interrupted while waiting for message on queue
+38,Interrupted while waiting for message on queue
+39,Connection broken for id <*> my id = <*> error =
+40,Interrupted while waiting for message on queue
+41,Interrupted while waiting for message on queue
+42,Received connection request <*> _ _
+43,Interrupting SendWorker _ _ _ _
+44,Interrupted while waiting for message on queue
+45,Interrupting SendWorker _ _ _ _
+46,Interrupting SendWorker _ _ _ _
+47,Received connection request <*> _ _
+48,Interrupted while waiting for message on queue
+49,Interrupted while waiting for message on queue
+50,Send worker leaving thread _ _
+51,Interrupting SendWorker _ _ _ _
+52,Interrupting SendWorker _ _ _ _
+53,Interrupted while waiting for message on queue
+54,Interrupting SendWorker _ _ _ _
+55,Received connection request <*> _ _
+56,Received connection request <*> _ _
+57,Interrupted while waiting for message on queue
+58,Connection broken for id <*> my id = <*> error =
+59,Interrupting SendWorker _ _ _ _
+60,Interrupting SendWorker _ _ _ _
+61,Connection broken for id <*> my id = <*> error =
+62,Send worker leaving thread _ _
+63,Received connection request <*> _ _
+64,Received connection request <*> _ _
+65,Send worker leaving thread _ _
+66,Interrupting SendWorker _ _ _ _
+67,Interrupted while waiting for message on queue
+68,Interrupted while waiting for message on queue
+69,Interrupting SendWorker _ _ _ _
+70,Send worker leaving thread _ _
+71,Interrupting SendWorker _ _ _ _
+72,Send worker leaving thread _ _
+73,Received connection request <*> _ _
+74,Interrupting SendWorker _ _ _ _
+75,Send worker leaving thread _ _
+76,Connection broken for id <*> my id = <*> error =
+77,Interrupted while waiting for message on queue
+78,Interrupted while waiting for message on queue
+79,Interrupting SendWorker _ _ _ _
+80,Received connection request <*> _ _
+81,Send worker leaving thread _ _
+82,Interrupted while waiting for message on queue
+83,Send worker leaving thread _ _
+84,Received connection request <*> _ _
+85,Interrupted while waiting for message on queue
+86,Interrupted while waiting for message on queue
+87,Interrupting SendWorker _ _ _ _
+88,Interrupting SendWorker _ _ _ _
+89,Received connection request <*> _ _
+90,Interrupting SendWorker _ _ _ _
+91,Connection broken for id <*> my id = <*> error =
+92,Interrupted while waiting for message on queue
+93,Send worker leaving thread _ _
+94,Received connection request <*> _ _
+95,Interrupted while waiting for message on queue
+96,Received connection request <*> _ _
+97,Send worker leaving thread _ _
+98,Connection broken for id <*> my id = <*> error =
+99,Interrupted while waiting for message on queue
+100,Interrupted while waiting for message on queue
+101,Interrupted while waiting for message on queue
+102,Connection broken for id <*> my id = <*> error =
+103,Interrupting SendWorker _ _ _ _
+104,Connection broken for id <*> my id = <*> error =
+105,Connection broken for id <*> my id = <*> error =
+106,Interrupting SendWorker _ _ _ _
+107,Received connection request <*> _ _
+108,Interrupting SendWorker _ _ _ _
+109,Interrupting SendWorker _ _ _ _
+110,Send worker leaving thread _ _
+111,Interrupting SendWorker _ _ _ _
+112,Interrupting SendWorker _ _ _ _
+113,Connection broken for id <*> my id = <*> error =
+114,Send worker leaving thread _ _
+115,Received connection request <*> _ _
+116,Interrupting SendWorker _ _ _ _
+117,Received connection request <*> _ _
+118,Interrupted while waiting for message on queue
+119,Send worker leaving thread _ _
+120,Interrupting SendWorker _ _ _ _
+121,Interrupted while waiting for message on queue
+122,Connection broken for id <*> my id = <*> error =
+123,Connection broken for id <*> my id = <*> error =
+124,Received connection request <*> _ _
+125,Interrupted while waiting for message on queue
+126,Interrupting SendWorker _ _ _ _
+127,Connection broken for id <*> my id = <*> error =
+128,Interrupting SendWorker _ _ _ _
+129,Connection broken for id <*> my id = <*> error =
+130,Interrupted while waiting for message on queue
+131,Received connection request <*> _ _
+132,Interrupting SendWorker _ _ _ _
+133,Send worker leaving thread _ _
+134,Connection broken for id <*> my id = <*> error =
+135,Received connection request <*> _ _
+136,Interrupting SendWorker _ _ _ _
+137,Interrupted while waiting for message on queue
+138,Connection broken for id <*> my id = <*> error =
+139,Interrupted while waiting for message on queue
+140,Interrupting SendWorker _ _ _ _
+141,Send worker leaving thread _ _
+142,Interrupted while waiting for message on queue
+143,Received connection request <*> _ _
+144,Interrupting SendWorker _ _ _ _
+145,Received connection request <*> _ _
+146,Send worker leaving thread _ _
+147,Send worker leaving thread _ _
+148,Interrupting SendWorker _ _ _ _
+149,Send worker leaving thread _ _
+150,Send worker leaving thread _ _
+151,Received connection request <*> _ _
+152,Connection broken for id <*> my id = <*> error =
+153,Interrupted while waiting for message on queue
+154,Interrupted while waiting for message on queue
+155,Connection broken for id <*> my id = <*> error =
+156,Interrupting SendWorker _ _ _ _
+157,Connection broken for id <*> my id = <*> error =
+158,Connection broken for id <*> my id = <*> error =
+159,Interrupted while waiting for message on queue
+160,Send worker leaving thread _ _
+161,Connection broken for id <*> my id = <*> error =
+162,Connection broken for id <*> my id = <*> error =
+163,Send worker leaving thread _ _
+164,Send worker leaving thread _ _
+165,Received connection request <*> _ _
+166,Interrupting SendWorker _ _ _ _
+167,Send worker leaving thread _ _
+168,Interrupting SendWorker _ _ _ _
+169,Received connection request <*> _ _
+170,Received connection request <*> _ _
+171,Send worker leaving thread _ _
+172,Interrupting SendWorker _ _ _ _
+173,Send worker leaving thread _ _
+174,Send worker leaving thread _ _
+175,Interrupted while waiting for message on queue
+176,Interrupted while waiting for message on queue
+177,Connection broken for id <*> my id = <*> error =
+178,Received connection request <*> _ _
+179,Connection broken for id <*> my id = <*> error =
+180,Interrupting SendWorker _ _ _ _
+181,Received connection request <*> _ _
+182,Interrupting SendWorker _ _ _ _
+183,Connection broken for id <*> my id = <*> error =
+184,Connection broken for id <*> my id = <*> error =
+185,Received connection request <*> _ _
+186,Connection broken for id <*> my id = <*> error =
+187,Received connection request <*> _ _
+188,Interrupting SendWorker _ _ _ _
+189,Received connection request <*> _ _
+190,Send worker leaving thread _ _
+191,Interrupted while waiting for message on queue
+192,Interrupting SendWorker _ _ _ _
+193,Interrupted while waiting for message on queue
+194,Interrupted while waiting for message on queue
+195,Send worker leaving thread _ _
+196,Interrupted while waiting for message on queue
+197,Received connection request <*> _ _
+198,Interrupted while waiting for message on queue
+199,Received connection request <*> _ _
+200,Received connection request <*> _ _
+201,Connection broken for id <*> my id = <*> error =
+202,Received connection request <*> _ _
+203,Received connection request <*> _ _
+204,Interrupting SendWorker _ _ _ _
+205,Interrupting SendWorker _ _ _ _
+206,Interrupted while waiting for message on queue
+207,Interrupting SendWorker _ _ _ _
+208,Interrupted while waiting for message on queue
+209,Connection broken for id <*> my id = <*> error =
+210,Interrupting SendWorker _ _ _ _
+211,Connection broken for id <*> my id = <*> error =
+212,Received connection request <*> _ _
+213,Connection broken for id <*> my id = <*> error =
+214,Received connection request <*> _ _
+215,Send worker leaving thread _ _
+216,Received connection request <*> _ _
+217,Received connection request <*> _ _
+218,Interrupted while waiting for message on queue
+219,Interrupting SendWorker _ _ _ _
+220,Received connection request <*> _ _
+221,Connection broken for id <*> my id = <*> error =
+222,Received connection request <*> _ _
+223,Interrupted while waiting for message on queue
+224,Received connection request <*> _ _
+225,Received connection request <*> _ _
+226,Send worker leaving thread _ _
+227,Received connection request <*> _ _
+228,Interrupted while waiting for message on queue
+229,Send worker leaving thread _ _
+230,Interrupting SendWorker _ _ _ _
+231,Interrupted while waiting for message on queue
+232,Send worker leaving thread _ _
+233,Interrupting SendWorker _ _ _ _
+234,Interrupted while waiting for message on queue
+235,Interrupting SendWorker _ _ _ _
+236,Send worker leaving thread _ _
+237,Interrupted while waiting for message on queue
+238,Send worker leaving thread _ _
+239,Interrupting SendWorker _ _ _ _
+240,Send worker leaving thread _ _
+241,Interrupting SendWorker _ _ _ _
+242,Send worker leaving thread _ _
+243,Send worker leaving thread _ _
+244,Interrupting SendWorker _ _ _ _
+245,Interrupted while waiting for message on queue
+246,Connection broken for id <*> my id = <*> error =
+247,Send worker leaving thread _ _
+248,Received connection request <*> _ _
+249,Interrupted while waiting for message on queue
+250,Interrupted while waiting for message on queue
+251,Send worker leaving thread _ _
+252,Interrupted while waiting for message on queue
+253,Connection broken for id <*> my id = <*> error =
+254,Interrupting SendWorker _ _ _ _
+255,Interrupting SendWorker _ _ _ _
+256,Connection broken for id <*> my id = <*> error =
+257,Interrupted while waiting for message on queue
+258,Send worker leaving thread _ _
+259,Interrupted while waiting for message on queue
+260,Connection broken for id <*> my id = <*> error =
+261,Send worker leaving thread _ _
+262,Interrupted while waiting for message on queue
+263,Received connection request <*> _ _
+264,Received connection request <*> _ _
+265,Send worker leaving thread _ _
+266,Connection broken for id <*> my id = <*> error =
+267,Interrupted while waiting for message on queue
+268,Interrupted while waiting for message on queue
+269,Received connection request <*> _ _
+270,Connection broken for id <*> my id = <*> error =
+271,Send worker leaving thread _ _
+272,Interrupting SendWorker _ _ _ _
+273,Connection broken for id <*> my id = <*> error =
+274,Interrupting SendWorker _ _ _ _
+275,Interrupting SendWorker _ _ _ _
+276,Interrupted while waiting for message on queue
+277,Interrupting SendWorker _ _ _ _
+278,Received connection request <*> _ _
+279,Interrupted while waiting for message on queue
+280,Send worker leaving thread _ _
+281,Interrupting SendWorker _ _ _ _
+282,Send worker leaving thread _ _
+283,Connection broken for id <*> my id = <*> error =
+284,Send worker leaving thread _ _
+285,Connection broken for id <*> my id = <*> error =
+286,Connection broken for id <*> my id = <*> error =
+287,Interrupting SendWorker _ _ _ _
+288,Interrupted while waiting for message on queue
+289,Send worker leaving thread _ _
+290,Interrupting SendWorker _ _ _ _
+291,Connection broken for id <*> my id = <*> error =
+292,Interrupted while waiting for message on queue
+293,Send worker leaving thread _ _
+294,Received connection request <*> _ _
+295,Interrupting SendWorker _ _ _ _
+296,Interrupting SendWorker _ _ _ _
+297,Interrupted while waiting for message on queue
+298,Send worker leaving thread _ _
+299,Connection broken for id <*> my id = <*> error =
+300,Interrupted while waiting for message on queue
+301,Connection broken for id <*> my id = <*> error =
+302,Received connection request <*> _ _
+303,Interrupted while waiting for message on queue
+304,Send worker leaving thread _ _
+305,Send worker leaving thread _ _
+306,Interrupted while waiting for message on queue
+307,Connection broken for id <*> my id = <*> error =
+308,Connection broken for id <*> my id = <*> error =
+309,Send worker leaving thread _ _
+310,Interrupting SendWorker _ _ _ _
+311,Received connection request <*> _ _
+312,Connection broken for id <*> my id = <*> error =
+313,Received connection request <*> _ _
+314,Interrupted while waiting for message on queue
+315,Connection broken for id <*> my id = <*> error =
+316,Interrupted while waiting for message on queue
+317,Interrupting SendWorker _ _ _ _
+318,Interrupting SendWorker _ _ _ _
+319,Send worker leaving thread _ _
+320,Send worker leaving thread _ _
+321,Send worker leaving thread _ _
+322,Connection broken for id <*> my id = <*> error =
+323,Interrupted while waiting for message on queue
+324,Received connection request <*> _ _
+325,Interrupted while waiting for message on queue
+326,Send worker leaving thread _ _
+327,Connection broken for id <*> my id = <*> error =
+328,Connection broken for id <*> my id = <*> error =
+329,Interrupted while waiting for message on queue
+330,Connection broken for id <*> my id = <*> error =
+331,Received connection request <*> _ _
+332,Interrupting SendWorker _ _ _ _
+333,Interrupted while waiting for message on queue
+334,Interrupted while waiting for message on queue
+335,Connection broken for id <*> my id = <*> error =
+336,Received connection request <*> _ _
+337,Connection broken for id <*> my id = <*> error =
+338,Interrupted while waiting for message on queue
+339,Interrupting SendWorker _ _ _ _
+340,Interrupting SendWorker _ _ _ _
+341,Send worker leaving thread _ _
+342,Interrupted while waiting for message on queue
+343,Received connection request <*> _ _
+344,Connection broken for id <*> my id = <*> error =
+345,Connection broken for id <*> my id = <*> error =
+346,Received connection request <*> _ _
+347,Interrupted while waiting for message on queue
+348,Received connection request <*> _ _
+349,Interrupted while waiting for message on queue
+350,Connection broken for id <*> my id = <*> error =
+351,Connection broken for id <*> my id = <*> error =
+352,Send worker leaving thread _ _
+353,Received connection request <*> _ _
+354,Interrupted while waiting for message on queue
+355,Interrupting SendWorker _ _ _ _
+356,Received connection request <*> _ _
+357,Send worker leaving thread _ _
+358,Connection broken for id <*> my id = <*> error =
+359,Send worker leaving thread _ _
+360,Connection broken for id <*> my id = <*> error =
+361,Received connection request <*> _ _
+362,Send worker leaving thread _ _
+363,Interrupted while waiting for message on queue
+364,Received connection request <*> _ _
+365,Send worker leaving thread _ _
+366,Received connection request <*> _ _
+367,Connection broken for id <*> my id = <*> error =
+368,Interrupting SendWorker _ _ _ _
+369,Interrupted while waiting for message on queue
+370,Received connection request <*> _ _
+371,Connection broken for id <*> my id = <*> error =
+372,Interrupting SendWorker _ _ _ _
+373,Received connection request <*> _ _
+374,Send worker leaving thread _ _
+375,Interrupting SendWorker _ _ _ _
+376,Connection broken for id <*> my id = <*> error =
+377,Interrupted while waiting for message on queue
+378,Connection broken for id <*> my id = <*> error =
+379,Interrupting SendWorker _ _ _ _
+380,Interrupting SendWorker _ _ _ _
+381,Interrupting SendWorker _ _ _ _
+382,Received connection request <*> _ _
+383,Connection broken for id <*> my id = <*> error =
+384,Interrupted while waiting for message on queue
+385,Interrupted while waiting for message on queue
+386,Send worker leaving thread _ _
+387,Interrupting SendWorker _ _ _ _
+388,Interrupting SendWorker _ _ _ _
+389,Received connection request <*> _ _
+390,Interrupted while waiting for message on queue
+391,Received connection request <*> _ _
+392,Interrupting SendWorker _ _ _ _
+393,Send worker leaving thread _ _
+394,Interrupting SendWorker _ _ _ _
+395,Interrupting SendWorker _ _ _ _
+396,Interrupted while waiting for message on queue
+397,Connection broken for id <*> my id = <*> error =
+398,Received connection request <*> _ _
+399,Connection broken for id <*> my id = <*> error =
+400,Received connection request <*> _ _
+401,Connection broken for id <*> my id = <*> error =
+402,Send worker leaving thread _ _
+403,Interrupted while waiting for message on queue
+404,Connection broken for id <*> my id = <*> error =
+405,Connection broken for id <*> my id = <*> error =
+406,Interrupting SendWorker _ _ _ _
+407,Send worker leaving thread _ _
+408,Received connection request <*> _ _
+409,Interrupted while waiting for message on queue
+410,Send worker leaving thread _ _
+411,Send worker leaving thread _ _
+412,Send worker leaving thread _ _
+413,Send worker leaving thread _ _
+414,Send worker leaving thread _ _
+415,Connection broken for id <*> my id = <*> error =
+416,Received connection request <*> _ _
+417,Interrupting SendWorker _ _ _ _
+418,Received connection request <*> _ _
+419,Connection broken for id <*> my id = <*> error =
+420,Interrupting SendWorker _ _ _ _
+421,Interrupting SendWorker _ _ _ _
+422,Interrupted while waiting for message on queue
+423,Interrupted while waiting for message on queue
+424,Received connection request <*> _ _
+425,Received connection request <*> _ _
+426,Connection broken for id <*> my id = <*> error =
+427,Interrupting SendWorker _ _ _ _
+428,Interrupted while waiting for message on queue
+429,Send worker leaving thread _ _
+430,Connection broken for id <*> my id = <*> error =
+431,Received connection request <*> _ _
+432,Send worker leaving thread _ _
+433,Interrupted while waiting for message on queue
+434,Connection broken for id <*> my id = <*> error =
+435,Received connection request <*> _ _
+436,Connection broken for id <*> my id = <*> error =
+437,Send worker leaving thread _ _
+438,Interrupted while waiting for message on queue
+439,Interrupting SendWorker _ _ _ _
+440,Connection broken for id <*> my id = <*> error =
+441,Received connection request <*> _ _
+442,Received connection request <*> _ _
+443,Interrupted while waiting for message on queue
+444,Send worker leaving thread _ _
+445,Received connection request <*> _ _
+446,Connection broken for id <*> my id = <*> error =
+447,Interrupted while waiting for message on queue
+448,Interrupting SendWorker _ _ _ _
+449,Send worker leaving thread _ _
+450,Received connection request <*> _ _
+451,Interrupted while waiting for message on queue
+452,Send worker leaving thread _ _
+453,Interrupting SendWorker _ _ _ _
+454,Interrupting SendWorker _ _ _ _
+455,Interrupted while waiting for message on queue
+456,Interrupted while waiting for message on queue
+457,Interrupted while waiting for message on queue
+458,Send worker leaving thread _ _
+459,Connection broken for id <*> my id = <*> error =
+460,Send worker leaving thread _ _
+461,Connection broken for id <*> my id = <*> error =
+462,Interrupting SendWorker _ _ _ _
+463,Interrupting SendWorker _ _ _ _
+464,Send worker leaving thread _ _
+465,Received connection request <*> _ _
+466,Connection broken for id <*> my id = <*> error =
+467,Send worker leaving thread _ _
+468,Connection broken for id <*> my id = <*> error =
+469,Received connection request <*> _ _
+470,Interrupted while waiting for message on queue
+471,Interrupted while waiting for message on queue
+472,Send worker leaving thread _ _
+473,Connection broken for id <*> my id = <*> error =
+474,Connection broken for id <*> my id = <*> error =
+475,Received connection request <*> _ _
+476,Interrupted while waiting for message on queue
+477,Send worker leaving thread _ _
+478,Interrupted while waiting for message on queue
+479,Received connection request <*> _ _
+480,Received connection request <*> _ _
+481,Connection broken for id <*> my id = <*> error =
+482,Received connection request <*> _ _
+483,Interrupted while waiting for message on queue
+484,Received connection request <*> _ _
+485,Connection broken for id <*> my id = <*> error =
+486,Received connection request <*> _ _
+487,Interrupted while waiting for message on queue
+488,Connection broken for id <*> my id = <*> error =
+489,Interrupted while waiting for message on queue
+490,Received connection request <*> _ _
+491,Interrupting SendWorker _ _ _ _
+492,Interrupting SendWorker _ _ _ _
+493,Received connection request <*> _ _
+494,Closed socket connection for client <*> which had sessionid <*>
+495,caught end of stream exception
+496,Closed socket connection for client <*> which had sessionid <*>
+497,Client attempting to renew session <*> at <*>
+498,Closed socket connection for client <*> which had sessionid <*>
+499,Client attempting to establish new session at <*>
+500,Established session <*> with negotiated timeout <*> for client <*>
+501,Established session <*> with negotiated timeout <*> for client <*>
+502,Accepted socket connection from <*>
+503,Accepted socket connection from <*>
+504,Closed socket connection for client <*> which had sessionid <*>
+505,Unexpected Exception: _ _ _ _
+506,Established session <*> with negotiated timeout <*> for client <*>
+507,Accepted socket connection from <*>
+508,Accepted socket connection from <*>
+509,Established session <*> with negotiated timeout <*> for client <*>
+510,Accepted socket connection from <*>
+511,Accepted socket connection from <*>
+512,Established session <*> with negotiated timeout <*> for client <*>
+513,Closed socket connection for client <*> which had sessionid <*>
+514,Established session <*> with negotiated timeout <*> for client <*>
+515,Client attempting to establish new session at <*>
+516,Client attempting to establish new session at <*>
+517,Established session <*> with negotiated timeout <*> for client <*>
+518,Client attempting to establish new session at <*>
+519,Client attempting to establish new session at <*>
+520,Closed socket connection for client <*> which had sessionid <*>
+521,Closed socket connection for client <*> which had sessionid <*>
+522,Connection request from old client <*> will be dropped if server is in r-o mode
+523,Accepted socket connection from <*>
+524,Client attempting to establish new session at <*>
+525,Client attempting to establish new session at <*>
+526,Connection request from old client <*> will be dropped if server is in r-o mode
+527,Connection request from old client <*> will be dropped if server is in r-o mode
+528,Client attempting to establish new session at <*>
+529,Connection request from old client <*> will be dropped if server is in r-o mode
+530,Closed socket connection for client <*> which had sessionid <*>
+531,Connection request from old client <*> will be dropped if server is in r-o mode
+532,Closed socket connection for client <*> which had sessionid <*>
+533,Client attempting to establish new session at <*>
+534,Established session <*> with negotiated timeout <*> for client <*>
+535,caught end of stream exception
+536,Client attempting to establish new session at <*>
+537,caught end of stream exception
+538,Closed socket connection for client <*> which had sessionid <*>
+539,Server <*> <*> _ _ _
+540,Connection request from old client <*> will be dropped if server is in r-o mode
+541,Cannot open channel to <*> at election address <*>
+542,Client attempting to establish new session at <*>
+543,Processed session termination for sessionid: <*>
+544,Processed session termination for sessionid: <*>
+545,caught end of stream exception
+546,Processed session termination for sessionid: <*>
+547,Connection request from old client <*> will be dropped if server is in r-o mode
+548,Processed session termination for sessionid: <*>
+549,Expiring session <*> timeout of <*> exceeded
+550,Processed session termination for sessionid: <*>
+551,Expiring session <*> timeout of <*> exceeded
+552,Processed session termination for sessionid: <*>
+553,caught end of stream exception
+554,Processed session termination for sessionid: <*>
+555,Connection request from old client <*> will be dropped if server is in r-o mode
+556,caught end of stream exception
+557,Closed socket connection for client <*> which had sessionid <*>
+558,Connection request from old client <*> will be dropped if server is in r-o mode
+559,Established session <*> with negotiated timeout <*> for client <*>
+560,Client attempting to establish new session at <*>
+561,Closed socket connection for client <*> which had sessionid <*>
+562,Expiring session <*> timeout of <*> exceeded
+563,Expiring session <*> timeout of <*> exceeded
+564,******* GOODBYE <*> ******** _ _
+565,LOOKING _ _ _ _ _
+566,Cannot open channel to <*> at election address <*>
+567,Cannot open channel to <*> at election address <*>
+568,Cannot open channel to <*> at election address <*>
+569,Interrupting SendWorker _ _ _ _
+570,Notification time out: <*> _ _
+571,Connection request from old client <*> will be dropped if server is in r-o mode
+572,Established session <*> with negotiated timeout <*> for client <*>
+573,caught end of stream exception
+574,caught end of stream exception
+575,Connection request from old client <*> will be dropped if server is in r-o mode
+576,Closed socket connection for client <*> which had sessionid <*>
+577,Accepted socket connection from <*>
+578,Connection request from old client <*> will be dropped if server is in r-o mode
+579,Connection request from old client <*> will be dropped if server is in r-o mode
+580,My election bind port: 0.0.0.0/0.0.0.0:3888
+581,"Have smaller server identifier, so dropping the connection: (2, 1)"
+582,FOLLOWING _ _ _ _ _
+583,Cannot open channel to <*> at election address <*>
+584,LOOKING _ _ _ _ _
+585,"New election. My id = 1, proposed zxid=0x700000000"
+586,Server <*> <*> _ _ _
+587,FOLLOWING - LEADER ELECTION TOOK - <*>
+588,Established session <*> with negotiated timeout <*> for client <*>
+589,Accepted socket connection from <*>
+590,Client attempting to establish new session at <*>
+591,Connection request from old client <*> will be dropped if server is in r-o mode
+592,Connection request from old client <*> will be dropped if server is in r-o mode
+593,caught end of stream exception
+594,Established session <*> with negotiated timeout <*> for client <*>
+595,Client attempting to establish new session at <*>
+596,Closed socket connection for client <*> which had sessionid <*>
+597,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+598,FOLLOWING - LEADER ELECTION TOOK - <*>
+599,Established session <*> with negotiated timeout <*> for client <*>
+600,caught end of stream exception
+601,Client attempting to establish new session at <*>
+602,Connection request from old client <*> will be dropped if server is in r-o mode
+603,Closed socket connection for client <*> which had sessionid <*>
+604,caught end of stream exception
+605,caught end of stream exception
+606,Established session <*> with negotiated timeout <*> for client <*>
+607,autopurge.snapRetainCount set to 3 _ _
+608,Server <*> <*> _ _ _
+609,Revalidating client: <*> _ _ _
+610,Established session <*> with negotiated timeout <*> for client <*>
+611,Established session <*> with negotiated timeout <*> for client <*>
+612,Client attempting to renew session <*> at <*>
+613,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT"
+614,Server <*> <*> _ _ _
+615,Revalidating client: <*> _ _ _
+616,caught end of stream exception
+617,Closed socket connection for client <*> which had sessionid <*>
+618,Received connection request <*> _ _
+619,Server <*> <*> _ _ _
+620,Accepted socket connection from <*>
+621,Client attempting to establish new session at <*>
+622,Closed socket connection for client <*> (no session established for client)
+623,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+624,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+625,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+626,Established session <*> with negotiated timeout <*> for client <*>
+627,Client attempting to establish new session at <*>
+628,Accepted socket connection from <*>
+629,Established session <*> with negotiated timeout <*> for client <*>
+630,Established session <*> with negotiated timeout <*> for client <*>
+631,Closed socket connection for client <*> which had sessionid <*>
+632,caught end of stream exception
+633,Closed socket connection for client <*> which had sessionid <*>
+634,Connection request from old client <*> will be dropped if server is in r-o mode
+635,Accepted socket connection from <*>
+636,Accepted socket connection from <*>
+637,tickTime set to 2000 _ _
+638,Cannot open channel to <*> at election address <*>
+639,Cannot open channel to <*> at election address <*>
+640,Notification time out: <*> _ _
+641,Cannot open channel to <*> at election address <*>
+642,Notification time out: <*> _ _
+643,Cannot open channel to <*> at election address <*>
+644,Cannot open channel to <*> at election address <*>
+645,Notification time out: <*> _ _
+646,Cannot open channel to <*> at election address <*>
+647,Notification time out: <*> _ _
+648,Cannot open channel to <*> at election address <*>
+649,Cannot open channel to <*> at election address <*>
+650,Cannot open channel to <*> at election address <*>
+651,Cannot open channel to <*> at election address <*>
+652,Cannot open channel to <*> at election address <*>
+653,Notification time out: <*> _ _
+654,Notification time out: <*> _ _
+655,Cannot open channel to <*> at election address <*>
+656,Cannot open channel to <*> at election address <*>
+657,Notification time out: <*> _ _
+658,Notification time out: <*> _ _
+659,Cannot open channel to <*> at election address <*>
+660,Cannot open channel to <*> at election address <*>
+661,Cannot open channel to <*> at election address <*>
+662,Cannot open channel to <*> at election address <*>
+663,Cannot open channel to <*> at election address <*>
+664,Cannot open channel to <*> at election address <*>
+665,Notification time out: <*> _ _
+666,Notification time out: <*> _ _
+667,Cannot open channel to <*> at election address <*>
+668,Cannot open channel to <*> at election address <*>
+669,Cannot open channel to <*> at election address <*>
+670,Cannot open channel to <*> at election address <*>
+671,Cannot open channel to <*> at election address <*>
+672,Notification time out: <*> _ _
+673,Cannot open channel to <*> at election address <*>
+674,Notification time out: <*> _ _
+675,Cannot open channel to <*> at election address <*>
+676,Notification time out: <*> _ _
+677,Cannot open channel to <*> at election address <*>
+678,Cannot open channel to <*> at election address <*>
+679,Cannot open channel to <*> at election address <*>
+680,Notification time out: <*> _ _
+681,Cannot open channel to <*> at election address <*>
+682,Cannot open channel to <*> at election address <*>
+683,Cannot open channel to <*> at election address <*>
+684,Cannot open channel to <*> at election address <*>
+685,Cannot open channel to <*> at election address <*>
+686,Notification time out: <*> _ _
+687,Cannot open channel to <*> at election address <*>
+688,Notification time out: <*> _ _
+689,Cannot open channel to <*> at election address <*>
+690,Notification time out: <*> _ _
+691,Notification time out: <*> _ _
+692,Cannot open channel to <*> at election address <*>
+693,Cannot open channel to <*> at election address <*>
+694,Cannot open channel to <*> at election address <*>
+695,Cannot open channel to <*> at election address <*>
+696,Notification time out: <*> _ _
+697,Cannot open channel to <*> at election address <*>
+698,Cannot open channel to <*> at election address <*>
+699,Notification time out: <*> _ _
+700,Cannot open channel to <*> at election address <*>
+701,Notification time out: <*> _ _
+702,Notification time out: <*> _ _
+703,Cannot open channel to <*> at election address <*>
+704,Cannot open channel to <*> at election address <*>
+705,Notification time out: <*> _ _
+706,Cannot open channel to <*> at election address <*>
+707,Cannot open channel to <*> at election address <*>
+708,Cannot open channel to <*> at election address <*>
+709,Cannot open channel to <*> at election address <*>
+710,Cannot open channel to <*> at election address <*>
+711,Notification time out: <*> _ _
+712,Cannot open channel to <*> at election address <*>
+713,Cannot open channel to <*> at election address <*>
+714,Cannot open channel to <*> at election address <*>
+715,Notification time out: <*> _ _
+716,Cannot open channel to <*> at election address <*>
+717,Notification time out: <*> _ _
+718,Cannot open channel to <*> at election address <*>
+719,Cannot open channel to <*> at election address <*>
+720,Cannot open channel to <*> at election address <*>
+721,Notification time out: <*> _ _
+722,Notification time out: <*> _ _
+723,Cannot open channel to <*> at election address <*>
+724,Cannot open channel to <*> at election address <*>
+725,Cannot open channel to <*> at election address <*>
+726,Notification time out: <*> _ _
+727,Cannot open channel to <*> at election address <*>
+728,Cannot open channel to <*> at election address <*>
+729,Cannot open channel to <*> at election address <*>
+730,Cannot open channel to <*> at election address <*>
+731,Notification time out: <*> _ _
+732,Cannot open channel to <*> at election address <*>
+733,Cannot open channel to <*> at election address <*>
+734,Cannot open channel to <*> at election address <*>
+735,Cannot open channel to <*> at election address <*>
+736,Cannot open channel to <*> at election address <*>
+737,Cannot open channel to <*> at election address <*>
+738,Notification time out: <*> _ _
+739,Notification time out: <*> _ _
+740,Cannot open channel to <*> at election address <*>
+741,Cannot open channel to <*> at election address <*>
+742,Cannot open channel to <*> at election address <*>
+743,Notification time out: <*> _ _
+744,Cannot open channel to <*> at election address <*>
+745,Cannot open channel to <*> at election address <*>
+746,Cannot open channel to <*> at election address <*>
+747,Cannot open channel to <*> at election address <*>
+748,Notification time out: <*> _ _
+749,Notification time out: <*> _ _
+750,Cannot open channel to <*> at election address <*>
+751,Connection broken for id <*> my id = <*> error =
+752,Cannot open channel to <*> at election address <*>
+753,Server <*> <*> _ _ _
+754,Unexpected exception causing shutdown while sock still open
+755,Unexpected exception causing shutdown while sock still open
+756,******* GOODBYE <*> ******** _ _
+757,Unexpected exception causing shutdown while sock still open
+758,Unexpected exception causing shutdown while sock still open
+759,******* GOODBYE <*> ******** _ _
+760,******* GOODBYE <*> ******** _ _
+761,******* GOODBYE <*> ******** _ _
+762,******* GOODBYE <*> ******** _ _
+763,Unexpected exception causing shutdown while sock still open
+764,******* GOODBYE <*> ******** _ _
+765,******* GOODBYE <*> ******** _ _
+766,******* GOODBYE <*> ******** _ _
+767,******* GOODBYE <*> ******** _ _
+768,******* GOODBYE <*> ******** _ _
+769,Unexpected exception causing shutdown while sock still open
+770,Unexpected exception causing shutdown while sock still open
+771,******* GOODBYE <*> ******** _ _
+772,******* GOODBYE <*> ******** _ _
+773,******* GOODBYE <*> ******** _ _
+774,******* GOODBYE <*> ******** _ _
+775,Unexpected exception causing shutdown while sock still open
+776,******* GOODBYE <*> ******** _ _
+777,Unexpected exception causing shutdown while sock still open
+778,Unexpected exception causing shutdown while sock still open
+779,Unexpected exception causing shutdown while sock still open
+780,******* GOODBYE <*> ******** _ _
+781,******* GOODBYE <*> ******** _ _
+782,******* GOODBYE <*> ******** _ _
+783,Unexpected exception causing shutdown while sock still open
+784,Interrupting SendWorker _ _ _ _
+785,Received connection request <*> _ _
+786,Connection broken for id <*> my id = <*> error =
+787,Received connection request <*> _ _
+788,Interrupting SendWorker _ _ _ _
+789,Connection broken for id <*> my id = <*> error =
+790,Received connection request <*> _ _
+791,Connection broken for id <*> my id = <*> error =
+792,Interrupting SendWorker _ _ _ _
+793,Interrupting SendWorker _ _ _ _
+794,Interrupted while waiting for message on queue
+795,Send worker leaving thread _ _
+796,Send worker leaving thread _ _
+797,Received connection request <*> _ _
+798,Interrupting SendWorker _ _ _ _
+799,Interrupted while waiting for message on queue
+800,Received connection request <*> _ _
+801,Send worker leaving thread _ _
+802,Connection broken for id <*> my id = <*> error =
+803,Interrupting SendWorker _ _ _ _
+804,Send worker leaving thread _ _
+805,Interrupting SendWorker _ _ _ _
+806,Connection broken for id <*> my id = <*> error =
+807,Send worker leaving thread _ _
+808,Connection broken for id <*> my id = <*> error =
+809,Received connection request <*> _ _
+810,Connection broken for id <*> my id = <*> error =
+811,Interrupted while waiting for message on queue
+812,Connection broken for id <*> my id = <*> error =
+813,Interrupting SendWorker _ _ _ _
+814,Received connection request <*> _ _
+815,Interrupting SendWorker _ _ _ _
+816,Received connection request <*> _ _
+817,Connection broken for id <*> my id = <*> error =
+818,Send worker leaving thread _ _
+819,Interrupting SendWorker _ _ _ _
+820,Received connection request <*> _ _
+821,Connection broken for id <*> my id = <*> error =
+822,Received connection request <*> _ _
+823,Interrupted while waiting for message on queue
+824,Connection broken for id <*> my id = <*> error =
+825,Connection broken for id <*> my id = <*> error =
+826,Received connection request <*> _ _
+827,Send worker leaving thread _ _
+828,Connection broken for id <*> my id = <*> error =
+829,Connection broken for id <*> my id = <*> error =
+830,Interrupted while waiting for message on queue
+831,Interrupting SendWorker _ _ _ _
+832,Connection broken for id <*> my id = <*> error =
+833,Interrupted while waiting for message on queue
+834,Interrupted while waiting for message on queue
+835,Interrupting SendWorker _ _ _ _
+836,Interrupted while waiting for message on queue
+837,Interrupted while waiting for message on queue
+838,Interrupting SendWorker _ _ _ _
+839,Interrupted while waiting for message on queue
+840,Interrupted while waiting for message on queue
+841,Send worker leaving thread _ _
+842,Interrupted while waiting for message on queue
+843,Interrupting SendWorker _ _ _ _
+844,Interrupted while waiting for message on queue
+845,Connection broken for id <*> my id = <*> error =
+846,Interrupting SendWorker _ _ _ _
+847,Interrupting SendWorker _ _ _ _
+848,Interrupted while waiting for message on queue
+849,Received connection request <*> _ _
+850,Send worker leaving thread _ _
+851,Interrupted while waiting for message on queue
+852,Interrupting SendWorker _ _ _ _
+853,Interrupted while waiting for message on queue
+854,Received connection request <*> _ _
+855,Received connection request <*> _ _
+856,Connection broken for id <*> my id = <*> error =
+857,Interrupting SendWorker _ _ _ _
+858,Received connection request <*> _ _
+859,Interrupted while waiting for message on queue
+860,Interrupted while waiting for message on queue
+861,Connection broken for id <*> my id = <*> error =
+862,Send worker leaving thread _ _
+863,Send worker leaving thread _ _
+864,Interrupted while waiting for message on queue
+865,Received connection request <*> _ _
+866,Send worker leaving thread _ _
+867,Interrupting SendWorker _ _ _ _
+868,Send worker leaving thread _ _
+869,Connection broken for id <*> my id = <*> error =
+870,Interrupting SendWorker _ _ _ _
+871,Received connection request <*> _ _
+872,Interrupting SendWorker _ _ _ _
+873,Received connection request <*> _ _
+874,Send worker leaving thread _ _
+875,Connection broken for id <*> my id = <*> error =
+876,Connection broken for id <*> my id = <*> error =
+877,Interrupted while waiting for message on queue
+878,Send worker leaving thread _ _
+879,Received connection request <*> _ _
+880,Interrupted while waiting for message on queue
+881,Send worker leaving thread _ _
+882,Interrupting SendWorker _ _ _ _
+883,Received connection request <*> _ _
+884,Interrupting SendWorker _ _ _ _
+885,Interrupted while waiting for message on queue
+886,Received connection request <*> _ _
+887,Received connection request <*> _ _
+888,Connection broken for id <*> my id = <*> error =
+889,Connection broken for id <*> my id = <*> error =
+890,Connection broken for id <*> my id = <*> error =
+891,Interrupted while waiting for message on queue
+892,Connection broken for id <*> my id = <*> error =
+893,Interrupting SendWorker _ _ _ _
+894,Interrupting SendWorker _ _ _ _
+895,Connection broken for id <*> my id = <*> error =
+896,Interrupting SendWorker _ _ _ _
+897,Interrupting SendWorker _ _ _ _
+898,Interrupting SendWorker _ _ _ _
+899,Interrupted while waiting for message on queue
+900,Interrupting SendWorker _ _ _ _
+901,Received connection request <*> _ _
+902,Send worker leaving thread _ _
+903,Connection broken for id <*> my id = <*> error =
+904,Send worker leaving thread _ _
+905,Connection broken for id <*> my id = <*> error =
+906,Send worker leaving thread _ _
+907,Send worker leaving thread _ _
+908,Interrupted while waiting for message on queue
+909,Received connection request <*> _ _
+910,Send worker leaving thread _ _
+911,Interrupting SendWorker _ _ _ _
+912,Send worker leaving thread _ _
+913,Received connection request <*> _ _
+914,Send worker leaving thread _ _
+915,Connection broken for id <*> my id = <*> error =
+916,Received connection request <*> _ _
+917,Send worker leaving thread _ _
+918,Interrupting SendWorker _ _ _ _
+919,Send worker leaving thread _ _
+920,Connection broken for id <*> my id = <*> error =
+921,Received connection request <*> _ _
+922,Send worker leaving thread _ _
+923,Send worker leaving thread _ _
+924,Received connection request <*> _ _
+925,Received connection request <*> _ _
+926,Received connection request <*> _ _
+927,Connection broken for id <*> my id = <*> error =
+928,Connection broken for id <*> my id = <*> error =
+929,Interrupting SendWorker _ _ _ _
+930,Connection broken for id <*> my id = <*> error =
+931,Send worker leaving thread _ _
+932,Send worker leaving thread _ _
+933,Interrupting SendWorker _ _ _ _
+934,Connection broken for id <*> my id = <*> error =
+935,Interrupted while waiting for message on queue
+936,Interrupted while waiting for message on queue
+937,Send worker leaving thread _ _
+938,Interrupting SendWorker _ _ _ _
+939,Send worker leaving thread _ _
+940,Interrupting SendWorker _ _ _ _
+941,Connection broken for id <*> my id = <*> error =
+942,Received connection request <*> _ _
+943,Interrupted while waiting for message on queue
+944,Connection broken for id <*> my id = <*> error =
+945,Send worker leaving thread _ _
+946,Interrupted while waiting for message on queue
+947,Received connection request <*> _ _
+948,Interrupted while waiting for message on queue
+949,Received connection request <*> _ _
+950,Received connection request <*> _ _
+951,Received connection request <*> _ _
+952,Received connection request <*> _ _
+953,Send worker leaving thread _ _
+954,Interrupted while waiting for message on queue
+955,Received connection request <*> _ _
+956,Interrupted while waiting for message on queue
+957,Interrupting SendWorker _ _ _ _
+958,Interrupted while waiting for message on queue
+959,Received connection request <*> _ _
+960,Send worker leaving thread _ _
+961,Interrupted while waiting for message on queue
+962,Send worker leaving thread _ _
+963,Connection broken for id <*> my id = <*> error =
+964,Connection broken for id <*> my id = <*> error =
+965,Interrupting SendWorker _ _ _ _
+966,Interrupted while waiting for message on queue
+967,Send worker leaving thread _ _
+968,Interrupted while waiting for message on queue
+969,Received connection request <*> _ _
+970,Send worker leaving thread _ _
+971,Connection broken for id <*> my id = <*> error =
+972,Received connection request <*> _ _
+973,Send worker leaving thread _ _
+974,Received connection request <*> _ _
+975,Connection broken for id <*> my id = <*> error =
+976,Received connection request <*> _ _
+977,Connection broken for id <*> my id = <*> error =
+978,Connection broken for id <*> my id = <*> error =
+979,Connection broken for id <*> my id = <*> error =
+980,Received connection request <*> _ _
+981,Interrupted while waiting for message on queue
+982,Interrupting SendWorker _ _ _ _
+983,Received connection request <*> _ _
+984,Received connection request <*> _ _
+985,Interrupted while waiting for message on queue
+986,Interrupting SendWorker _ _ _ _
+987,Send worker leaving thread _ _
+988,Send worker leaving thread _ _
+989,Send worker leaving thread _ _
+990,Interrupted while waiting for message on queue
+991,Received connection request <*> _ _
+992,Interrupting SendWorker _ _ _ _
+993,Interrupting SendWorker _ _ _ _
+994,Interrupted while waiting for message on queue
+995,Send worker leaving thread _ _
+996,Interrupting SendWorker _ _ _ _
+997,Connection broken for id <*> my id = <*> error =
+998,Received connection request <*> _ _
+999,Received connection request <*> _ _
+1000,Interrupted while waiting for message on queue
+1001,Connection broken for id <*> my id = <*> error =
+1002,Interrupting SendWorker _ _ _ _
+1003,Interrupted while waiting for message on queue
+1004,Interrupted while waiting for message on queue
+1005,Interrupted while waiting for message on queue
+1006,Connection broken for id <*> my id = <*> error =
+1007,Received connection request <*> _ _
+1008,Received connection request <*> _ _
+1009,Connection broken for id <*> my id = <*> error =
+1010,Interrupted while waiting for message on queue
+1011,Send worker leaving thread _ _
+1012,Send worker leaving thread _ _
+1013,Send worker leaving thread _ _
+1014,Interrupting SendWorker _ _ _ _
+1015,Interrupting SendWorker _ _ _ _
+1016,Interrupting SendWorker _ _ _ _
+1017,Connection broken for id <*> my id = <*> error =
+1018,Interrupting SendWorker _ _ _ _
+1019,Interrupted while waiting for message on queue
+1020,Send worker leaving thread _ _
+1021,Received connection request <*> _ _
+1022,Connection broken for id <*> my id = <*> error =
+1023,Send worker leaving thread _ _
+1024,Received connection request <*> _ _
+1025,Send worker leaving thread _ _
+1026,Send worker leaving thread _ _
+1027,Interrupting SendWorker _ _ _ _
+1028,Interrupted while waiting for message on queue
+1029,Interrupted while waiting for message on queue
+1030,Interrupting SendWorker _ _ _ _
+1031,Connection broken for id <*> my id = <*> error =
+1032,Interrupting SendWorker _ _ _ _
+1033,Received connection request <*> _ _
+1034,Connection broken for id <*> my id = <*> error =
+1035,Send worker leaving thread _ _
+1036,Interrupting SendWorker _ _ _ _
+1037,Connection broken for id <*> my id = <*> error =
+1038,Send worker leaving thread _ _
+1039,Interrupting SendWorker _ _ _ _
+1040,Received connection request <*> _ _
+1041,Interrupted while waiting for message on queue
+1042,Received connection request <*> _ _
+1043,Interrupting SendWorker _ _ _ _
+1044,Connection broken for id <*> my id = <*> error =
+1045,Connection broken for id <*> my id = <*> error =
+1046,Send worker leaving thread _ _
+1047,Interrupting SendWorker _ _ _ _
+1048,Send worker leaving thread _ _
+1049,Connection broken for id <*> my id = <*> error =
+1050,Received connection request <*> _ _
+1051,Interrupting SendWorker _ _ _ _
+1052,Send worker leaving thread _ _
+1053,Interrupted while waiting for message on queue
+1054,Connection broken for id <*> my id = <*> error =
+1055,Received connection request <*> _ _
+1056,Interrupting SendWorker _ _ _ _
+1057,Received connection request <*> _ _
+1058,Interrupted while waiting for message on queue
+1059,Send worker leaving thread _ _
+1060,Connection broken for id <*> my id = <*> error =
+1061,Interrupting SendWorker _ _ _ _
+1062,Connection broken for id <*> my id = <*> error =
+1063,Send worker leaving thread _ _
+1064,Interrupted while waiting for message on queue
+1065,Interrupting SendWorker _ _ _ _
+1066,Interrupted while waiting for message on queue
+1067,Received connection request <*> _ _
+1068,Send worker leaving thread _ _
+1069,Interrupting SendWorker _ _ _ _
+1070,Send worker leaving thread _ _
+1071,Connection broken for id <*> my id = <*> error =
+1072,Received connection request <*> _ _
+1073,Interrupted while waiting for message on queue
+1074,Received connection request <*> _ _
+1075,Interrupting SendWorker _ _ _ _
+1076,Interrupted while waiting for message on queue
+1077,Interrupting SendWorker _ _ _ _
+1078,Received connection request <*> _ _
+1079,Connection broken for id <*> my id = <*> error =
+1080,Interrupting SendWorker _ _ _ _
+1081,Interrupting SendWorker _ _ _ _
+1082,Interrupting SendWorker _ _ _ _
+1083,Received connection request <*> _ _
+1084,Interrupting SendWorker _ _ _ _
+1085,Connection broken for id <*> my id = <*> error =
+1086,Received connection request <*> _ _
+1087,Send worker leaving thread _ _
+1088,Connection broken for id <*> my id = <*> error =
+1089,Interrupted while waiting for message on queue
+1090,Received connection request <*> _ _
+1091,Interrupting SendWorker _ _ _ _
+1092,Interrupted while waiting for message on queue
+1093,Connection broken for id <*> my id = <*> error =
+1094,Interrupting SendWorker _ _ _ _
+1095,Connection broken for id <*> my id = <*> error =
+1096,Interrupted while waiting for message on queue
+1097,Send worker leaving thread _ _
+1098,Interrupting SendWorker _ _ _ _
+1099,Connection broken for id <*> my id = <*> error =
+1100,Send worker leaving thread _ _
+1101,Interrupted while waiting for message on queue
+1102,Interrupted while waiting for message on queue
+1103,Interrupted while waiting for message on queue
+1104,Interrupted while waiting for message on queue
+1105,Connection broken for id <*> my id = <*> error =
+1106,Interrupting SendWorker _ _ _ _
+1107,Received connection request <*> _ _
+1108,Send worker leaving thread _ _
+1109,Interrupted while waiting for message on queue
+1110,Send worker leaving thread _ _
+1111,Interrupted while waiting for message on queue
+1112,Received connection request <*> _ _
+1113,Connection broken for id <*> my id = <*> error =
+1114,Connection broken for id <*> my id = <*> error =
+1115,Send worker leaving thread _ _
+1116,Interrupted while waiting for message on queue
+1117,Connection broken for id <*> my id = <*> error =
+1118,Interrupted while waiting for message on queue
+1119,Send worker leaving thread _ _
+1120,Interrupted while waiting for message on queue
+1121,Interrupted while waiting for message on queue
+1122,Interrupted while waiting for message on queue
+1123,Interrupting SendWorker _ _ _ _
+1124,Send worker leaving thread _ _
+1125,Interrupted while waiting for message on queue
+1126,Interrupted while waiting for message on queue
+1127,Send worker leaving thread _ _
+1128,Received connection request <*> _ _
+1129,Send worker leaving thread _ _
+1130,Connection broken for id <*> my id = <*> error =
+1131,Interrupted while waiting for message on queue
+1132,Send worker leaving thread _ _
+1133,Interrupting SendWorker _ _ _ _
+1134,Interrupting SendWorker _ _ _ _
+1135,Interrupted while waiting for message on queue
+1136,Connection broken for id <*> my id = <*> error =
+1137,Send worker leaving thread _ _
+1138,Send worker leaving thread _ _
+1139,Received connection request <*> _ _
+1140,Interrupted while waiting for message on queue
+1141,Interrupted while waiting for message on queue
+1142,Interrupting SendWorker _ _ _ _
+1143,Interrupting SendWorker _ _ _ _
+1144,Interrupted while waiting for message on queue
+1145,Send worker leaving thread _ _
+1146,Received connection request <*> _ _
+1147,Received connection request <*> _ _
+1148,Received connection request <*> _ _
+1149,Interrupted while waiting for message on queue
+1150,Connection broken for id <*> my id = <*> error =
+1151,Connection broken for id <*> my id = <*> error =
+1152,Send worker leaving thread _ _
+1153,Connection broken for id <*> my id = <*> error =
+1154,Received connection request <*> _ _
+1155,Interrupting SendWorker _ _ _ _
+1156,Connection broken for id <*> my id = <*> error =
+1157,Send worker leaving thread _ _
+1158,Interrupting SendWorker _ _ _ _
+1159,Interrupting SendWorker _ _ _ _
+1160,Received connection request <*> _ _
+1161,Send worker leaving thread _ _
+1162,Received connection request <*> _ _
+1163,Interrupted while waiting for message on queue
+1164,Received connection request <*> _ _
+1165,Connection broken for id <*> my id = <*> error =
+1166,Interrupted while waiting for message on queue
+1167,Connection broken for id <*> my id = <*> error =
+1168,Connection broken for id <*> my id = <*> error =
+1169,Send worker leaving thread _ _
+1170,Interrupted while waiting for message on queue
+1171,Connection broken for id <*> my id = <*> error =
+1172,Interrupting SendWorker _ _ _ _
+1173,Connection broken for id <*> my id = <*> error =
+1174,Received connection request <*> _ _
+1175,Interrupted while waiting for message on queue
+1176,Interrupting SendWorker _ _ _ _
+1177,Interrupted while waiting for message on queue
+1178,Received connection request <*> _ _
+1179,Connection broken for id <*> my id = <*> error =
+1180,Send worker leaving thread _ _
+1181,Connection broken for id <*> my id = <*> error =
+1182,Connection broken for id <*> my id = <*> error =
+1183,Interrupted while waiting for message on queue
+1184,Connection broken for id <*> my id = <*> error =
+1185,Send worker leaving thread _ _
+1186,Connection broken for id <*> my id = <*> error =
+1187,Send worker leaving thread _ _
+1188,Send worker leaving thread _ _
+1189,Received connection request <*> _ _
+1190,Connection broken for id <*> my id = <*> error =
+1191,Interrupting SendWorker _ _ _ _
+1192,Interrupting SendWorker _ _ _ _
+1193,Connection broken for id <*> my id = <*> error =
+1194,Interrupted while waiting for message on queue
+1195,Interrupting SendWorker _ _ _ _
+1196,Interrupted while waiting for message on queue
+1197,Send worker leaving thread _ _
+1198,Interrupted while waiting for message on queue
+1199,Interrupting SendWorker _ _ _ _
+1200,Connection broken for id <*> my id = <*> error =
+1201,Connection broken for id <*> my id = <*> error =
+1202,Send worker leaving thread _ _
+1203,Interrupted while waiting for message on queue
+1204,Interrupted while waiting for message on queue
+1205,Interrupting SendWorker _ _ _ _
+1206,Send worker leaving thread _ _
+1207,Send worker leaving thread _ _
+1208,Interrupting SendWorker _ _ _ _
+1209,Received connection request <*> _ _
+1210,Interrupted while waiting for message on queue
+1211,Interrupted while waiting for message on queue
+1212,Connection broken for id <*> my id = <*> error =
+1213,Received connection request <*> _ _
+1214,Interrupted while waiting for message on queue
+1215,Received connection request <*> _ _
+1216,Interrupting SendWorker _ _ _ _
+1217,Interrupting SendWorker _ _ _ _
+1218,Received connection request <*> _ _
+1219,Received connection request <*> _ _
+1220,Received connection request <*> _ _
+1221,Interrupted while waiting for message on queue
+1222,Received connection request <*> _ _
+1223,Received connection request <*> _ _
+1224,Send worker leaving thread _ _
+1225,Connection broken for id <*> my id = <*> error =
+1226,Interrupted while waiting for message on queue
+1227,Interrupting SendWorker _ _ _ _
+1228,Interrupting SendWorker _ _ _ _
+1229,Connection broken for id <*> my id = <*> error =
+1230,Connection broken for id <*> my id = <*> error =
+1231,Received connection request <*> _ _
+1232,Interrupted while waiting for message on queue
+1233,Received connection request <*> _ _
+1234,Received connection request <*> _ _
+1235,Interrupting SendWorker _ _ _ _
+1236,Connection broken for id <*> my id = <*> error =
+1237,Received connection request <*> _ _
+1238,Interrupted while waiting for message on queue
+1239,Interrupted while waiting for message on queue
+1240,Send worker leaving thread _ _
+1241,Interrupting SendWorker _ _ _ _
+1242,Interrupted while waiting for message on queue
+1243,Send worker leaving thread _ _
+1244,Send worker leaving thread _ _
+1245,Interrupting SendWorker _ _ _ _
+1246,Interrupted while waiting for message on queue
+1247,Connection broken for id <*> my id = <*> error =
+1248,Interrupted while waiting for message on queue
+1249,Interrupted while waiting for message on queue
+1250,Interrupted while waiting for message on queue
+1251,Send worker leaving thread _ _
+1252,Received connection request <*> _ _
+1253,Interrupted while waiting for message on queue
+1254,Send worker leaving thread _ _
+1255,Interrupted while waiting for message on queue
+1256,Connection broken for id <*> my id = <*> error =
+1257,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+1258,caught end of stream exception
+1259,Accepted socket connection from <*>
+1260,Processed session termination for sessionid: <*>
+1261,Processed session termination for sessionid: <*>
+1262,Processed session termination for sessionid: <*>
+1263,Accepted socket connection from <*>
+1264,Send worker leaving thread _ _
+1265,Connection request from old client <*> will be dropped if server is in r-o mode
+1266,Client attempting to establish new session at <*>
+1267,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1268,Accepted socket connection from <*>
+1269,Accepted socket connection from <*>
+1270,Processed session termination for sessionid: <*>
+1271,Accepted socket connection from <*>
+1272,Connection request from old client <*> will be dropped if server is in r-o mode
+1273,Client attempting to establish new session at <*>
+1274,Expiring session <*> timeout of <*> exceeded
+1275,Processed session termination for sessionid: <*>
+1276,Expiring session <*> timeout of <*> exceeded
+1277,Expiring session <*> timeout of <*> exceeded
+1278,Client attempting to establish new session at <*>
+1279,Processed session termination for sessionid: <*>
+1280,Closed socket connection for client <*> which had sessionid <*>
+1281,Processed session termination for sessionid: <*>
+1282,Expiring session <*> timeout of <*> exceeded
+1283,Processed session termination for sessionid: <*>
+1284,Processed session termination for sessionid: <*>
+1285,Accepted socket connection from <*>
+1286,Processed session termination for sessionid: <*>
+1287,Client attempting to establish new session at <*>
+1288,Expiring session <*> timeout of <*> exceeded
+1289,Processed session termination for sessionid: <*>
+1290,Connection request from old client <*> will be dropped if server is in r-o mode
+1291,Accepted socket connection from <*>
+1292,Accepted socket connection from <*>
+1293,Expiring session <*> timeout of <*> exceeded
+1294,Processed session termination for sessionid: <*>
+1295,Closed socket connection for client <*> which had sessionid <*>
+1296,Closed socket connection for client <*> which had sessionid <*>
+1297,caught end of stream exception
+1298,Processed session termination for sessionid: <*>
+1299,Established session <*> with negotiated timeout <*> for client <*>
+1300,Expiring session <*> timeout of <*> exceeded
+1301,Closed socket connection for client <*> which had sessionid <*>
+1302,caught end of stream exception
+1303,Accepted socket connection from <*>
+1304,Accepted socket connection from <*>
+1305,Established session <*> with negotiated timeout <*> for client <*>
+1306,Established session <*> with negotiated timeout <*> for client <*>
+1307,Accepted socket connection from <*>
+1308,caught end of stream exception
+1309,Processed session termination for sessionid: <*>
+1310,caught end of stream exception
+1311,Processed session termination for sessionid: <*>
+1312,Processed session termination for sessionid: <*>
+1313,caught end of stream exception
+1314,Expiring session <*> timeout of <*> exceeded
+1315,Expiring session <*> timeout of <*> exceeded
+1316,Processed session termination for sessionid: <*>
+1317,Processed session termination for sessionid: <*>
+1318,Established session <*> with negotiated timeout <*> for client <*>
+1319,Established session <*> with negotiated timeout <*> for client <*>
+1320,Processed session termination for sessionid: <*>
+1321,Closed socket connection for client <*> which had sessionid <*>
+1322,caught end of stream exception
+1323,Processed session termination for sessionid: <*>
+1324,Expiring session <*> timeout of <*> exceeded
+1325,Processed session termination for sessionid: <*>
+1326,Established session <*> with negotiated timeout <*> for client <*>
+1327,Connection request from old client <*> will be dropped if server is in r-o mode
+1328,Expiring session <*> timeout of <*> exceeded
+1329,Expiring session <*> timeout of <*> exceeded
+1330,Expiring session <*> timeout of <*> exceeded
+1331,Processed session termination for sessionid: <*>
+1332,Client attempting to establish new session at <*>
+1333,Connection request from old client <*> will be dropped if server is in r-o mode
+1334,Client attempting to establish new session at <*>
+1335,caught end of stream exception
+1336,Received connection request <*> _ _
+1337,caught end of stream exception
+1338,caught end of stream exception
+1339,Established session <*> with negotiated timeout <*> for client <*>
+1340,Closed socket connection for client <*> which had sessionid <*>
+1341,Client attempting to establish new session at <*>
+1342,Established session <*> with negotiated timeout <*> for client <*>
+1343,Established session <*> with negotiated timeout <*> for client <*>
+1344,Accepted socket connection from <*>
+1345,Client attempting to establish new session at <*>
+1346,caught end of stream exception
+1347,Established session <*> with negotiated timeout <*> for client <*>
+1348,Starting quorum peer _ _ _
+1349,Snapshotting: <*> to <*> _ _
+1350,Client attempting to establish new session at <*>
+1351,Closed socket connection for client <*> which had sessionid <*>
+1352,Expiring session <*> timeout of <*> exceeded
+1353,Expiring session <*> timeout of <*> exceeded
+1354,Connection request from old client <*> will be dropped if server is in r-o mode
+1355,Client attempting to establish new session at <*>
+1356,Established session <*> with negotiated timeout <*> for client <*>
+1357,Expiring session <*> timeout of <*> exceeded
+1358,Closed socket connection for client <*> which had sessionid <*>
+1359,Processed session termination for sessionid: <*>
+1360,Accepted socket connection from <*>
+1361,Accepted socket connection from <*>
+1362,Expiring session <*> timeout of <*> exceeded
+1363,Processed session termination for sessionid: <*>
+1364,Processed session termination for sessionid: <*>
+1365,Expiring session <*> timeout of <*> exceeded
+1366,Closed socket connection for client <*> which had sessionid <*>
+1367,Client attempting to establish new session at <*>
+1368,caught end of stream exception
+1369,Closed socket connection for client <*> which had sessionid <*>
+1370,Expiring session <*> timeout of <*> exceeded
+1371,Connection request from old client <*> will be dropped if server is in r-o mode
+1372,Client attempting to establish new session at <*>
+1373,caught end of stream exception
+1374,Processed session termination for sessionid: <*>
+1375,Processed session termination for sessionid: <*>
+1376,autopurge.purgeInterval set to 0 _ _
+1377,Received connection request <*> _ _
+1378,Snapshotting: <*> to <*> _ _
+1379,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
+1380,Interrupted while waiting for message on queue
+1381,Closed socket connection for client <*> which had sessionid <*>
+1382,Processed session termination for sessionid: <*>
+1383,Established session <*> with negotiated timeout <*> for client <*>
+1384,Expiring session <*> timeout of <*> exceeded
+1385,Expiring session <*> timeout of <*> exceeded
+1386,Processed session termination for sessionid: <*>
+1387,Processed session termination for sessionid: <*>
+1388,Processed session termination for sessionid: <*>
+1389,Established session <*> with negotiated timeout <*> for client <*>
+1390,Established session <*> with negotiated timeout <*> for client <*>
+1391,Accepted socket connection from <*>
+1392,Client attempting to establish new session at <*>
+1393,Expiring session <*> timeout of <*> exceeded
+1394,Expiring session <*> timeout of <*> exceeded
+1395,Expiring session <*> timeout of <*> exceeded
+1396,Expiring session <*> timeout of <*> exceeded
+1397,Cannot open channel to <*> at election address <*>
+1398,Connection request from old client <*> will be dropped if server is in r-o mode
+1399,Connection request from old client <*> will be dropped if server is in r-o mode
+1400,caught end of stream exception
+1401,Client attempting to establish new session at <*>
+1402,Established session <*> with negotiated timeout <*> for client <*>
+1403,Connection request from old client <*> will be dropped if server is in r-o mode
+1404,Connection request from old client <*> will be dropped if server is in r-o mode
+1405,Revalidating client: <*> _ _ _
+1406,autopurge.purgeInterval set to 0 _ _
+1407,maxSessionTimeout set to -1 _ _
+1408,Received connection request <*> _ _
+1409,FOLLOWING _ _ _ _ _
+1410,Connection request from old client <*> will be dropped if server is in r-o mode
+1411,Accepted socket connection from <*>
+1412,Client attempting to renew session <*> at <*>
+1413,caught end of stream exception
+1414,Closed socket connection for client <*> which had sessionid <*>
+1415,Established session <*> with negotiated timeout <*> for client <*>
+1416,Accepted socket connection from <*>
+1417,Server <*> <*> _ _ _
+1418,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
+1419,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1420,Expiring session <*> timeout of <*> exceeded
+1421,Processed session termination for sessionid: <*>
+1422,Processed session termination for sessionid: <*>
+1423,Client attempting to establish new session at <*>
+1424,Expiring session <*> timeout of <*> exceeded
+1425,Processed session termination for sessionid: <*>
+1426,Expiring session <*> timeout of <*> exceeded
+1427,shutdown of request processor complete
+1428,Accepted socket connection from <*>
+1429,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+1430,Closed socket connection for client <*> (no session established for client)
+1431,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+1432,First is 0x0 _ _ _
+1433,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1434,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1435,Expiring session <*> timeout of <*> exceeded
+1436,Expiring session <*> timeout of <*> exceeded
+1437,Expiring session <*> timeout of <*> exceeded
+1438,Closed socket connection for client <*> which had sessionid <*>
+1439,Expiring session <*> timeout of <*> exceeded
+1440,Established session <*> with negotiated timeout <*> for client <*>
+1441,Processed session termination for sessionid: <*>
+1442,Processed session termination for sessionid: <*>
+1443,Accepted socket connection from <*>
+1444,Established session <*> with negotiated timeout <*> for client <*>
+1445,caught end of stream exception
+1446,Closed socket connection for client <*> which had sessionid <*>
+1447,Closed socket connection for client <*> which had sessionid <*>
+1448,Closed socket connection for client <*> which had sessionid <*>
+1449,Processed session termination for sessionid: <*>
+1450,Client attempting to establish new session at <*>
+1451,Connection request from old client <*> will be dropped if server is in r-o mode
+1452,Expiring session <*> timeout of <*> exceeded
+1453,autopurge.purgeInterval set to 0 _ _
+1454,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084 _ _ _
+1455,Sending DIFF _ _ _ _
+1456,Expiring session <*> timeout of <*> exceeded
+1457,Processed session termination for sessionid: <*>
+1458,Processed session termination for sessionid: <*>
+1459,LOOKING _ _ _ _ _
+1460,Getting a snapshot from leader
+1461,Cannot open channel to <*> at election address <*>
+1462,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1463,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1464,Interrupted while waiting for message on queue
+1465,Connection broken for id <*> my id = <*> error =
+1466,Connection broken for id <*> my id = <*> error =
+1467,Send worker leaving thread _ _
+1468,Send worker leaving thread _ _
+1469,Send worker leaving thread _ _
+1470,Interrupted while waiting for message on queue
+1471,Interrupting SendWorker _ _ _ _
+1472,Send worker leaving thread _ _
+1473,Send worker leaving thread _ _
+1474,Received connection request <*> _ _
+1475,Connection broken for id <*> my id = <*> error =
+1476,Interrupting SendWorker _ _ _ _
+1477,Received connection request <*> _ _
+1478,Interrupted while waiting for message on queue
+1479,Connection broken for id <*> my id = <*> error =
+1480,Received connection request <*> _ _
+1481,Send worker leaving thread _ _
+1482,Received connection request <*> _ _
+1483,Send worker leaving thread _ _
+1484,Interrupting SendWorker _ _ _ _
+1485,Connection broken for id <*> my id = <*> error =
+1486,Send worker leaving thread _ _
+1487,Connection broken for id <*> my id = <*> error =
+1488,Send worker leaving thread _ _
+1489,Connection broken for id <*> my id = <*> error =
+1490,Interrupting SendWorker _ _ _ _
+1491,Send worker leaving thread _ _
+1492,Received connection request <*> _ _
+1493,Received connection request <*> _ _
+1494,Interrupting SendWorker _ _ _ _
+1495,Interrupting SendWorker _ _ _ _
+1496,Received connection request <*> _ _
+1497,Connection broken for id <*> my id = <*> error =
+1498,Send worker leaving thread _ _
+1499,Received connection request <*> _ _
+1500,Received connection request <*> _ _
+1501,Connection broken for id <*> my id = <*> error =
+1502,Send worker leaving thread _ _
+1503,Interrupted while waiting for message on queue
+1504,Connection broken for id <*> my id = <*> error =
+1505,Connection broken for id <*> my id = <*> error =
+1506,Interrupted while waiting for message on queue
+1507,Interrupted while waiting for message on queue
+1508,Send worker leaving thread _ _
+1509,Connection broken for id <*> my id = <*> error =
+1510,Interrupting SendWorker _ _ _ _
+1511,Received connection request <*> _ _
+1512,Received connection request <*> _ _
+1513,Interrupted while waiting for message on queue
+1514,Connection broken for id <*> my id = <*> error =
+1515,Send worker leaving thread _ _
+1516,Received connection request <*> _ _
+1517,Send worker leaving thread _ _
+1518,Send worker leaving thread _ _
+1519,Received connection request <*> _ _
+1520,Received connection request <*> _ _
+1521,Send worker leaving thread _ _
+1522,Send worker leaving thread _ _
+1523,Send worker leaving thread _ _
+1524,Interrupted while waiting for message on queue
+1525,Interrupted while waiting for message on queue
+1526,Send worker leaving thread _ _
+1527,Received connection request <*> _ _
+1528,Send worker leaving thread _ _
+1529,Send worker leaving thread _ _
+1530,Interrupted while waiting for message on queue
+1531,Connection broken for id <*> my id = <*> error =
+1532,Connection broken for id <*> my id = <*> error =
+1533,Connection broken for id <*> my id = <*> error =
+1534,Interrupted while waiting for message on queue
+1535,Send worker leaving thread _ _
+1536,Send worker leaving thread _ _
+1537,Interrupting SendWorker _ _ _ _
+1538,Send worker leaving thread _ _
+1539,Received connection request <*> _ _
+1540,Connection broken for id <*> my id = <*> error =
+1541,Connection broken for id <*> my id = <*> error =
+1542,Interrupted while waiting for message on queue
+1543,Interrupting SendWorker _ _ _ _
+1544,Interrupted while waiting for message on queue
+1545,Send worker leaving thread _ _
+1546,Interrupting SendWorker _ _ _ _
+1547,Send worker leaving thread _ _
+1548,Send worker leaving thread _ _
+1549,Interrupting SendWorker _ _ _ _
+1550,Interrupting SendWorker _ _ _ _
+1551,Send worker leaving thread _ _
+1552,Received connection request <*> _ _
+1553,Interrupted while waiting for message on queue
+1554,Received connection request <*> _ _
+1555,Send worker leaving thread _ _
+1556,Connection broken for id <*> my id = <*> error =
+1557,Interrupting SendWorker _ _ _ _
+1558,Interrupted while waiting for message on queue
+1559,Send worker leaving thread _ _
+1560,Interrupting SendWorker _ _ _ _
+1561,Interrupting SendWorker _ _ _ _
+1562,Interrupted while waiting for message on queue
+1563,Received connection request <*> _ _
+1564,Connection broken for id <*> my id = <*> error =
+1565,Send worker leaving thread _ _
+1566,Interrupting SendWorker _ _ _ _
+1567,Received connection request <*> _ _
+1568,Send worker leaving thread _ _
+1569,Connection broken for id <*> my id = <*> error =
+1570,Connection broken for id <*> my id = <*> error =
+1571,Received connection request <*> _ _
+1572,Send worker leaving thread _ _
+1573,Interrupted while waiting for message on queue
+1574,Received connection request <*> _ _
+1575,Connection broken for id <*> my id = <*> error =
+1576,Received connection request <*> _ _
+1577,Interrupting SendWorker _ _ _ _
+1578,Received connection request <*> _ _
+1579,Interrupted while waiting for message on queue
+1580,Interrupted while waiting for message on queue
+1581,Connection broken for id <*> my id = <*> error =
+1582,Received connection request <*> _ _
+1583,Interrupted while waiting for message on queue
+1584,Connection broken for id <*> my id = <*> error =
+1585,Received connection request <*> _ _
+1586,Interrupting SendWorker _ _ _ _
+1587,Send worker leaving thread _ _
+1588,Connection broken for id <*> my id = <*> error =
+1589,Interrupting SendWorker _ _ _ _
+1590,Interrupted while waiting for message on queue
+1591,Interrupted while waiting for message on queue
+1592,Send worker leaving thread _ _
+1593,Interrupting SendWorker _ _ _ _
+1594,Interrupting SendWorker _ _ _ _
+1595,Send worker leaving thread _ _
+1596,Interrupted while waiting for message on queue
+1597,Send worker leaving thread _ _
+1598,Received connection request <*> _ _
+1599,Received connection request <*> _ _
+1600,Received connection request <*> _ _
+1601,Interrupted while waiting for message on queue
+1602,Interrupting SendWorker _ _ _ _
+1603,Interrupted while waiting for message on queue
+1604,Received connection request <*> _ _
+1605,Connection broken for id <*> my id = <*> error =
+1606,Send worker leaving thread _ _
+1607,Interrupted while waiting for message on queue
+1608,Interrupted while waiting for message on queue
+1609,Interrupting SendWorker _ _ _ _
+1610,Received connection request <*> _ _
+1611,Connection broken for id <*> my id = <*> error =
+1612,Send worker leaving thread _ _
+1613,Interrupted while waiting for message on queue
+1614,Interrupting SendWorker _ _ _ _
+1615,Connection broken for id <*> my id = <*> error =
+1616,Received connection request <*> _ _
+1617,Interrupted while waiting for message on queue
+1618,Interrupting SendWorker _ _ _ _
+1619,Received connection request <*> _ _
+1620,Received connection request <*> _ _
+1621,Connection broken for id <*> my id = <*> error =
+1622,Interrupting SendWorker _ _ _ _
+1623,Received connection request <*> _ _
+1624,Interrupting SendWorker _ _ _ _
+1625,Send worker leaving thread _ _
+1626,Connection broken for id <*> my id = <*> error =
+1627,Interrupted while waiting for message on queue
+1628,Interrupted while waiting for message on queue
+1629,Interrupted while waiting for message on queue
+1630,Received connection request <*> _ _
+1631,Interrupted while waiting for message on queue
+1632,Interrupting SendWorker _ _ _ _
+1633,Connection broken for id <*> my id = <*> error =
+1634,Interrupting SendWorker _ _ _ _
+1635,Connection broken for id <*> my id = <*> error =
+1636,Received connection request <*> _ _
+1637,Interrupting SendWorker _ _ _ _
+1638,Interrupted while waiting for message on queue
+1639,Send worker leaving thread _ _
+1640,Interrupted while waiting for message on queue
+1641,Interrupted while waiting for message on queue
+1642,Send worker leaving thread _ _
+1643,Interrupted while waiting for message on queue
+1644,Received connection request <*> _ _
+1645,Connection broken for id <*> my id = <*> error =
+1646,Interrupting SendWorker _ _ _ _
+1647,Interrupted while waiting for message on queue
+1648,Received connection request <*> _ _
+1649,Received connection request <*> _ _
+1650,Interrupting SendWorker _ _ _ _
+1651,Interrupting SendWorker _ _ _ _
+1652,Connection broken for id <*> my id = <*> error =
+1653,Received connection request <*> _ _
+1654,Interrupting SendWorker _ _ _ _
+1655,Received connection request <*> _ _
+1656,Interrupted while waiting for message on queue
+1657,Interrupted while waiting for message on queue
+1658,Received connection request <*> _ _
+1659,Connection broken for id <*> my id = <*> error =
+1660,Interrupting SendWorker _ _ _ _
+1661,Interrupting SendWorker _ _ _ _
+1662,Interrupting SendWorker _ _ _ _
+1663,Received connection request <*> _ _
+1664,Send worker leaving thread _ _
+1665,Received connection request <*> _ _
+1666,Interrupted while waiting for message on queue
+1667,Interrupted while waiting for message on queue
+1668,Connection broken for id <*> my id = <*> error =
+1669,Interrupted while waiting for message on queue
+1670,Received connection request <*> _ _
+1671,Interrupted while waiting for message on queue
+1672,Received connection request <*> _ _
+1673,Send worker leaving thread _ _
+1674,Interrupted while waiting for message on queue
+1675,Send worker leaving thread _ _
+1676,Received connection request <*> _ _
+1677,Send worker leaving thread _ _
+1678,Received connection request <*> _ _
+1679,Received connection request <*> _ _
+1680,Send worker leaving thread _ _
+1681,Interrupting SendWorker _ _ _ _
+1682,Connection broken for id <*> my id = <*> error =
+1683,Interrupted while waiting for message on queue
+1684,Send worker leaving thread _ _
+1685,Send worker leaving thread _ _
+1686,Interrupted while waiting for message on queue
+1687,Received connection request <*> _ _
+1688,Interrupted while waiting for message on queue
+1689,Interrupted while waiting for message on queue
+1690,Connection broken for id <*> my id = <*> error =
+1691,Interrupted while waiting for message on queue
+1692,Interrupted while waiting for message on queue
+1693,Interrupting SendWorker _ _ _ _
+1694,Interrupting SendWorker _ _ _ _
+1695,Connection broken for id <*> my id = <*> error =
+1696,Interrupted while waiting for message on queue
+1697,Connection broken for id <*> my id = <*> error =
+1698,Interrupting SendWorker _ _ _ _
+1699,Interrupting SendWorker _ _ _ _
+1700,Interrupting SendWorker _ _ _ _
+1701,Interrupted while waiting for message on queue
+1702,Received connection request <*> _ _
+1703,Interrupted while waiting for message on queue
+1704,Send worker leaving thread _ _
+1705,Received connection request <*> _ _
+1706,Received connection request <*> _ _
+1707,Interrupting SendWorker _ _ _ _
+1708,Interrupting SendWorker _ _ _ _
+1709,Received connection request <*> _ _
+1710,Connection broken for id <*> my id = <*> error =
+1711,Connection broken for id <*> my id = <*> error =
+1712,Interrupting SendWorker _ _ _ _
+1713,Connection broken for id <*> my id = <*> error =
+1714,Interrupting SendWorker _ _ _ _
+1715,Received connection request <*> _ _
+1716,Interrupted while waiting for message on queue
+1717,Received connection request <*> _ _
+1718,Received connection request <*> _ _
+1719,Connection broken for id <*> my id = <*> error =
+1720,Send worker leaving thread _ _
+1721,Connection broken for id <*> my id = <*> error =
+1722,Interrupted while waiting for message on queue
+1723,Received connection request <*> _ _
+1724,Received connection request <*> _ _
+1725,Send worker leaving thread _ _
+1726,Interrupting SendWorker _ _ _ _
+1727,Interrupted while waiting for message on queue
+1728,Send worker leaving thread _ _
+1729,Interrupted while waiting for message on queue
+1730,Received connection request <*> _ _
+1731,Received connection request <*> _ _
+1732,Interrupted while waiting for message on queue
+1733,Send worker leaving thread _ _
+1734,Received connection request <*> _ _
+1735,Send worker leaving thread _ _
+1736,Connection broken for id <*> my id = <*> error =
+1737,Connection broken for id <*> my id = <*> error =
+1738,Interrupted while waiting for message on queue
+1739,Received connection request <*> _ _
+1740,Connection broken for id <*> my id = <*> error =
+1741,Received connection request <*> _ _
+1742,Send worker leaving thread _ _
+1743,Interrupted while waiting for message on queue
+1744,Connection broken for id <*> my id = <*> error =
+1745,Interrupting SendWorker _ _ _ _
+1746,Connection broken for id <*> my id = <*> error =
+1747,Connection broken for id <*> my id = <*> error =
+1748,Connection broken for id <*> my id = <*> error =
+1749,Send worker leaving thread _ _
+1750,Interrupted while waiting for message on queue
+1751,Interrupted while waiting for message on queue
+1752,Interrupted while waiting for message on queue
+1753,Interrupting SendWorker _ _ _ _
+1754,Connection broken for id <*> my id = <*> error =
+1755,Interrupting SendWorker _ _ _ _
+1756,Connection broken for id <*> my id = <*> error =
+1757,Interrupted while waiting for message on queue
+1758,Send worker leaving thread _ _
+1759,Received connection request <*> _ _
+1760,Connection broken for id <*> my id = <*> error =
+1761,Connection broken for id <*> my id = <*> error =
+1762,Interrupting SendWorker _ _ _ _
+1763,Connection broken for id <*> my id = <*> error =
+1764,Interrupting SendWorker _ _ _ _
+1765,Send worker leaving thread _ _
+1766,Received connection request <*> _ _
+1767,Send worker leaving thread _ _
+1768,Interrupted while waiting for message on queue
+1769,Interrupted while waiting for message on queue
+1770,Received connection request <*> _ _
+1771,Interrupted while waiting for message on queue
+1772,Received connection request <*> _ _
+1773,Connection broken for id <*> my id = <*> error =
+1774,Received connection request <*> _ _
+1775,Interrupted while waiting for message on queue
+1776,Interrupted while waiting for message on queue
+1777,Interrupting SendWorker _ _ _ _
+1778,Send worker leaving thread _ _
+1779,Connection broken for id <*> my id = <*> error =
+1780,Send worker leaving thread _ _
+1781,Interrupting SendWorker _ _ _ _
+1782,Interrupted while waiting for message on queue
+1783,Interrupted while waiting for message on queue
+1784,Received connection request <*> _ _
+1785,Interrupting SendWorker _ _ _ _
+1786,Received connection request <*> _ _
+1787,Received connection request <*> _ _
+1788,Interrupted while waiting for message on queue
+1789,Received connection request <*> _ _
+1790,Send worker leaving thread _ _
+1791,Interrupted while waiting for message on queue
+1792,Connection broken for id <*> my id = <*> error =
+1793,Connection broken for id <*> my id = <*> error =
+1794,Interrupting SendWorker _ _ _ _
+1795,Interrupting SendWorker _ _ _ _
+1796,Send worker leaving thread _ _
+1797,Connection broken for id <*> my id = <*> error =
+1798,Connection broken for id <*> my id = <*> error =
+1799,Interrupting SendWorker _ _ _ _
+1800,Received connection request <*> _ _
+1801,Interrupted while waiting for message on queue
+1802,Interrupted while waiting for message on queue
+1803,Interrupting SendWorker _ _ _ _
+1804,Received connection request <*> _ _
+1805,Send worker leaving thread _ _
+1806,Connection broken for id <*> my id = <*> error =
+1807,Connection broken for id <*> my id = <*> error =
+1808,Interrupted while waiting for message on queue
+1809,Received connection request <*> _ _
+1810,Send worker leaving thread _ _
+1811,Interrupting SendWorker _ _ _ _
+1812,Connection broken for id <*> my id = <*> error =
+1813,Connection broken for id <*> my id = <*> error =
+1814,Interrupting SendWorker _ _ _ _
+1815,Received connection request <*> _ _
+1816,Send worker leaving thread _ _
+1817,Received connection request <*> _ _
+1818,Send worker leaving thread _ _
+1819,Connection broken for id <*> my id = <*> error =
+1820,Interrupting SendWorker _ _ _ _
+1821,Interrupted while waiting for message on queue
+1822,Interrupted while waiting for message on queue
+1823,Send worker leaving thread _ _
+1824,Interrupted while waiting for message on queue
+1825,Received connection request <*> _ _
+1826,Connection broken for id <*> my id = <*> error =
+1827,Connection broken for id <*> my id = <*> error =
+1828,Interrupting SendWorker _ _ _ _
+1829,Received connection request <*> _ _
+1830,Interrupted while waiting for message on queue
+1831,Connection broken for id <*> my id = <*> error =
+1832,Received connection request <*> _ _
+1833,Interrupted while waiting for message on queue
+1834,Connection broken for id <*> my id = <*> error =
+1835,Connection broken for id <*> my id = <*> error =
+1836,Connection broken for id <*> my id = <*> error =
+1837,Send worker leaving thread _ _
+1838,Interrupting SendWorker _ _ _ _
+1839,Received connection request <*> _ _
+1840,Connection broken for id <*> my id = <*> error =
+1841,Send worker leaving thread _ _
+1842,Received connection request <*> _ _
+1843,Interrupted while waiting for message on queue
+1844,Connection broken for id <*> my id = <*> error =
+1845,Received connection request <*> _ _
+1846,Connection broken for id <*> my id = <*> error =
+1847,Connection broken for id <*> my id = <*> error =
+1848,Interrupting SendWorker _ _ _ _
+1849,Interrupting SendWorker _ _ _ _
+1850,Connection broken for id <*> my id = <*> error =
+1851,Interrupting SendWorker _ _ _ _
+1852,Interrupted while waiting for message on queue
+1853,Interrupted while waiting for message on queue
+1854,Connection broken for id <*> my id = <*> error =
+1855,Connection broken for id <*> my id = <*> error =
+1856,Connection broken for id <*> my id = <*> error =
+1857,Received connection request <*> _ _
+1858,Send worker leaving thread _ _
+1859,Interrupting SendWorker _ _ _ _
+1860,Interrupting SendWorker _ _ _ _
+1861,Connection broken for id <*> my id = <*> error =
+1862,Received connection request <*> _ _
+1863,Interrupted while waiting for message on queue
+1864,Connection broken for id <*> my id = <*> error =
+1865,Connection broken for id <*> my id = <*> error =
+1866,Received connection request <*> _ _
+1867,Interrupted while waiting for message on queue
+1868,Received connection request <*> _ _
+1869,Interrupted while waiting for message on queue
+1870,Connection broken for id <*> my id = <*> error =
+1871,Interrupting SendWorker _ _ _ _
+1872,Received connection request <*> _ _
+1873,Connection broken for id <*> my id = <*> error =
+1874,Interrupted while waiting for message on queue
+1875,Received connection request <*> _ _
+1876,Connection broken for id <*> my id = <*> error =
+1877,Received connection request <*> _ _
+1878,Interrupting SendWorker _ _ _ _
+1879,Interrupted while waiting for message on queue
+1880,Connection broken for id <*> my id = <*> error =
+1881,Connection broken for id <*> my id = <*> error =
+1882,Received connection request <*> _ _
+1883,Interrupted while waiting for message on queue
+1884,Interrupted while waiting for message on queue
+1885,Received connection request <*> _ _
+1886,Connection broken for id <*> my id = <*> error =
+1887,Connection broken for id <*> my id = <*> error =
+1888,Interrupting SendWorker _ _ _ _
+1889,Connection broken for id <*> my id = <*> error =
+1890,Interrupted while waiting for message on queue
+1891,Received connection request <*> _ _
+1892,Interrupted while waiting for message on queue
+1893,Send worker leaving thread _ _
+1894,Received connection request <*> _ _
+1895,Interrupting SendWorker _ _ _ _
+1896,Send worker leaving thread _ _
+1897,Received connection request <*> _ _
+1898,Send worker leaving thread _ _
+1899,Send worker leaving thread _ _
+1900,Received connection request <*> _ _
+1901,Received connection request <*> _ _
+1902,Interrupted while waiting for message on queue
+1903,Received connection request <*> _ _
+1904,Received connection request <*> _ _
+1905,Received connection request <*> _ _
+1906,Connection broken for id <*> my id = <*> error =
+1907,Connection broken for id <*> my id = <*> error =
+1908,Send worker leaving thread _ _
+1909,Connection broken for id <*> my id = <*> error =
+1910,Interrupted while waiting for message on queue
+1911,Received connection request <*> _ _
+1912,Received connection request <*> _ _
+1913,Connection broken for id <*> my id = <*> error =
+1914,Send worker leaving thread _ _
+1915,Interrupting SendWorker _ _ _ _
+1916,Interrupted while waiting for message on queue
+1917,Received connection request <*> _ _
+1918,Connection broken for id <*> my id = <*> error =
+1919,Interrupting SendWorker _ _ _ _
+1920,Closed socket connection for client <*> (no session established for client)
+1921,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1922,Closed socket connection for client <*> (no session established for client)
+1923,Accepted socket connection from <*>
+1924,Accepted socket connection from <*>
+1925,Established session <*> with negotiated timeout <*> for client <*>
+1926,Connection request from old client <*> will be dropped if server is in r-o mode
+1927,Accepted socket connection from <*>
+1928,Client attempting to establish new session at <*>
+1929,Client attempting to establish new session at <*>
+1930,caught end of stream exception
+1931,Established session <*> with negotiated timeout <*> for client <*>
+1932,Established session <*> with negotiated timeout <*> for client <*>
+1933,Client attempting to establish new session at <*>
+1934,Accepted socket connection from <*>
+1935,Accepted socket connection from <*>
+1936,caught end of stream exception
+1937,Accepted socket connection from <*>
+1938,Closed socket connection for client <*> which had sessionid <*>
+1939,caught end of stream exception
+1940,Client attempting to establish new session at <*>
+1941,Established session <*> with negotiated timeout <*> for client <*>
+1942,Connection request from old client <*> will be dropped if server is in r-o mode
+1943,Accepted socket connection from <*>
+1944,Closed socket connection for client <*> which had sessionid <*>
+1945,Closed socket connection for client <*> which had sessionid <*>
+1946,caught end of stream exception
+1947,Accepted socket connection from <*>
+1948,Connection request from old client <*> will be dropped if server is in r-o mode
+1949,Connection request from old client <*> will be dropped if server is in r-o mode
+1950,Closed socket connection for client <*> which had sessionid <*>
+1951,Accepted socket connection from <*>
+1952,Accepted socket connection from <*>
+1953,Accepted socket connection from <*>
+1954,caught end of stream exception
+1955,Connection broken for id <*> my id = <*> error =
+1956,Established session <*> with negotiated timeout <*> for client <*>
+1957,LOOKING _ _ _ _ _
+1958,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1959,Accepted socket connection from <*>
+1960,Connection request from old client <*> will be dropped if server is in r-o mode
+1961,Established session <*> with negotiated timeout <*> for client <*>
+1962,Established session <*> with negotiated timeout <*> for client <*>
+1963,Established session <*> with negotiated timeout <*> for client <*>
+1964,Connection request from old client <*> will be dropped if server is in r-o mode
+1965,Client attempting to establish new session at <*>
+1966,Accepted socket connection from <*>
+1967,Closed socket connection for client <*> which had sessionid <*>
+1968,Closed socket connection for client <*> which had sessionid <*>
+1969,Client attempting to establish new session at <*>
+1970,Connection request from old client <*> will be dropped if server is in r-o mode
+1971,Client attempting to establish new session at <*>
+1972,Established session <*> with negotiated timeout <*> for client <*>
+1973,caught end of stream exception
+1974,minSessionTimeout set to -1 _ _
+1975,Server <*> <*> _ _ _
+1976,Server <*> <*> _ _ _
+1977,Established session <*> with negotiated timeout <*> for client <*>
+1978,Accepted socket connection from <*>
+1979,Accepted socket connection from <*>
+1980,Closed socket connection for client <*> which had sessionid <*>
+1981,caught end of stream exception
+1982,Established session <*> with negotiated timeout <*> for client <*>
+1983,Closed socket connection for client <*> which had sessionid <*>
+1984,Established session <*> with negotiated timeout <*> for client <*>
+1985,Connection request from old client <*> will be dropped if server is in r-o mode
+1986,Connection request from old client <*> will be dropped if server is in r-o mode
+1987,Received connection request <*> _ _
+1988,minSessionTimeout set to -1 _ _
+1989,Server <*> <*> _ _ _
+1990,Getting a snapshot from leader
+1991,Closed socket connection for client <*> which had sessionid <*>
+1992,Accepted socket connection from <*>
+1993,Established session <*> with negotiated timeout <*> for client <*>
+1994,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+1995,Client attempting to establish new session at <*>
+1996,Closed socket connection for client <*> which had sessionid <*>
+1997,Expiring session <*> timeout of <*> exceeded
+1998,Expiring session <*> timeout of <*> exceeded
+1999,Processed session termination for sessionid: <*>
