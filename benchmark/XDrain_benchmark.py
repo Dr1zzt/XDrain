@@ -15,190 +15,190 @@ input_dir = '../logs/' # The input directory of log file
 output_dir = 'XDrain_result/' # The output directory of parsing results
 
 benchmark_settings = {
-    # 'HDFS': {
-    #     'log_file': 'HDFS/HDFS_2k.log',
-    #     'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
-    #     'regex': [r'blk_-?\d+', r'[/]?(\d+\.){3}\d+(:\d+)?'],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.1,
-    #     'depth': 6
-    #     },
-    #
-    #
-    # 'Hadoop': {
-    #     'log_file': 'Hadoop/Hadoop_2k.log',
-    #     'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>',
-    #     'regex': [r'\[.*?(_.*?)+\]', ],
-    #     'filter': [],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'st': 0.6,
-    #     'depth': 5
-    #     },
-    #
-    #
-    # 'Spark': {
-    #     'log_file': 'Spark/Spark_2k.log',
-    #     'log_format': '<Date> <Time> <Level> <Component>: <Content>',
-    #     'regex': [],
-    #     'filter': [],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'st': 0.1,
-    #     'depth': 7
-    #     },
-    #
-    #
-    # 'Zookeeper': {
-    #     'log_file': 'Zookeeper/Zookeeper_2k.log',
-    #     'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>',
-    #     'regex': [],
-    #     'filter': [],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'st': 0.1,
-    #     'depth': 7
-    #     },
-    #
-    #
-    # 'BGL': {
-    #     'log_file': 'BGL/BGL_2k.log',
-    #     'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
-    #     'regex': [],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.4,
-    #     'depth': 4
-    #     },
-    #
-    #
-    # 'HPC': {
-    #     'log_file': 'HPC/HPC_2k.log',
-    #     'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>',
-    #     'regex': [r'=\d+'],
-    #     'filter': [],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'st': 0.1,
-    #     'depth': 7
-    #     },
-    #
-    #
-    # 'Thunderbird': {
-    #     'log_file': 'Thunderbird/Thunderbird_2k.log',
-    #     'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
-    #     'regex': [r'(\d+\.){3}\d+'],
-    #     'filter': [],
-    #     'index_list': [0,],
-    #     'st': 0.3,
-    #     'depth': 4
-    #     },
-    #
-    #
-    # 'Windows': {
-    #     'log_file': 'Windows/Windows_2k.log',
-    #     'log_format': '<Date> <Time>, <Level>                  <Component>    <Content>',
-    #     'regex': [r'0x.*?\s'],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.7,
-    #     'depth': 4
-    #     },
-    #
-    #
-    # 'Linux': {
-    #     'log_file': 'Linux_corrected/Linux_2k.log',
-    #     'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
-    #     'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}'],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.1,
-    #     'depth': 5,
-    #     },
-    #
-    #
-    # 'Andriod': {
-    #     'log_file': 'Andriod/Andriod_2k.log',
-    #     'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
-    #     'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b',
-    #               r'-\<\*\>'],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.9,
-    #     'depth': 7
-    #     },
-    #
-    #
-    # 'HealthApp': {
-    #     'log_file': 'HealthApp/HealthApp_2k.log',
-    #     'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
-    #     'regex': [],
-    #     'filter': [],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'st': 0.4,
-    #     'depth': 8
-    #     },
-    #
-    #
-    # 'Apache': {
-    #     'log_file': 'Apache/Apache_2k.log',
-    #     'log_format': '\[<Time>\] \[<Level>\] <Content>',
-    #     'regex': [r'\/(?:\w+\/){2,}\w+\.\w+$'],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.5,
-    #     'depth': 4
-    #     },
-    #
-    #
-    # 'Proxifier': {
-    #     'log_file': 'Proxifier/Proxifier_2k.log',
-    #     'log_format': '\[<Time>\] <Program> - <Content>',
-    #     'regex': [r'<\d+\ssec', r'([\w-]+\.)+[\w-]+(:\d+)?', r'\d{2}:\d{2}(:\d{2})*', r'[KGTM]B'],
-    #     "filter": [r' \(\d+(\.\d+)?\s(?:K|M)B\)', ],
-    #     'index_list': [0, ],
-    #     'st': 0.6,
-    #     'depth': 2
-    #     },
-    #
-    #
-    # 'OpenSSH': {
-    #     'log_file': 'OpenSSH/OpenSSH_2k.log',
-    #     'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
-    #     'regex': [r"(\d+):"],
-    #     'filter': [],
-    #     'index_list': [0, ],
-    #     'st': 0.6,
-    #     'depth': 5
-    #     },
-    #
-    #
-    # 'OpenStack': {
-    #     'log_file': 'OpenStack/OpenStack_2k.log',
-    #     'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>',
-    #     'regex': ["(\w+-\w+-\w+-\w+-\w+)", r'HTTP\/\d+\.\d+'],
-    #     'filter': [r'HTTP\/\d+\.\d+', ],
-    #     'index_list': [0, 1, 2],
-    #     'st': 0.1,
-    #     'depth': 9
-    #     },
+    'HDFS': {
+        'log_file': 'HDFS/HDFS_2k.log',
+        'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
+        'regex': [r'blk_-?\d+', r'[/]?(\d+\.){3}\d+(:\d+)?'],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.1,
+        'depth': 6
+        },
 
-    # 'Mac': {
-    #     'log_file': 'Mac/Mac_2k.log',
-    #     'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
-    #     'regex': [r'([\w-]+\.){2,}[\w-]+'],
-    #     'index_list': [0, 1, 2, 3, 4],
-    #     'filter': [],
-    #     'st': 0.6,
-    #     'depth': 7
-    #     },
 
-    # 'Thunderbird_expand': {
-    #     'log_file': 'Thunderbird_expand/Thunderbird_2k.log',
-    #     'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
-    #     'index_list': [0, 1, 2],
-    #     'regex': [],
-    #     'filter': [],
-    #     'st': 0.6,
-    #     'depth': 2
-    # },
+    'Hadoop': {
+        'log_file': 'Hadoop/Hadoop_2k.log',
+        'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>',
+        'regex': [r'\[.*?(_.*?)+\]', ],
+        'filter': [],
+        'index_list': [0, 1, 2, 3, 4],
+        'st': 0.6,
+        'depth': 5
+        },
+
+
+    'Spark': {
+        'log_file': 'Spark/Spark_2k.log',
+        'log_format': '<Date> <Time> <Level> <Component>: <Content>',
+        'regex': [],
+        'filter': [],
+        'index_list': [0, 1, 2, 3, 4],
+        'st': 0.1,
+        'depth': 7
+        },
+
+
+    'Zookeeper': {
+        'log_file': 'Zookeeper/Zookeeper_2k.log',
+        'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>',
+        'regex': [],
+        'filter': [],
+        'index_list': [0, 1, 2, 3, 4],
+        'st': 0.1,
+        'depth': 7
+        },
+
+
+    'BGL': {
+        'log_file': 'BGL/BGL_2k.log',
+        'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
+        'regex': [],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.4,
+        'depth': 4
+        },
+
+
+    'HPC': {
+        'log_file': 'HPC/HPC_2k.log',
+        'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>',
+        'regex': [r'=\d+'],
+        'filter': [],
+        'index_list': [0, 1, 2, 3, 4],
+        'st': 0.1,
+        'depth': 7
+        },
+
+
+    'Thunderbird': {
+        'log_file': 'Thunderbird/Thunderbird_2k.log',
+        'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
+        'regex': [r'(\d+\.){3}\d+'],
+        'filter': [],
+        'index_list': [0,],
+        'st': 0.3,
+        'depth': 4
+        },
+
+
+    'Windows': {
+        'log_file': 'Windows/Windows_2k.log',
+        'log_format': '<Date> <Time>, <Level>                  <Component>    <Content>',
+        'regex': [r'0x.*?\s'],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.7,
+        'depth': 4
+        },
+
+
+    'Linux': {
+        'log_file': 'Linux_corrected/Linux_2k.log',
+        'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
+        'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}'],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.1,
+        'depth': 5,
+        },
+
+
+    'Andriod': {
+        'log_file': 'Andriod/Andriod_2k.log',
+        'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
+        'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b',
+                  r'-\<\*\>'],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.9,
+        'depth': 7
+        },
+
+
+    'HealthApp': {
+        'log_file': 'HealthApp/HealthApp_2k.log',
+        'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
+        'regex': [],
+        'filter': [],
+        'index_list': [0, 1, 2, 3, 4],
+        'st': 0.4,
+        'depth': 8
+        },
+
+
+    'Apache': {
+        'log_file': 'Apache/Apache_2k.log',
+        'log_format': '\[<Time>\] \[<Level>\] <Content>',
+        'regex': [r'\/(?:\w+\/){2,}\w+\.\w+$'],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.5,
+        'depth': 4
+        },
+
+
+    'Proxifier': {
+        'log_file': 'Proxifier/Proxifier_2k.log',
+        'log_format': '\[<Time>\] <Program> - <Content>',
+        'regex': [r'<\d+\ssec', r'([\w-]+\.)+[\w-]+(:\d+)?', r'\d{2}:\d{2}(:\d{2})*', r'[KGTM]B'],
+        "filter": [r' \(\d+(\.\d+)?\s(?:K|M)B\)', ],
+        'index_list': [0, ],
+        'st': 0.6,
+        'depth': 2
+        },
+
+
+    'OpenSSH': {
+        'log_file': 'OpenSSH/OpenSSH_2k.log',
+        'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
+        'regex': [r"(\d+):"],
+        'filter': [],
+        'index_list': [0, ],
+        'st': 0.6,
+        'depth': 5
+        },
+
+
+    'OpenStack': {
+        'log_file': 'OpenStack/OpenStack_2k.log',
+        'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>',
+        'regex': ["(\w+-\w+-\w+-\w+-\w+)", r'HTTP\/\d+\.\d+'],
+        'filter': [r'HTTP\/\d+\.\d+', ],
+        'index_list': [0, 1, 2],
+        'st': 0.1,
+        'depth': 9
+        },
+
+    'Mac': {
+        'log_file': 'Mac/Mac_2k.log',
+        'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
+        'regex': [r'([\w-]+\.){2,}[\w-]+'],
+        'index_list': [0, 1, 2, 3, 4],
+        'filter': [],
+        'st': 0.6,
+        'depth': 7
+        },
+
+    'Thunderbird_expand': {
+        'log_file': 'Thunderbird_expand/Thunderbird_2k.log',
+        'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
+        'index_list': [0, 1, 2],
+        'regex': [],
+        'filter': [],
+        'st': 0.6,
+        'depth': 2
+    },
 }
 
 
@@ -332,24 +332,10 @@ for dataset, setting in benchmark_settings.items():
             x = groundtruth[groundtruth == groundtruth_eventId]
             if logIds.size == groundtruth[groundtruth == groundtruth_eventId].size:
                 count += logIds.size
-        #     else:
-        #         print(logIds.size,groundtruth[groundtruth == groundtruth_eventId].size)
-        #         a = list(logIds)
-        #         b = list(x.index)
-        #         for i in a:
-        #             if i not in b:
-        #                 print(i)
-        #         for i in b:
-        #             if i not in a:
-        #                 print(i)
-        #         print("====================="+groundtruth_eventId)
-        # else:
-        #     print(str(logIds))
-        #     print("========================"+parsed_eventId)
     accuracy = float(count) / data.size
     print(accuracy)
 
-# word level accuracy
+## evolution word level accuracy
 # for dataset, setting in benchmark_settings.items():
 #     print('\n=== Evaluation on %s ==='%dataset)
 #     indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
