@@ -33,7 +33,7 @@ class Node:
 
 class LogParser:
     def __init__(self, log_format, indir='./', outdir='./result/', depth=4, st=0.4, filter=[],
-                 maxChild=100, rex=[], index_list=[], keep_para=True, index=0, batch_size=200):
+                 maxChild=100, rex=[], index_list=[], keep_para=True, index=0, batch_size=2000):
         """
         Attributes
         ----------
@@ -63,7 +63,6 @@ class LogParser:
     def hasNumbers(self, s):
         return any(char.isdigit() for char in s)
 
-    # 重点,树的作用是更快的找到目标模板
     def treeSearch(self, rn, seq):
         retLogClust = None
 
@@ -72,7 +71,6 @@ class LogParser:
             return retLogClust
 
         parentn = rn.childD[seqLen]
-        # 和论文中的思路相同 根据depth
         currentDepth = 1
         for token in seq:
             if currentDepth >= self.depth or currentDepth > seqLen:
@@ -168,7 +166,6 @@ class LogParser:
 
         return retVal, numOfPar
 
-    # 判断距离小于阈值则匹配
     def fastMatch(self, logClustL, seq):
         retLogClust = None
 
@@ -217,26 +214,8 @@ class LogParser:
                 log_templateids[logID] = template_id
             df_events.append([template_id, template_str, occurrence])
 
-        # df_event = pd.DataFrame(df_events, columns=['EventId', 'EventTemplate', 'Occurrences'])
         self.df_log['EventId'] = log_templateids
         self.df_log['EventTemplate'] = log_templates
-        # if self.keep_para:
-        #     self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-
-
-
-        # self.df_log.to_csv(os.path.join(self.savePath, self.logName + '_structured.csv'), index=False)
-        #
-        # occ_dict = dict(self.df_log['EventTemplate'].value_counts())
-        # df_event = pd.DataFrame()
-        # df_event['EventTemplate'] = self.df_log['EventTemplate'].unique()
-        # if self.index:
-        #     df_event['EventTemplate'] = df_event['EventTemplate'].map(
-        #         lambda foobar: " ".join(foobar.split(" ")[-self.index:]) + " " + " ".join(foobar.split(" ")[:-self.index]))
-        # df_event['EventId'] = df_event['EventTemplate'].map(lambda x: hashlib.md5(x.encode('utf-8')).hexdigest()[0:8])
-        # df_event['Occurrences'] = df_event['EventTemplate'].map(occ_dict)
-        # df_event.to_csv(os.path.join(self.savePath, self.logName + '_templates.csv'), index=False, columns=["EventId", "EventTemplate", "Occurrences"])
-
     def printTree(self, node, dep):
         pStr = ''
         for i in range(dep):
@@ -278,7 +257,6 @@ class LogParser:
                     matchCluster = self.treeSearch(rootNode, message)
                     #Match no existing log cluster
                     if matchCluster is None:
-                        # 树用来判断模板的
                         newCluster = Logcluster(logTemplate=message, logIDL=logDict[item])
                         logCluL.append(newCluster)
                         self.addSeqToPrefixTree(rootNode, newCluster)
@@ -297,7 +275,6 @@ class LogParser:
         self.outputResult(logCluL)
 
     def preprocess(self, line):
-        # 在这部分进行index处的修改
         index_length = len(self.index_list)
         for currentFil in self.filter:
             line = re.sub(currentFil, '', line)
